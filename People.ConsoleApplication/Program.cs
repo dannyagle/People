@@ -41,8 +41,8 @@ namespace People.ConsoleApplication
                 Console.WriteLine("Press 'q' to quit, Enter to search again, or a number and Enter to get a different quantity.");
                 userInput = Console.ReadLine();
 
-                int.TryParse(userInput, out quantity);
-                if (quantity == 0) quantity = 10;
+                if (userInput != string.Empty)
+                    int.TryParse(userInput, out quantity);
 
             } while (userInput != "q");
         }
