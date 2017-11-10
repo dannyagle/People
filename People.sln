@@ -1,13 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.12
+VisualStudioVersion = 15.0.27004.2008
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "People.Common", "People.Common\People.Common.csproj", "{61AA9B32-4DAE-4E6F-BB3A-87A2AB8DFAA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "People.Common", "People.Common\People.Common.csproj", "{61AA9B32-4DAE-4E6F-BB3A-87A2AB8DFAA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "People.ConsoleApplication", "People.ConsoleApplication\People.ConsoleApplication.csproj", "{CD7C84C9-D4BF-4882-A8C5-6365F5176D71}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "People.Manager.Tests", "People.Manager.Tests\People.Manager.Tests.csproj", "{03FB138E-EEE6-4C60-8C44-BE5918C99C40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "People.ConsoleApplication", "People.ConsoleApplication\People.ConsoleApplication.csproj", "{CD7C84C9-D4BF-4882-A8C5-6365F5176D71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +21,6 @@ Global
 		{CD7C84C9-D4BF-4882-A8C5-6365F5176D71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD7C84C9-D4BF-4882-A8C5-6365F5176D71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD7C84C9-D4BF-4882-A8C5-6365F5176D71}.Release|Any CPU.Build.0 = Release|Any CPU
-		{03FB138E-EEE6-4C60-8C44-BE5918C99C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{03FB138E-EEE6-4C60-8C44-BE5918C99C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{03FB138E-EEE6-4C60-8C44-BE5918C99C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{03FB138E-EEE6-4C60-8C44-BE5918C99C40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
