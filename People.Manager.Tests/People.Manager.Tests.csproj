@@ -64,13 +64,13 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\People.Manager\People.Manager.csproj">
-      <Project>{1fe191c3-04c3-427d-8e5d-d4eb6e5f28db}</Project>
-      <Name>People.Manager</Name>
-    </ProjectReference>
+    <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="packages.config" />
+    <ProjectReference Include="..\People.Common\People.Common.csproj">
+      <Project>{61aa9b32-4dae-4e6f-bb3a-87a2ab8dfaa0}</Project>
+      <Name>People.Common</Name>
+    </ProjectReference>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

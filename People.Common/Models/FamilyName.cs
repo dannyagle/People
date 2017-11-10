@@ -1,6 +1,6 @@
-﻿namespace People.Manager
+﻿namespace People.Common.Models
 {
-    public class Family
+    public class FamilyName
     {
         public string Name { get; set; }
         public int Rank { get; set; }
