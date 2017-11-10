@@ -76,17 +76,17 @@ namespace People.Common
 
         private string GetFemaleName()
         {
-            return _femaleNames[_random.Next(1, _femaleNames.Count) - 1].Name;
+            return _textInfo.ToTitleCase(_femaleNames[_random.Next(1, _femaleNames.Count) - 1].Name.ToLower());
         }
 
         private string GetMaleName()
         {
-            return _maleNames[_random.Next(1, _maleNames.Count) - 1].Name;
+            return _textInfo.ToTitleCase(_maleNames[_random.Next(1, _maleNames.Count) - 1].Name.ToLower());
         }
 
         private string GetFamilyName()
         {
-            return _familyNames[_random.Next(1, _familyNames.Count) - 1].Name;
+            return _textInfo.ToTitleCase(_familyNames[_random.Next(1, _familyNames.Count) - 1].Name.ToLower());
         }
 
     }
