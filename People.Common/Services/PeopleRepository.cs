@@ -1,14 +1,14 @@
 ﻿using Newtonsoft.Json;
-using People.Common.Interfaces;
 using People.Common.Models;
 using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.IO;
+using System.Threading.Tasks;
 
-namespace People.Common
+namespace People.Common.Services
 {
-    public class PeopleResource : IPeopleResource
+    public class PeopleRepository : IPeopleRepository
     {
         private List<FamilyName> _familyNames = new List<FamilyName>();
         private List<GivenName> _maleNames = new List<GivenName>();
@@ -17,13 +17,14 @@ namespace People.Common
         private TextInfo _textInfo = null;
         private static readonly Random _random = new Random();
 
-        public PeopleResource()
+        public PeopleRepository()
         {
             LoadData();
             _textInfo = new CultureInfo("en-US").TextInfo;
         }
 
-        public Person GetPerson(Gender gender, string familyName)
+
+        public async Task<Person> GetPersonAsync(Gender gender, string familyName)
         {
             var person = new Person();
 
@@ -52,6 +53,7 @@ namespace People.Common
 
             return person;
         }
+
 
         private void LoadData()
         {

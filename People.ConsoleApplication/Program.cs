@@ -1,18 +1,18 @@
 ﻿using System;
 using System.Diagnostics;
+using System.Threading.Tasks;
 
 namespace People.ConsoleApplication
 {
     class Program
     {
-        static void Main(string[] args)
+        static async Task Main(string[] args)
         {
             var stopWatch = new Stopwatch();
             
             // normally done by DI, but taking a short cut here.
-            var resource = new People.Common.PeopleResource();
-            var engine = new People.Common.PeopleEngine(resource);
-            var manager = new People.Common.PeopleManager(engine);
+            var repository = new People.Common.Services.PeopleRepository();
+            var peopleService = new People.Common.Services.PeopleService(repository);
 
             var quantity = 10;
             var userInput = "q";
@@ -22,7 +22,7 @@ namespace People.ConsoleApplication
                 Console.Clear();
 
                 stopWatch.Restart();
-                var people = manager.GetPersons(quantity);
+                var people = await peopleService.GetPersonsAsync(quantity);
                 stopWatch.Stop();
 
                 Console.WriteLine($"Generated {quantity} people in {stopWatch.ElapsedMilliseconds} milliseonds");
