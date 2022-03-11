@@ -1,8 +1,7 @@
-﻿namespace People.Common.Models
+﻿namespace People.Common.Models;
+
+internal class GivenName : INameRecord
 {
-    public class GivenName
-    {
-        public string Name { get; set; }
-        public decimal Frequency { get; set; }
-    }
+    public string Name { get; set; }
+    public decimal Frequency { get; set; }
 }

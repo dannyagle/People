@@ -1,999 +1,5996 @@
-[{"Name":"SMITH ","Rank":1,"Total ":2376206,"Per100K ":880.85},
-{"Name":"JOHNSON ","Rank":2,"Total ":1857160,"Per100K ":688.44},
-{"Name":"WILLIAMS ","Rank":3,"Total ":1534042,"Per100K ":568.66},
-{"Name":"BROWN ","Rank":4,"Total ":1380145,"Per100K ":511.62},
-{"Name":"JONES ","Rank":5,"Total ":1362755,"Per100K ":505.17},
-{"Name":"MILLER ","Rank":6,"Total ":1127803,"Per100K ":418.07},
-{"Name":"DAVIS ","Rank":7,"Total ":1072335,"Per100K ":397.51},
-{"Name":"GARCIA ","Rank":8,"Total ":858289,"Per100K ":318.17},
-{"Name":"RODRIGUEZ ","Rank":9,"Total ":804240,"Per100K ":298.13},
-{"Name":"WILSON ","Rank":10,"Total ":783051,"Per100K ":290.27},
-{"Name":"MARTINEZ ","Rank":11,"Total ":775072,"Per100K ":287.32},
-{"Name":"ANDERSON ","Rank":12,"Total ":762394,"Per100K ":282.62},
-{"Name":"TAYLOR ","Rank":13,"Total ":720370,"Per100K ":267.04},
-{"Name":"THOMAS ","Rank":14,"Total ":710696,"Per100K ":263.45},
-{"Name":"HERNANDEZ ","Rank":15,"Total ":706372,"Per100K ":261.85},
-{"Name":"MOORE ","Rank":16,"Total ":698671,"Per100K ":259},
-{"Name":"MARTIN ","Rank":17,"Total ":672711,"Per100K ":249.37},
-{"Name":"JACKSON ","Rank":18,"Total ":666125,"Per100K ":246.93},
-{"Name":"THOMPSON ","Rank":19,"Total ":644368,"Per100K ":238.87},
-{"Name":"WHITE ","Rank":20,"Total ":639515,"Per100K ":237.07},
-{"Name":"LOPEZ ","Rank":21,"Total ":621536,"Per100K ":230.4},
-{"Name":"LEE ","Rank":22,"Total ":605860,"Per100K ":224.59},
-{"Name":"GONZALEZ ","Rank":23,"Total ":597718,"Per100K ":221.57},
-{"Name":"HARRIS ","Rank":24,"Total ":593542,"Per100K ":220.02},
-{"Name":"CLARK ","Rank":25,"Total ":548369,"Per100K ":203.28},
-{"Name":"LEWIS ","Rank":26,"Total ":509930,"Per100K ":189.03},
-{"Name":"ROBINSON ","Rank":27,"Total ":503028,"Per100K ":186.47},
-{"Name":"WALKER ","Rank":28,"Total ":501307,"Per100K ":185.83},
-{"Name":"PEREZ ","Rank":29,"Total ":488521,"Per100K ":181.09},
-{"Name":"HALL ","Rank":30,"Total ":473568,"Per100K ":175.55},
-{"Name":"YOUNG ","Rank":31,"Total ":465948,"Per100K ":172.73},
-{"Name":"ALLEN ","Rank":32,"Total ":463368,"Per100K ":171.77},
-{"Name":"SANCHEZ ","Rank":33,"Total ":441242,"Per100K ":163.57},
-{"Name":"WRIGHT ","Rank":34,"Total ":440367,"Per100K ":163.24},
-{"Name":"KING ","Rank":35,"Total ":438986,"Per100K ":162.73},
-{"Name":"SCOTT ","Rank":36,"Total ":420091,"Per100K ":155.73},
-{"Name":"GREEN ","Rank":37,"Total ":413477,"Per100K ":153.27},
-{"Name":"BAKER ","Rank":38,"Total ":413351,"Per100K ":153.23},
-{"Name":"ADAMS ","Rank":39,"Total ":413086,"Per100K ":153.13},
-{"Name":"NELSON ","Rank":40,"Total ":412236,"Per100K ":152.81},
-{"Name":"HILL ","Rank":41,"Total ":411770,"Per100K ":152.64},
-{"Name":"RAMIREZ ","Rank":42,"Total ":388987,"Per100K ":144.2},
-{"Name":"CAMPBELL ","Rank":43,"Total ":371953,"Per100K ":137.88},
-{"Name":"MITCHELL ","Rank":44,"Total ":367433,"Per100K ":136.21},
-{"Name":"ROBERTS ","Rank":45,"Total ":366215,"Per100K ":135.75},
-{"Name":"CARTER ","Rank":46,"Total ":362548,"Per100K ":134.4},
-{"Name":"PHILLIPS ","Rank":47,"Total ":351848,"Per100K ":130.43},
-{"Name":"EVANS ","Rank":48,"Total ":342237,"Per100K ":126.87},
-{"Name":"TURNER ","Rank":49,"Total ":335663,"Per100K ":124.43},
-{"Name":"TORRES ","Rank":50,"Total ":325169,"Per100K ":120.54},
-{"Name":"PARKER ","Rank":51,"Total ":324246,"Per100K ":120.2},
-{"Name":"COLLINS ","Rank":52,"Total ":317848,"Per100K ":117.83},
-{"Name":"EDWARDS ","Rank":53,"Total ":317070,"Per100K ":117.54},
-{"Name":"STEWART ","Rank":54,"Total ":312899,"Per100K ":115.99},
-{"Name":"FLORES ","Rank":55,"Total ":312615,"Per100K ":115.89},
-{"Name":"MORRIS ","Rank":56,"Total ":311754,"Per100K ":115.57},
-{"Name":"NGUYEN ","Rank":57,"Total ":310125,"Per100K ":114.96},
-{"Name":"MURPHY ","Rank":58,"Total ":300501,"Per100K ":111.39},
-{"Name":"RIVERA ","Rank":59,"Total ":299463,"Per100K ":111.01},
-{"Name":"COOK ","Rank":60,"Total ":294795,"Per100K ":109.28},
-{"Name":"ROGERS ","Rank":61,"Total ":294403,"Per100K ":109.13},
-{"Name":"MORGAN ","Rank":62,"Total ":276400,"Per100K ":102.46},
-{"Name":"PETERSON ","Rank":63,"Total ":275041,"Per100K ":101.96},
-{"Name":"COOPER ","Rank":64,"Total ":270097,"Per100K ":100.12},
-{"Name":"REED ","Rank":65,"Total ":267443,"Per100K ":99.14},
-{"Name":"BAILEY ","Rank":66,"Total ":265916,"Per100K ":98.57},
-{"Name":"BELL ","Rank":67,"Total ":264752,"Per100K ":98.14},
-{"Name":"GOMEZ ","Rank":68,"Total ":263590,"Per100K ":97.71},
-{"Name":"KELLY ","Rank":69,"Total ":260385,"Per100K ":96.52},
-{"Name":"WARD ","Rank":71,"Total ":254121,"Per100K ":94.2},
-{"Name":"COX ","Rank":72,"Total ":253771,"Per100K ":94.07},
-{"Name":"DIAZ ","Rank":73,"Total ":251772,"Per100K ":93.33},
-{"Name":"RICHARDSON ","Rank":74,"Total ":249533,"Per100K ":92.5},
-{"Name":"WOOD ","Rank":75,"Total ":247299,"Per100K ":91.67},
-{"Name":"WATSON ","Rank":76,"Total ":242432,"Per100K ":89.87},
-{"Name":"BROOKS ","Rank":77,"Total ":240751,"Per100K ":89.25},
-{"Name":"BENNETT ","Rank":78,"Total ":239055,"Per100K ":88.62},
-{"Name":"GRAY ","Rank":79,"Total ":236713,"Per100K ":87.75},
-{"Name":"JAMES ","Rank":80,"Total ":233224,"Per100K ":86.46},
-{"Name":"REYES ","Rank":81,"Total ":232511,"Per100K ":86.19},
-{"Name":"CRUZ ","Rank":82,"Total ":231065,"Per100K ":85.66},
-{"Name":"HUGHES ","Rank":83,"Total ":229390,"Per100K ":85.03},
-{"Name":"PRICE ","Rank":84,"Total ":228756,"Per100K ":84.8},
-{"Name":"MYERS ","Rank":85,"Total ":224824,"Per100K ":83.34},
-{"Name":"LONG ","Rank":86,"Total ":223494,"Per100K ":82.85},
-{"Name":"FOSTER ","Rank":87,"Total ":221040,"Per100K ":81.94},
-{"Name":"SANDERS ","Rank":88,"Total ":220902,"Per100K ":81.89},
-{"Name":"ROSS ","Rank":89,"Total ":219961,"Per100K ":81.54},
-{"Name":"MORALES ","Rank":90,"Total ":217642,"Per100K ":80.68},
-{"Name":"POWELL ","Rank":91,"Total ":216553,"Per100K ":80.28},
-{"Name":"SULLIVAN ","Rank":92,"Total ":215640,"Per100K ":79.94},
-{"Name":"RUSSELL ","Rank":93,"Total ":215432,"Per100K ":79.86},
-{"Name":"ORTIZ ","Rank":94,"Total ":214683,"Per100K ":79.58},
-{"Name":"JENKINS ","Rank":95,"Total ":213737,"Per100K ":79.23},
-{"Name":"GUTIERREZ ","Rank":96,"Total ":212905,"Per100K ":78.92},
-{"Name":"PERRY ","Rank":97,"Total ":212644,"Per100K ":78.83},
-{"Name":"BUTLER ","Rank":98,"Total ":210879,"Per100K ":78.17},
-{"Name":"BARNES ","Rank":99,"Total ":210426,"Per100K ":78},
-{"Name":"FISHER ","Rank":100,"Total ":210279,"Per100K ":77.95},
-{"Name":"HENDERSON ","Rank":101,"Total ":210094,"Per100K ":77.88},
-{"Name":"COLEMAN ","Rank":102,"Total ":208624,"Per100K ":77.34},
-{"Name":"SIMMONS ","Rank":103,"Total ":201650,"Per100K ":74.75},
-{"Name":"PATTERSON ","Rank":104,"Total ":198557,"Per100K ":73.6},
-{"Name":"JORDAN ","Rank":105,"Total ":197212,"Per100K ":73.11},
-{"Name":"REYNOLDS ","Rank":106,"Total ":195598,"Per100K ":72.51},
-{"Name":"HAMILTON ","Rank":107,"Total ":194331,"Per100K ":72.04},
-{"Name":"GRAHAM ","Rank":108,"Total ":194074,"Per100K ":71.94},
-{"Name":"KIM ","Rank":109,"Total ":194067,"Per100K ":71.94},
-{"Name":"GONZALES ","Rank":110,"Total ":193934,"Per100K ":71.89},
-{"Name":"ALEXANDER ","Rank":111,"Total ":193443,"Per100K ":71.71},
-{"Name":"RAMOS ","Rank":112,"Total ":193096,"Per100K ":71.58},
-{"Name":"WALLACE ","Rank":113,"Total ":190760,"Per100K ":70.71},
-{"Name":"GRIFFIN ","Rank":114,"Total ":190636,"Per100K ":70.67},
-{"Name":"WEST ","Rank":115,"Total ":188464,"Per100K ":69.86},
-{"Name":"COLE ","Rank":116,"Total ":187793,"Per100K ":69.61},
-{"Name":"HAYES ","Rank":117,"Total ":187473,"Per100K ":69.5},
-{"Name":"CHAVEZ ","Rank":118,"Total ":185865,"Per100K ":68.9},
-{"Name":"GIBSON ","Rank":119,"Total ":184420,"Per100K ":68.36},
-{"Name":"BRYANT ","Rank":120,"Total ":183761,"Per100K ":68.12},
-{"Name":"ELLIS ","Rank":121,"Total ":181934,"Per100K ":67.44},
-{"Name":"STEVENS ","Rank":122,"Total ":181417,"Per100K ":67.25},
-{"Name":"MURRAY ","Rank":123,"Total ":178414,"Per100K ":66.14},
-{"Name":"FORD ","Rank":124,"Total ":178397,"Per100K ":66.13},
-{"Name":"MARSHALL ","Rank":125,"Total ":177213,"Per100K ":65.69},
-{"Name":"OWENS ","Rank":126,"Total ":176334,"Per100K ":65.37},
-{"Name":"MCDONALD ","Rank":127,"Total ":176094,"Per100K ":65.28},
-{"Name":"HARRISON ","Rank":128,"Total ":175577,"Per100K ":65.09},
-{"Name":"RUIZ ","Rank":129,"Total ":175429,"Per100K ":65.03},
-{"Name":"KENNEDY ","Rank":130,"Total ":171636,"Per100K ":63.62},
-{"Name":"WELLS ","Rank":131,"Total ":170635,"Per100K ":63.25},
-{"Name":"ALVAREZ ","Rank":132,"Total ":168817,"Per100K ":62.58},
-{"Name":"WOODS ","Rank":133,"Total ":168814,"Per100K ":62.58},
-{"Name":"MENDOZA ","Rank":134,"Total ":168567,"Per100K ":62.49},
-{"Name":"CASTILLO ","Rank":135,"Total ":165473,"Per100K ":61.34},
-{"Name":"OLSON ","Rank":136,"Total ":163502,"Per100K ":60.61},
-{"Name":"WEBB ","Rank":137,"Total ":163481,"Per100K ":60.6},
-{"Name":"WASHINGTON ","Rank":138,"Total ":163036,"Per100K ":60.44},
-{"Name":"TUCKER ","Rank":139,"Total ":162933,"Per100K ":60.4},
-{"Name":"FREEMAN ","Rank":140,"Total ":162686,"Per100K ":60.31},
-{"Name":"BURNS ","Rank":141,"Total ":162153,"Per100K ":60.11},
-{"Name":"HENRY ","Rank":142,"Total ":161392,"Per100K ":59.83},
-{"Name":"VASQUEZ ","Rank":143,"Total ":159989,"Per100K ":59.31},
-{"Name":"SNYDER ","Rank":144,"Total ":159363,"Per100K ":59.08},
-{"Name":"SIMPSON ","Rank":145,"Total ":158241,"Per100K ":58.66},
-{"Name":"CRAWFORD ","Rank":146,"Total ":158121,"Per100K ":58.61},
-{"Name":"JIMENEZ ","Rank":147,"Total ":157475,"Per100K ":58.38},
-{"Name":"PORTER ","Rank":148,"Total ":156848,"Per100K ":58.14},
-{"Name":"MASON ","Rank":149,"Total ":155484,"Per100K ":57.64},
-{"Name":"SHAW ","Rank":150,"Total ":155172,"Per100K ":57.52},
-{"Name":"GORDON ","Rank":151,"Total ":154934,"Per100K ":57.43},
-{"Name":"WAGNER ","Rank":152,"Total ":154516,"Per100K ":57.28},
-{"Name":"HUNTER ","Rank":153,"Total ":154410,"Per100K ":57.24},
-{"Name":"ROMERO ","Rank":154,"Total ":153772,"Per100K ":57},
-{"Name":"HICKS ","Rank":155,"Total ":153618,"Per100K ":56.95},
-{"Name":"DIXON ","Rank":156,"Total ":152015,"Per100K ":56.35},
-{"Name":"HUNT ","Rank":157,"Total ":151986,"Per100K ":56.34},
-{"Name":"PALMER ","Rank":158,"Total ":150407,"Per100K ":55.76},
-{"Name":"ROBERTSON ","Rank":159,"Total ":150299,"Per100K ":55.72},
-{"Name":"BLACK ","Rank":160,"Total ":150186,"Per100K ":55.67},
-{"Name":"HOLMES ","Rank":161,"Total ":150166,"Per100K ":55.67},
-{"Name":"STONE ","Rank":162,"Total ":149802,"Per100K ":55.53},
-{"Name":"MEYER ","Rank":163,"Total ":149664,"Per100K ":55.48},
-{"Name":"BOYD ","Rank":164,"Total ":149476,"Per100K ":55.41},
-{"Name":"MILLS ","Rank":165,"Total ":147909,"Per100K ":54.83},
-{"Name":"WARREN ","Rank":166,"Total ":147906,"Per100K ":54.83},
-{"Name":"FOX ","Rank":167,"Total ":147357,"Per100K ":54.62},
-{"Name":"ROSE ","Rank":168,"Total ":146924,"Per100K ":54.46},
-{"Name":"RICE ","Rank":169,"Total ":146440,"Per100K ":54.28},
-{"Name":"MORENO ","Rank":170,"Total ":146088,"Per100K ":54.15},
-{"Name":"SCHMIDT ","Rank":171,"Total ":145565,"Per100K ":53.96},
-{"Name":"PATEL ","Rank":172,"Total ":145066,"Per100K ":53.78},
-{"Name":"FERGUSON ","Rank":173,"Total ":142256,"Per100K ":52.73},
-{"Name":"NICHOLS ","Rank":174,"Total ":141936,"Per100K ":52.62},
-{"Name":"HERRERA ","Rank":175,"Total ":140786,"Per100K ":52.19},
-{"Name":"MEDINA ","Rank":176,"Total ":139353,"Per100K ":51.66},
-{"Name":"RYAN ","Rank":177,"Total ":139335,"Per100K ":51.65},
-{"Name":"FERNANDEZ ","Rank":178,"Total ":139302,"Per100K ":51.64},
-{"Name":"WEAVER ","Rank":179,"Total ":138811,"Per100K ":51.46},
-{"Name":"DANIELS ","Rank":180,"Total ":138776,"Per100K ":51.44},
-{"Name":"STEPHENS ","Rank":181,"Total ":138742,"Per100K ":51.43},
-{"Name":"GARDNER ","Rank":182,"Total ":138660,"Per100K ":51.4},
-{"Name":"PAYNE ","Rank":183,"Total ":138028,"Per100K ":51.17},
-{"Name":"KELLEY ","Rank":184,"Total ":137555,"Per100K ":50.99},
-{"Name":"DUNN ","Rank":185,"Total ":136955,"Per100K ":50.77},
-{"Name":"PIERCE ","Rank":186,"Total ":136517,"Per100K ":50.61},
-{"Name":"ARNOLD ","Rank":187,"Total ":136315,"Per100K ":50.53},
-{"Name":"TRAN ","Rank":188,"Total ":136095,"Per100K ":50.45},
-{"Name":"SPENCER ","Rank":189,"Total ":134443,"Per100K ":49.84},
-{"Name":"PETERS ","Rank":190,"Total ":134231,"Per100K ":49.76},
-{"Name":"HAWKINS ","Rank":191,"Total ":134066,"Per100K ":49.7},
-{"Name":"GRANT ","Rank":192,"Total ":134034,"Per100K ":49.69},
-{"Name":"HANSEN ","Rank":193,"Total ":133474,"Per100K ":49.48},
-{"Name":"CASTRO ","Rank":194,"Total ":133254,"Per100K ":49.4},
-{"Name":"HOFFMAN ","Rank":195,"Total ":132645,"Per100K ":49.17},
-{"Name":"HART ","Rank":196,"Total ":132466,"Per100K ":49.1},
-{"Name":"ELLIOTT ","Rank":197,"Total ":132457,"Per100K ":49.1},
-{"Name":"CUNNINGHAM ","Rank":198,"Total ":131896,"Per100K ":48.89},
-{"Name":"KNIGHT ","Rank":199,"Total ":131860,"Per100K ":48.88},
-{"Name":"BRADLEY ","Rank":200,"Total ":131289,"Per100K ":48.67},
-{"Name":"CARROLL ","Rank":201,"Total ":131020,"Per100K ":48.57},
-{"Name":"HUDSON ","Rank":202,"Total ":130793,"Per100K ":48.48},
-{"Name":"DUNCAN ","Rank":203,"Total ":130419,"Per100K ":48.35},
-{"Name":"ARMSTRONG ","Rank":204,"Total ":129982,"Per100K ":48.18},
-{"Name":"BERRY ","Rank":205,"Total ":129405,"Per100K ":47.97},
-{"Name":"ANDREWS ","Rank":206,"Total ":129320,"Per100K ":47.94},
-{"Name":"JOHNSTON ","Rank":207,"Total ":128935,"Per100K ":47.8},
-{"Name":"RAY ","Rank":208,"Total ":128794,"Per100K ":47.74},
-{"Name":"LANE ","Rank":209,"Total ":128727,"Per100K ":47.72},
-{"Name":"RILEY ","Rank":210,"Total ":127960,"Per100K ":47.43},
-{"Name":"CARPENTER ","Rank":211,"Total ":127073,"Per100K ":47.11},
-{"Name":"PERKINS ","Rank":212,"Total ":126951,"Per100K ":47.06},
-{"Name":"AGUILAR ","Rank":213,"Total ":126399,"Per100K ":46.86},
-{"Name":"SILVA ","Rank":214,"Total ":126164,"Per100K ":46.77},
-{"Name":"RICHARDS ","Rank":215,"Total ":125653,"Per100K ":46.58},
-{"Name":"WILLIS ","Rank":216,"Total ":125627,"Per100K ":46.57},
-{"Name":"MATTHEWS ","Rank":217,"Total ":124839,"Per100K ":46.28},
-{"Name":"CHAPMAN ","Rank":218,"Total ":124614,"Per100K ":46.19},
-{"Name":"LAWRENCE ","Rank":219,"Total ":124321,"Per100K ":46.09},
-{"Name":"GARZA ","Rank":220,"Total ":124130,"Per100K ":46.01},
-{"Name":"VARGAS ","Rank":221,"Total ":123952,"Per100K ":45.95},
-{"Name":"WATKINS ","Rank":222,"Total ":122447,"Per100K ":45.39},
-{"Name":"WHEELER ","Rank":223,"Total ":121684,"Per100K ":45.11},
-{"Name":"LARSON ","Rank":224,"Total ":121064,"Per100K ":44.88},
-{"Name":"CARLSON ","Rank":225,"Total ":120124,"Per100K ":44.53},
-{"Name":"HARPER ","Rank":226,"Total ":119868,"Per100K ":44.43},
-{"Name":"GEORGE ","Rank":227,"Total ":119778,"Per100K ":44.4},
-{"Name":"GREENE ","Rank":228,"Total ":119604,"Per100K ":44.34},
-{"Name":"BURKE ","Rank":229,"Total ":119175,"Per100K ":44.18},
-{"Name":"GUZMAN ","Rank":230,"Total ":118390,"Per100K ":43.89},
-{"Name":"MORRISON ","Rank":231,"Total ":117939,"Per100K ":43.72},
-{"Name":"MUNOZ ","Rank":232,"Total ":117774,"Per100K ":43.66},
-{"Name":"JACOBS ","Rank":233,"Total ":115540,"Per100K ":42.83},
-{"Name":"OBRIEN ","Rank":234,"Total ":115385,"Per100K ":42.77},
-{"Name":"LAWSON ","Rank":235,"Total ":115186,"Per100K ":42.7},
-{"Name":"FRANKLIN ","Rank":236,"Total ":114859,"Per100K ":42.58},
-{"Name":"LYNCH ","Rank":237,"Total ":114448,"Per100K ":42.43},
-{"Name":"BISHOP ","Rank":238,"Total ":114034,"Per100K ":42.27},
-{"Name":"CARR ","Rank":239,"Total ":113892,"Per100K ":42.22},
-{"Name":"SALAZAR ","Rank":240,"Total ":113468,"Per100K ":42.06},
-{"Name":"AUSTIN ","Rank":241,"Total ":113160,"Per100K ":41.95},
-{"Name":"MENDEZ ","Rank":242,"Total ":112736,"Per100K ":41.79},
-{"Name":"GILBERT ","Rank":243,"Total ":112406,"Per100K ":41.67},
-{"Name":"JENSEN ","Rank":244,"Total ":112332,"Per100K ":41.64},
-{"Name":"WILLIAMSON ","Rank":245,"Total ":112216,"Per100K ":41.6},
-{"Name":"MONTGOMERY ","Rank":246,"Total ":112144,"Per100K ":41.57},
-{"Name":"HARVEY ","Rank":247,"Total ":112136,"Per100K ":41.57},
-{"Name":"OLIVER ","Rank":248,"Total ":111641,"Per100K ":41.38},
-{"Name":"HOWELL ","Rank":249,"Total ":109634,"Per100K ":40.64},
-{"Name":"DEAN ","Rank":250,"Total ":109230,"Per100K ":40.49},
-{"Name":"HANSON ","Rank":251,"Total ":109079,"Per100K ":40.44},
-{"Name":"WEBER ","Rank":252,"Total ":107866,"Per100K ":39.99},
-{"Name":"GARRETT ","Rank":253,"Total ":107777,"Per100K ":39.95},
-{"Name":"SIMS ","Rank":254,"Total ":107244,"Per100K ":39.76},
-{"Name":"BURTON ","Rank":255,"Total ":107158,"Per100K ":39.72},
-{"Name":"FULLER ","Rank":256,"Total ":106682,"Per100K ":39.55},
-{"Name":"SOTO ","Rank":257,"Total ":106631,"Per100K ":39.53},
-{"Name":"MCCOY ","Rank":258,"Total ":106481,"Per100K ":39.47},
-{"Name":"WELCH ","Rank":259,"Total ":105804,"Per100K ":39.22},
-{"Name":"CHEN ","Rank":260,"Total ":105544,"Per100K ":39.12},
-{"Name":"SCHULTZ ","Rank":261,"Total ":104962,"Per100K ":38.91},
-{"Name":"WALTERS ","Rank":262,"Total ":104281,"Per100K ":38.66},
-{"Name":"REID ","Rank":263,"Total ":104007,"Per100K ":38.56},
-{"Name":"FIELDS ","Rank":264,"Total ":103242,"Per100K ":38.27},
-{"Name":"WALSH ","Rank":265,"Total ":103216,"Per100K ":38.26},
-{"Name":"LITTLE ","Rank":266,"Total ":102718,"Per100K ":38.08},
-{"Name":"FOWLER ","Rank":267,"Total ":102620,"Per100K ":38.04},
-{"Name":"BOWMAN ","Rank":268,"Total ":102239,"Per100K ":37.9},
-{"Name":"DAVIDSON ","Rank":269,"Total ":102044,"Per100K ":37.83},
-{"Name":"MAY ","Rank":270,"Total ":101726,"Per100K ":37.71},
-{"Name":"DAY ","Rank":271,"Total ":101676,"Per100K ":37.69},
-{"Name":"SCHNEIDER ","Rank":272,"Total ":100553,"Per100K ":37.27},
-{"Name":"NEWMAN ","Rank":273,"Total ":100491,"Per100K ":37.25},
-{"Name":"BREWER ","Rank":274,"Total ":100465,"Per100K ":37.24},
-{"Name":"LUCAS ","Rank":275,"Total ":100417,"Per100K ":37.22},
-{"Name":"HOLLAND ","Rank":276,"Total ":99885,"Per100K ":37.03},
-{"Name":"WONG ","Rank":277,"Total ":99392,"Per100K ":36.84},
-{"Name":"BANKS ","Rank":278,"Total ":99294,"Per100K ":36.81},
-{"Name":"SANTOS ","Rank":279,"Total ":98993,"Per100K ":36.7},
-{"Name":"CURTIS ","Rank":280,"Total ":98958,"Per100K ":36.68},
-{"Name":"PEARSON ","Rank":281,"Total ":98728,"Per100K ":36.6},
-{"Name":"DELGADO ","Rank":282,"Total ":98675,"Per100K ":36.58},
-{"Name":"VALDEZ ","Rank":283,"Total ":98610,"Per100K ":36.55},
-{"Name":"PENA ","Rank":284,"Total ":98345,"Per100K ":36.46},
-{"Name":"RIOS ","Rank":285,"Total ":96569,"Per100K ":35.8},
-{"Name":"DOUGLAS ","Rank":286,"Total ":96425,"Per100K ":35.74},
-{"Name":"SANDOVAL ","Rank":287,"Total ":96303,"Per100K ":35.7},
-{"Name":"BARRETT ","Rank":288,"Total ":95896,"Per100K ":35.55},
-{"Name":"HOPKINS ","Rank":289,"Total ":94603,"Per100K ":35.07},
-{"Name":"KELLER ","Rank":290,"Total ":94300,"Per100K ":34.96},
-{"Name":"GUERRERO ","Rank":291,"Total ":94152,"Per100K ":34.9},
-{"Name":"STANLEY ","Rank":292,"Total ":93817,"Per100K ":34.78},
-{"Name":"BATES ","Rank":293,"Total ":93743,"Per100K ":34.75},
-{"Name":"ALVARADO ","Rank":294,"Total ":93723,"Per100K ":34.74},
-{"Name":"BECK ","Rank":295,"Total ":93161,"Per100K ":34.53},
-{"Name":"ORTEGA ","Rank":296,"Total ":93131,"Per100K ":34.52},
-{"Name":"WADE ","Rank":297,"Total ":92834,"Per100K ":34.41},
-{"Name":"ESTRADA ","Rank":298,"Total ":92831,"Per100K ":34.41},
-{"Name":"CONTRERAS ","Rank":299,"Total ":92660,"Per100K ":34.35},
-{"Name":"BARNETT ","Rank":300,"Total ":92287,"Per100K ":34.21},
-{"Name":"CALDWELL ","Rank":301,"Total ":91338,"Per100K ":33.86},
-{"Name":"SANTIAGO ","Rank":302,"Total ":90967,"Per100K ":33.72},
-{"Name":"LAMBERT ","Rank":303,"Total ":90618,"Per100K ":33.59},
-{"Name":"POWERS ","Rank":304,"Total ":90401,"Per100K ":33.51},
-{"Name":"CHAMBERS ","Rank":305,"Total ":90325,"Per100K ":33.48},
-{"Name":"NUNEZ ","Rank":306,"Total ":90208,"Per100K ":33.44},
-{"Name":"CRAIG ","Rank":307,"Total ":89591,"Per100K ":33.21},
-{"Name":"LEONARD ","Rank":308,"Total ":89198,"Per100K ":33.07},
-{"Name":"LOWE ","Rank":309,"Total ":89178,"Per100K ":33.06},
-{"Name":"RHODES ","Rank":310,"Total ":88917,"Per100K ":32.96},
-{"Name":"BYRD ","Rank":311,"Total ":88811,"Per100K ":32.92},
-{"Name":"GREGORY ","Rank":312,"Total ":88810,"Per100K ":32.92},
-{"Name":"SHELTON ","Rank":313,"Total ":88326,"Per100K ":32.74},
-{"Name":"FRAZIER ","Rank":314,"Total ":88325,"Per100K ":32.74},
-{"Name":"BECKER ","Rank":315,"Total ":88114,"Per100K ":32.66},
-{"Name":"MALDONADO ","Rank":316,"Total ":88016,"Per100K ":32.63},
-{"Name":"FLEMING ","Rank":317,"Total ":87949,"Per100K ":32.6},
-{"Name":"VEGA ","Rank":318,"Total ":87728,"Per100K ":32.52},
-{"Name":"SUTTON ","Rank":319,"Total ":87373,"Per100K ":32.39},
-{"Name":"COHEN ","Rank":320,"Total ":87226,"Per100K ":32.33},
-{"Name":"JENNINGS ","Rank":321,"Total ":87038,"Per100K ":32.26},
-{"Name":"PARKS ","Rank":322,"Total ":86346,"Per100K ":32.01},
-{"Name":"MCDANIEL ","Rank":323,"Total ":86317,"Per100K ":32},
-{"Name":"WATTS ","Rank":324,"Total ":86228,"Per100K ":31.96},
-{"Name":"BARKER ","Rank":325,"Total ":85221,"Per100K ":31.59},
-{"Name":"NORRIS ","Rank":326,"Total ":85212,"Per100K ":31.59},
-{"Name":"VAUGHN ","Rank":327,"Total ":85037,"Per100K ":31.52},
-{"Name":"VAZQUEZ ","Rank":328,"Total ":84926,"Per100K ":31.48},
-{"Name":"HOLT ","Rank":329,"Total ":84710,"Per100K ":31.4},
-{"Name":"SCHWARTZ ","Rank":330,"Total ":84699,"Per100K ":31.4},
-{"Name":"STEELE ","Rank":331,"Total ":84353,"Per100K ":31.27},
-{"Name":"BENSON ","Rank":332,"Total ":84233,"Per100K ":31.22},
-{"Name":"NEAL ","Rank":333,"Total ":83849,"Per100K ":31.08},
-{"Name":"DOMINGUEZ ","Rank":334,"Total ":83731,"Per100K ":31.04},
-{"Name":"HORTON ","Rank":335,"Total ":83523,"Per100K ":30.96},
-{"Name":"TERRY ","Rank":336,"Total ":83437,"Per100K ":30.93},
-{"Name":"WOLFE ","Rank":337,"Total ":83112,"Per100K ":30.81},
-{"Name":"HALE ","Rank":338,"Total ":82955,"Per100K ":30.75},
-{"Name":"LYONS ","Rank":339,"Total ":82258,"Per100K ":30.49},
-{"Name":"GRAVES ","Rank":340,"Total ":82179,"Per100K ":30.46},
-{"Name":"HAYNES ","Rank":341,"Total ":82037,"Per100K ":30.41},
-{"Name":"MILES ","Rank":342,"Total ":81933,"Per100K ":30.37},
-{"Name":"PARK ","Rank":343,"Total ":81890,"Per100K ":30.36},
-{"Name":"WARNER ","Rank":344,"Total ":81824,"Per100K ":30.33},
-{"Name":"PADILLA ","Rank":345,"Total ":81805,"Per100K ":30.32},
-{"Name":"BUSH ","Rank":346,"Total ":81524,"Per100K ":30.22},
-{"Name":"THORNTON ","Rank":347,"Total ":81191,"Per100K ":30.1},
-{"Name":"MCCARTHY ","Rank":348,"Total ":81035,"Per100K ":30.04},
-{"Name":"MANN ","Rank":349,"Total ":81022,"Per100K ":30.03},
-{"Name":"ZIMMERMAN ","Rank":350,"Total ":80944,"Per100K ":30.01},
-{"Name":"ERICKSON ","Rank":351,"Total ":80936,"Per100K ":30},
-{"Name":"FLETCHER ","Rank":352,"Total ":80932,"Per100K ":30},
-{"Name":"MCKINNEY ","Rank":353,"Total ":80616,"Per100K ":29.88},
-{"Name":"PAGE ","Rank":354,"Total ":80493,"Per100K ":29.84},
-{"Name":"DAWSON ","Rank":355,"Total ":80190,"Per100K ":29.73},
-{"Name":"JOSEPH ","Rank":356,"Total ":80030,"Per100K ":29.67},
-{"Name":"MARQUEZ ","Rank":357,"Total ":79951,"Per100K ":29.64},
-{"Name":"REEVES ","Rank":358,"Total ":79817,"Per100K ":29.59},
-{"Name":"KLEIN ","Rank":359,"Total ":79685,"Per100K ":29.54},
-{"Name":"ESPINOZA ","Rank":360,"Total ":79322,"Per100K ":29.4},
-{"Name":"BALDWIN ","Rank":361,"Total ":79151,"Per100K ":29.34},
-{"Name":"MORAN ","Rank":362,"Total ":78546,"Per100K ":29.12},
-{"Name":"LOVE ","Rank":363,"Total ":78323,"Per100K ":29.03},
-{"Name":"ROBBINS ","Rank":364,"Total ":78141,"Per100K ":28.97},
-{"Name":"HIGGINS ","Rank":365,"Total ":78107,"Per100K ":28.95},
-{"Name":"BALL ","Rank":366,"Total ":77561,"Per100K ":28.75},
-{"Name":"CORTEZ ","Rank":367,"Total ":77492,"Per100K ":28.73},
-{"Name":"LE ","Rank":368,"Total ":77453,"Per100K ":28.71},
-{"Name":"GRIFFITH ","Rank":369,"Total ":77429,"Per100K ":28.7},
-{"Name":"BOWEN ","Rank":370,"Total ":77078,"Per100K ":28.57},
-{"Name":"SHARP ","Rank":371,"Total ":76868,"Per100K ":28.49},
-{"Name":"CUMMINGS ","Rank":372,"Total ":76707,"Per100K ":28.44},
-{"Name":"RAMSEY ","Rank":373,"Total ":76625,"Per100K ":28.4},
-{"Name":"HARDY ","Rank":374,"Total ":76608,"Per100K ":28.4},
-{"Name":"SWANSON ","Rank":375,"Total ":76539,"Per100K ":28.37},
-{"Name":"BARBER ","Rank":376,"Total ":76504,"Per100K ":28.36},
-{"Name":"ACOSTA ","Rank":377,"Total ":76477,"Per100K ":28.35},
-{"Name":"LUNA ","Rank":378,"Total ":76127,"Per100K ":28.22},
-{"Name":"CHANDLER ","Rank":379,"Total ":76114,"Per100K ":28.22},
-{"Name":"BLAIR ","Rank":380,"Total ":75135,"Per100K ":27.85},
-{"Name":"DANIEL ","Rank":380,"Total ":75135,"Per100K ":27.85},
-{"Name":"CROSS ","Rank":382,"Total ":75134,"Per100K ":27.85},
-{"Name":"SIMON ","Rank":383,"Total ":74839,"Per100K ":27.74},
-{"Name":"DENNIS ","Rank":384,"Total ":74784,"Per100K ":27.72},
-{"Name":"OCONNOR ","Rank":385,"Total ":74756,"Per100K ":27.71},
-{"Name":"QUINN ","Rank":386,"Total ":74531,"Per100K ":27.63},
-{"Name":"GROSS ","Rank":387,"Total ":74285,"Per100K ":27.54},
-{"Name":"NAVARRO ","Rank":388,"Total ":73970,"Per100K ":27.42},
-{"Name":"MOSS ","Rank":389,"Total ":73750,"Per100K ":27.34},
-{"Name":"FITZGERALD ","Rank":390,"Total ":73522,"Per100K ":27.25},
-{"Name":"DOYLE ","Rank":391,"Total ":73518,"Per100K ":27.25},
-{"Name":"MCLAUGHLIN ","Rank":392,"Total ":73128,"Per100K ":27.11},
-{"Name":"ROJAS ","Rank":393,"Total ":73071,"Per100K ":27.09},
-{"Name":"RODGERS ","Rank":394,"Total ":73021,"Per100K ":27.07},
-{"Name":"STEVENSON ","Rank":395,"Total ":72892,"Per100K ":27.02},
-{"Name":"SINGH ","Rank":396,"Total ":72642,"Per100K ":26.93},
-{"Name":"YANG ","Rank":397,"Total ":72627,"Per100K ":26.92},
-{"Name":"FIGUEROA ","Rank":398,"Total ":72533,"Per100K ":26.89},
-{"Name":"HARMON ","Rank":399,"Total ":72414,"Per100K ":26.84},
-{"Name":"NEWTON ","Rank":400,"Total ":72328,"Per100K ":26.81},
-{"Name":"PAUL ","Rank":401,"Total ":72248,"Per100K ":26.78},
-{"Name":"MANNING ","Rank":402,"Total ":72069,"Per100K ":26.72},
-{"Name":"GARNER ","Rank":403,"Total ":72052,"Per100K ":26.71},
-{"Name":"MCGEE ","Rank":404,"Total ":71925,"Per100K ":26.66},
-{"Name":"REESE ","Rank":405,"Total ":71754,"Per100K ":26.6},
-{"Name":"FRANCIS ","Rank":406,"Total ":71723,"Per100K ":26.59},
-{"Name":"BURGESS ","Rank":407,"Total ":71604,"Per100K ":26.54},
-{"Name":"ADKINS ","Rank":408,"Total ":71528,"Per100K ":26.52},
-{"Name":"GOODMAN ","Rank":409,"Total ":71482,"Per100K ":26.5},
-{"Name":"CURRY ","Rank":410,"Total ":71344,"Per100K ":26.45},
-{"Name":"BRADY ","Rank":411,"Total ":71175,"Per100K ":26.38},
-{"Name":"CHRISTENSEN ","Rank":412,"Total ":71144,"Per100K ":26.37},
-{"Name":"POTTER ","Rank":413,"Total ":71103,"Per100K ":26.36},
-{"Name":"WALTON ","Rank":414,"Total ":70997,"Per100K ":26.32},
-{"Name":"GOODWIN ","Rank":415,"Total ":70333,"Per100K ":26.07},
-{"Name":"MULLINS ","Rank":416,"Total ":70286,"Per100K ":26.05},
-{"Name":"MOLINA ","Rank":417,"Total ":70211,"Per100K ":26.03},
-{"Name":"WEBSTER ","Rank":418,"Total ":70123,"Per100K ":25.99},
-{"Name":"FISCHER ","Rank":419,"Total ":70095,"Per100K ":25.98},
-{"Name":"CAMPOS ","Rank":420,"Total ":69950,"Per100K ":25.93},
-{"Name":"AVILA ","Rank":421,"Total ":69843,"Per100K ":25.89},
-{"Name":"SHERMAN ","Rank":422,"Total ":69840,"Per100K ":25.89},
-{"Name":"TODD ","Rank":423,"Total ":69810,"Per100K ":25.88},
-{"Name":"CHANG ","Rank":424,"Total ":69756,"Per100K ":25.86},
-{"Name":"BLAKE ","Rank":425,"Total ":69279,"Per100K ":25.68},
-{"Name":"MALONE ","Rank":426,"Total ":69257,"Per100K ":25.67},
-{"Name":"WOLF ","Rank":427,"Total ":68905,"Per100K ":25.54},
-{"Name":"HODGES ","Rank":428,"Total ":68868,"Per100K ":25.53},
-{"Name":"JUAREZ ","Rank":429,"Total ":68785,"Per100K ":25.5},
-{"Name":"GILL ","Rank":430,"Total ":68699,"Per100K ":25.47},
-{"Name":"FARMER ","Rank":431,"Total ":68309,"Per100K ":25.32},
-{"Name":"HINES ","Rank":432,"Total ":68145,"Per100K ":25.26},
-{"Name":"GALLAGHER ","Rank":433,"Total ":68075,"Per100K ":25.24},
-{"Name":"DURAN ","Rank":434,"Total ":68046,"Per100K ":25.22},
-{"Name":"HUBBARD ","Rank":435,"Total ":68021,"Per100K ":25.22},
-{"Name":"CANNON ","Rank":436,"Total ":67923,"Per100K ":25.18},
-{"Name":"MIRANDA ","Rank":437,"Total ":67646,"Per100K ":25.08},
-{"Name":"WANG ","Rank":438,"Total ":67570,"Per100K ":25.05},
-{"Name":"SAUNDERS ","Rank":439,"Total ":67210,"Per100K ":24.91},
-{"Name":"TATE ","Rank":440,"Total ":67208,"Per100K ":24.91},
-{"Name":"MACK ","Rank":441,"Total ":67154,"Per100K ":24.89},
-{"Name":"HAMMOND ","Rank":442,"Total ":67063,"Per100K ":24.86},
-{"Name":"CARRILLO ","Rank":443,"Total ":67054,"Per100K ":24.86},
-{"Name":"TOWNSEND ","Rank":444,"Total ":66853,"Per100K ":24.78},
-{"Name":"WISE ","Rank":445,"Total ":66738,"Per100K ":24.74},
-{"Name":"INGRAM ","Rank":446,"Total ":66665,"Per100K ":24.71},
-{"Name":"BARTON ","Rank":447,"Total ":66622,"Per100K ":24.7},
-{"Name":"MEJIA ","Rank":448,"Total ":66534,"Per100K ":24.66},
-{"Name":"AYALA ","Rank":449,"Total ":66515,"Per100K ":24.66},
-{"Name":"SCHROEDER ","Rank":450,"Total ":66412,"Per100K ":24.62},
-{"Name":"HAMPTON ","Rank":451,"Total ":66378,"Per100K ":24.61},
-{"Name":"ROWE ","Rank":452,"Total ":66205,"Per100K ":24.54},
-{"Name":"PARSONS ","Rank":453,"Total ":66203,"Per100K ":24.54},
-{"Name":"FRANK ","Rank":454,"Total ":65918,"Per100K ":24.44},
-{"Name":"WATERS ","Rank":455,"Total ":65817,"Per100K ":24.4},
-{"Name":"STRICKLAND ","Rank":456,"Total ":65814,"Per100K ":24.4},
-{"Name":"OSBORNE ","Rank":457,"Total ":65802,"Per100K ":24.39},
-{"Name":"MAXWELL ","Rank":458,"Total ":65779,"Per100K ":24.38},
-{"Name":"CHAN ","Rank":459,"Total ":65719,"Per100K ":24.36},
-{"Name":"DELEON ","Rank":460,"Total ":65598,"Per100K ":24.32},
-{"Name":"NORMAN ","Rank":461,"Total ":65269,"Per100K ":24.2},
-{"Name":"HARRINGTON ","Rank":462,"Total ":65131,"Per100K ":24.14},
-{"Name":"CASEY ","Rank":463,"Total ":64815,"Per100K ":24.03},
-{"Name":"PATTON ","Rank":464,"Total ":64772,"Per100K ":24.01},
-{"Name":"LOGAN ","Rank":465,"Total ":64576,"Per100K ":23.94},
-{"Name":"BOWERS ","Rank":466,"Total ":64496,"Per100K ":23.91},
-{"Name":"MUELLER ","Rank":467,"Total ":64305,"Per100K ":23.84},
-{"Name":"GLOVER ","Rank":468,"Total ":64180,"Per100K ":23.79},
-{"Name":"FLOYD ","Rank":469,"Total ":64141,"Per100K ":23.78},
-{"Name":"HARTMAN ","Rank":470,"Total ":63827,"Per100K ":23.66},
-{"Name":"BUCHANAN ","Rank":471,"Total ":63825,"Per100K ":23.66},
-{"Name":"COBB ","Rank":472,"Total ":63739,"Per100K ":23.63},
-{"Name":"FRENCH ","Rank":473,"Total ":63149,"Per100K ":23.41},
-{"Name":"KRAMER ","Rank":474,"Total ":63023,"Per100K ":23.36},
-{"Name":"MCCORMICK ","Rank":475,"Total ":62663,"Per100K ":23.23},
-{"Name":"CLARKE ","Rank":476,"Total ":62546,"Per100K ":23.19},
-{"Name":"TYLER ","Rank":477,"Total ":62534,"Per100K ":23.18},
-{"Name":"GIBBS ","Rank":478,"Total ":62514,"Per100K ":23.17},
-{"Name":"MOODY ","Rank":479,"Total ":62344,"Per100K ":23.11},
-{"Name":"CONNER ","Rank":480,"Total ":62335,"Per100K ":23.11},
-{"Name":"SPARKS ","Rank":481,"Total ":62234,"Per100K ":23.07},
-{"Name":"MCGUIRE ","Rank":482,"Total ":62116,"Per100K ":23.03},
-{"Name":"LEON ","Rank":483,"Total ":62034,"Per100K ":23},
-{"Name":"BAUER ","Rank":484,"Total ":61979,"Per100K ":22.98},
-{"Name":"NORTON ","Rank":485,"Total ":61805,"Per100K ":22.91},
-{"Name":"POPE ","Rank":486,"Total ":61750,"Per100K ":22.89},
-{"Name":"FLYNN ","Rank":487,"Total ":61747,"Per100K ":22.89},
-{"Name":"HOGAN ","Rank":488,"Total ":61651,"Per100K ":22.85},
-{"Name":"ROBLES ","Rank":489,"Total ":61619,"Per100K ":22.84},
-{"Name":"SALINAS ","Rank":490,"Total ":61582,"Per100K ":22.83},
-{"Name":"YATES ","Rank":491,"Total ":61400,"Per100K ":22.76},
-{"Name":"LINDSEY ","Rank":492,"Total ":61199,"Per100K ":22.69},
-{"Name":"LLOYD ","Rank":493,"Total ":61154,"Per100K ":22.67},
-{"Name":"MARSH ","Rank":494,"Total ":60999,"Per100K ":22.61},
-{"Name":"MCBRIDE ","Rank":495,"Total ":60874,"Per100K ":22.57},
-{"Name":"OWEN ","Rank":496,"Total ":60461,"Per100K ":22.41},
-{"Name":"SOLIS ","Rank":497,"Total ":60045,"Per100K ":22.26},
-{"Name":"PHAM ","Rank":498,"Total ":59949,"Per100K ":22.22},
-{"Name":"LANG ","Rank":499,"Total ":59843,"Per100K ":22.18},
-{"Name":"PRATT ","Rank":500,"Total ":59801,"Per100K ":22.17},
-{"Name":"LARA ","Rank":501,"Total ":59731,"Per100K ":22.14},
-{"Name":"BROCK ","Rank":502,"Total ":59682,"Per100K ":22.12},
-{"Name":"BALLARD ","Rank":503,"Total ":59660,"Per100K ":22.12},
-{"Name":"TRUJILLO ","Rank":504,"Total ":59609,"Per100K ":22.1},
-{"Name":"SHAFFER ","Rank":505,"Total ":59227,"Per100K ":21.96},
-{"Name":"DRAKE ","Rank":506,"Total ":59055,"Per100K ":21.89},
-{"Name":"ROMAN ","Rank":507,"Total ":59020,"Per100K ":21.88},
-{"Name":"AGUIRRE ","Rank":508,"Total ":58918,"Per100K ":21.84},
-{"Name":"MORTON ","Rank":509,"Total ":58788,"Per100K ":21.79},
-{"Name":"STOKES ","Rank":510,"Total ":58687,"Per100K ":21.76},
-{"Name":"LAMB ","Rank":511,"Total ":58555,"Per100K ":21.71},
-{"Name":"PACHECO ","Rank":512,"Total ":58534,"Per100K ":21.7},
-{"Name":"PATRICK ","Rank":513,"Total ":58257,"Per100K ":21.6},
-{"Name":"COCHRAN ","Rank":514,"Total ":58233,"Per100K ":21.59},
-{"Name":"SHEPHERD ","Rank":515,"Total ":57935,"Per100K ":21.48},
-{"Name":"CAIN ","Rank":516,"Total ":57873,"Per100K ":21.45},
-{"Name":"BURNETT ","Rank":517,"Total ":57859,"Per100K ":21.45},
-{"Name":"HESS ","Rank":518,"Total ":57822,"Per100K ":21.43},
-{"Name":"LI ","Rank":519,"Total ":57786,"Per100K ":21.42},
-{"Name":"CERVANTES ","Rank":520,"Total ":57685,"Per100K ":21.38},
-{"Name":"OLSEN ","Rank":521,"Total ":57357,"Per100K ":21.26},
-{"Name":"BRIGGS ","Rank":522,"Total ":57297,"Per100K ":21.24},
-{"Name":"OCHOA ","Rank":523,"Total ":57210,"Per100K ":21.21},
-{"Name":"CABRERA ","Rank":524,"Total ":57171,"Per100K ":21.19},
-{"Name":"VELASQUEZ ","Rank":525,"Total ":57163,"Per100K ":21.19},
-{"Name":"MONTOYA ","Rank":526,"Total ":57075,"Per100K ":21.16},
-{"Name":"ROTH ","Rank":527,"Total ":57030,"Per100K ":21.14},
-{"Name":"MEYERS ","Rank":528,"Total ":56744,"Per100K ":21.03},
-{"Name":"CARDENAS ","Rank":529,"Total ":56618,"Per100K ":20.99},
-{"Name":"FUENTES ","Rank":530,"Total ":56441,"Per100K ":20.92},
-{"Name":"WEISS ","Rank":531,"Total ":56153,"Per100K ":20.82},
-{"Name":"HOOVER ","Rank":532,"Total ":56068,"Per100K ":20.78},
-{"Name":"WILKINS ","Rank":532,"Total ":56068,"Per100K ":20.78},
-{"Name":"NICHOLSON ","Rank":534,"Total ":55986,"Per100K ":20.75},
-{"Name":"UNDERWOOD ","Rank":535,"Total ":55973,"Per100K ":20.75},
-{"Name":"SHORT ","Rank":536,"Total ":55903,"Per100K ":20.72},
-{"Name":"CARSON ","Rank":537,"Total ":55821,"Per100K ":20.69},
-{"Name":"MORROW ","Rank":538,"Total ":55664,"Per100K ":20.63},
-{"Name":"COLON ","Rank":539,"Total ":55512,"Per100K ":20.58},
-{"Name":"HOLLOWAY ","Rank":540,"Total ":55466,"Per100K ":20.56},
-{"Name":"SUMMERS ","Rank":541,"Total ":55391,"Per100K ":20.53},
-{"Name":"BRYAN ","Rank":542,"Total ":55269,"Per100K ":20.49},
-{"Name":"PETERSEN ","Rank":543,"Total ":55185,"Per100K ":20.46},
-{"Name":"MCKENZIE ","Rank":544,"Total ":55084,"Per100K ":20.42},
-{"Name":"SERRANO ","Rank":545,"Total ":55057,"Per100K ":20.41},
-{"Name":"WILCOX ","Rank":546,"Total ":54987,"Per100K ":20.38},
-{"Name":"CAREY ","Rank":547,"Total ":54924,"Per100K ":20.36},
-{"Name":"CLAYTON ","Rank":548,"Total ":54875,"Per100K ":20.34},
-{"Name":"POOLE ","Rank":549,"Total ":54706,"Per100K ":20.28},
-{"Name":"CALDERON ","Rank":550,"Total ":54691,"Per100K ":20.27},
-{"Name":"GALLEGOS ","Rank":551,"Total ":54672,"Per100K ":20.27},
-{"Name":"GREER ","Rank":552,"Total ":54611,"Per100K ":20.24},
-{"Name":"RIVAS ","Rank":553,"Total ":54588,"Per100K ":20.24},
-{"Name":"GUERRA ","Rank":554,"Total ":54575,"Per100K ":20.23},
-{"Name":"DECKER ","Rank":555,"Total ":54450,"Per100K ":20.18},
-{"Name":"COLLIER ","Rank":556,"Total ":54414,"Per100K ":20.17},
-{"Name":"WALL ","Rank":557,"Total ":54401,"Per100K ":20.17},
-{"Name":"WHITAKER ","Rank":558,"Total ":54343,"Per100K ":20.14},
-{"Name":"BASS ","Rank":559,"Total ":54296,"Per100K ":20.13},
-{"Name":"FLOWERS ","Rank":560,"Total ":54277,"Per100K ":20.12},
-{"Name":"DAVENPORT ","Rank":561,"Total ":54206,"Per100K ":20.09},
-{"Name":"CONLEY ","Rank":562,"Total ":54194,"Per100K ":20.09},
-{"Name":"HOUSTON ","Rank":563,"Total ":54026,"Per100K ":20.03},
-{"Name":"HUFF ","Rank":564,"Total ":53892,"Per100K ":19.98},
-{"Name":"COPELAND ","Rank":565,"Total ":53771,"Per100K ":19.93},
-{"Name":"HOOD ","Rank":566,"Total ":53737,"Per100K ":19.92},
-{"Name":"MONROE ","Rank":567,"Total ":53475,"Per100K ":19.82},
-{"Name":"MASSEY ","Rank":568,"Total ":53459,"Per100K ":19.82},
-{"Name":"ROBERSON ","Rank":569,"Total ":53198,"Per100K ":19.72},
-{"Name":"COMBS ","Rank":570,"Total ":53180,"Per100K ":19.71},
-{"Name":"FRANCO ","Rank":571,"Total ":53161,"Per100K ":19.71},
-{"Name":"LARSEN ","Rank":572,"Total ":52963,"Per100K ":19.63},
-{"Name":"PITTMAN ","Rank":573,"Total ":52689,"Per100K ":19.53},
-{"Name":"RANDALL ","Rank":574,"Total ":52495,"Per100K ":19.46},
-{"Name":"SKINNER ","Rank":575,"Total ":52490,"Per100K ":19.46},
-{"Name":"WILKINSON ","Rank":576,"Total ":52483,"Per100K ":19.46},
-{"Name":"KIRBY ","Rank":577,"Total ":52473,"Per100K ":19.45},
-{"Name":"CAMERON ","Rank":578,"Total ":52439,"Per100K ":19.44},
-{"Name":"BRIDGES ","Rank":579,"Total ":52260,"Per100K ":19.37},
-{"Name":"ANTHONY ","Rank":580,"Total ":52146,"Per100K ":19.33},
-{"Name":"RICHARD ","Rank":581,"Total ":52138,"Per100K ":19.33},
-{"Name":"KIRK ","Rank":582,"Total ":52056,"Per100K ":19.3},
-{"Name":"BRUCE ","Rank":583,"Total ":52004,"Per100K ":19.28},
-{"Name":"SINGLETON ","Rank":584,"Total ":51797,"Per100K ":19.2},
-{"Name":"MATHIS ","Rank":585,"Total ":51796,"Per100K ":19.2},
-{"Name":"BRADFORD ","Rank":586,"Total ":51726,"Per100K ":19.17},
-{"Name":"BOONE ","Rank":587,"Total ":51679,"Per100K ":19.16},
-{"Name":"ABBOTT ","Rank":588,"Total ":51620,"Per100K ":19.14},
-{"Name":"CHARLES ","Rank":589,"Total ":51518,"Per100K ":19.1},
-{"Name":"ALLISON ","Rank":590,"Total ":51504,"Per100K ":19.09},
-{"Name":"SWEENEY ","Rank":591,"Total ":51500,"Per100K ":19.09},
-{"Name":"ATKINSON ","Rank":592,"Total ":51489,"Per100K ":19.09},
-{"Name":"HORN ","Rank":593,"Total ":51380,"Per100K ":19.05},
-{"Name":"JEFFERSON ","Rank":594,"Total ":51361,"Per100K ":19.04},
-{"Name":"ROSALES ","Rank":595,"Total ":51336,"Per100K ":19.03},
-{"Name":"YORK ","Rank":596,"Total ":51334,"Per100K ":19.03},
-{"Name":"CHRISTIAN ","Rank":597,"Total ":51177,"Per100K ":18.97},
-{"Name":"PHELPS ","Rank":598,"Total ":51154,"Per100K ":18.96},
-{"Name":"FARRELL ","Rank":599,"Total ":51095,"Per100K ":18.94},
-{"Name":"CASTANEDA ","Rank":600,"Total ":51089,"Per100K ":18.94},
-{"Name":"NASH ","Rank":601,"Total ":51021,"Per100K ":18.91},
-{"Name":"DICKERSON ","Rank":602,"Total ":51017,"Per100K ":18.91},
-{"Name":"BOND ","Rank":603,"Total ":50980,"Per100K ":18.9},
-{"Name":"WYATT ","Rank":604,"Total ":50874,"Per100K ":18.86},
-{"Name":"FOLEY ","Rank":605,"Total ":50852,"Per100K ":18.85},
-{"Name":"CHASE ","Rank":606,"Total ":50777,"Per100K ":18.82},
-{"Name":"GATES ","Rank":607,"Total ":50748,"Per100K ":18.81},
-{"Name":"VINCENT ","Rank":608,"Total ":50628,"Per100K ":18.77},
-{"Name":"MATHEWS ","Rank":609,"Total ":50608,"Per100K ":18.76},
-{"Name":"HODGE ","Rank":610,"Total ":50577,"Per100K ":18.75},
-{"Name":"GARRISON ","Rank":611,"Total ":50482,"Per100K ":18.71},
-{"Name":"TREVINO ","Rank":612,"Total ":50454,"Per100K ":18.7},
-{"Name":"VILLARREAL ","Rank":613,"Total ":50351,"Per100K ":18.66},
-{"Name":"HEATH ","Rank":614,"Total ":50307,"Per100K ":18.65},
-{"Name":"DALTON ","Rank":615,"Total ":50166,"Per100K ":18.6},
-{"Name":"VALENCIA ","Rank":616,"Total ":50026,"Per100K ":18.54},
-{"Name":"CALLAHAN ","Rank":617,"Total ":49925,"Per100K ":18.51},
-{"Name":"HENSLEY ","Rank":618,"Total ":49858,"Per100K ":18.48},
-{"Name":"ATKINS ","Rank":619,"Total ":49754,"Per100K ":18.44},
-{"Name":"HUFFMAN ","Rank":620,"Total ":49737,"Per100K ":18.44},
-{"Name":"ROY ","Rank":621,"Total ":49725,"Per100K ":18.43},
-{"Name":"BOYER ","Rank":622,"Total ":49601,"Per100K ":18.39},
-{"Name":"SHIELDS ","Rank":623,"Total ":49556,"Per100K ":18.37},
-{"Name":"LIN ","Rank":624,"Total ":49360,"Per100K ":18.3},
-{"Name":"HANCOCK ","Rank":625,"Total ":49330,"Per100K ":18.29},
-{"Name":"GRIMES ","Rank":626,"Total ":49245,"Per100K ":18.25},
-{"Name":"GLENN ","Rank":627,"Total ":49241,"Per100K ":18.25},
-{"Name":"CLINE ","Rank":628,"Total ":49167,"Per100K ":18.23},
-{"Name":"DELACRUZ ","Rank":629,"Total ":49158,"Per100K ":18.22},
-{"Name":"CAMACHO ","Rank":630,"Total ":49000,"Per100K ":18.16},
-{"Name":"DILLON ","Rank":631,"Total ":48833,"Per100K ":18.1},
-{"Name":"PARRISH ","Rank":632,"Total ":48823,"Per100K ":18.1},
-{"Name":"ONEILL ","Rank":633,"Total ":48656,"Per100K ":18.04},
-{"Name":"MELTON ","Rank":634,"Total ":48594,"Per100K ":18.01},
-{"Name":"BOOTH ","Rank":635,"Total ":48580,"Per100K ":18.01},
-{"Name":"KANE ","Rank":636,"Total ":48527,"Per100K ":17.99},
-{"Name":"BERG ","Rank":637,"Total ":48480,"Per100K ":17.97},
-{"Name":"HARRELL ","Rank":638,"Total ":48471,"Per100K ":17.97},
-{"Name":"PITTS ","Rank":639,"Total ":48462,"Per100K ":17.96},
-{"Name":"SAVAGE ","Rank":640,"Total ":48367,"Per100K ":17.93},
-{"Name":"WIGGINS ","Rank":641,"Total ":48355,"Per100K ":17.93},
-{"Name":"BRENNAN ","Rank":642,"Total ":48296,"Per100K ":17.9},
-{"Name":"SALAS ","Rank":643,"Total ":48282,"Per100K ":17.9},
-{"Name":"MARKS ","Rank":644,"Total ":48281,"Per100K ":17.9},
-{"Name":"RUSSO ","Rank":645,"Total ":48126,"Per100K ":17.84},
-{"Name":"SAWYER ","Rank":646,"Total ":47979,"Per100K ":17.79},
-{"Name":"BAXTER ","Rank":647,"Total ":47857,"Per100K ":17.74},
-{"Name":"GOLDEN ","Rank":648,"Total ":47839,"Per100K ":17.73},
-{"Name":"HUTCHINSON ","Rank":649,"Total ":47809,"Per100K ":17.72},
-{"Name":"LIU ","Rank":650,"Total ":47665,"Per100K ":17.67},
-{"Name":"WALTER ","Rank":651,"Total ":47615,"Per100K ":17.65},
-{"Name":"MCDOWELL ","Rank":652,"Total ":47526,"Per100K ":17.62},
-{"Name":"WILEY ","Rank":653,"Total ":47503,"Per100K ":17.61},
-{"Name":"RICH ","Rank":654,"Total ":47477,"Per100K ":17.6},
-{"Name":"HUMPHREY ","Rank":655,"Total ":47470,"Per100K ":17.6},
-{"Name":"JOHNS ","Rank":656,"Total ":47289,"Per100K ":17.53},
-{"Name":"KOCH ","Rank":657,"Total ":47286,"Per100K ":17.53},
-{"Name":"SUAREZ ","Rank":658,"Total ":47235,"Per100K ":17.51},
-{"Name":"HOBBS ","Rank":659,"Total ":47220,"Per100K ":17.5},
-{"Name":"BEARD ","Rank":660,"Total ":47128,"Per100K ":17.47},
-{"Name":"GILMORE ","Rank":661,"Total ":47050,"Per100K ":17.44},
-{"Name":"IBARRA ","Rank":662,"Total ":46895,"Per100K ":17.38},
-{"Name":"KEITH ","Rank":663,"Total ":46747,"Per100K ":17.33},
-{"Name":"MACIAS ","Rank":664,"Total ":46739,"Per100K ":17.33},
-{"Name":"KHAN ","Rank":665,"Total ":46713,"Per100K ":17.32},
-{"Name":"ANDRADE ","Rank":666,"Total ":46702,"Per100K ":17.31},
-{"Name":"WARE ","Rank":667,"Total ":46682,"Per100K ":17.3},
-{"Name":"STEPHENSON ","Rank":668,"Total ":46662,"Per100K ":17.3},
-{"Name":"HENSON ","Rank":669,"Total ":46609,"Per100K ":17.28},
-{"Name":"WILKERSON ","Rank":670,"Total ":46605,"Per100K ":17.28},
-{"Name":"DYER ","Rank":671,"Total ":46574,"Per100K ":17.26},
-{"Name":"MCCLURE ","Rank":672,"Total ":46505,"Per100K ":17.24},
-{"Name":"BLACKWELL ","Rank":673,"Total ":46495,"Per100K ":17.24},
-{"Name":"MERCADO ","Rank":674,"Total ":46437,"Per100K ":17.21},
-{"Name":"TANNER ","Rank":675,"Total ":46412,"Per100K ":17.2},
-{"Name":"EATON ","Rank":676,"Total ":46403,"Per100K ":17.2},
-{"Name":"CLAY ","Rank":677,"Total ":46264,"Per100K ":17.15},
-{"Name":"BARRON ","Rank":678,"Total ":46196,"Per100K ":17.12},
-{"Name":"BEASLEY ","Rank":679,"Total ":46179,"Per100K ":17.12},
-{"Name":"ONEAL ","Rank":680,"Total ":46161,"Per100K ":17.11},
-{"Name":"PRESTON ","Rank":681,"Total ":45850,"Per100K ":17},
-{"Name":"SMALL ","Rank":681,"Total ":45850,"Per100K ":17},
-{"Name":"WU ","Rank":683,"Total ":45815,"Per100K ":16.98},
-{"Name":"ZAMORA ","Rank":684,"Total ":45806,"Per100K ":16.98},
-{"Name":"MACDONALD ","Rank":685,"Total ":45782,"Per100K ":16.97},
-{"Name":"VANCE ","Rank":686,"Total ":45763,"Per100K ":16.96},
-{"Name":"SNOW ","Rank":687,"Total ":45689,"Per100K ":16.94},
-{"Name":"MCCLAIN ","Rank":688,"Total ":45560,"Per100K ":16.89},
-{"Name":"STAFFORD ","Rank":689,"Total ":45349,"Per100K ":16.81},
-{"Name":"OROZCO ","Rank":690,"Total ":45289,"Per100K ":16.79},
-{"Name":"BARRY ","Rank":691,"Total ":45044,"Per100K ":16.7},
-{"Name":"ENGLISH ","Rank":692,"Total ":45032,"Per100K ":16.69},
-{"Name":"SHANNON ","Rank":693,"Total ":44902,"Per100K ":16.65},
-{"Name":"KLINE ","Rank":694,"Total ":44900,"Per100K ":16.64},
-{"Name":"JACOBSON ","Rank":695,"Total ":44874,"Per100K ":16.63},
-{"Name":"WOODARD ","Rank":696,"Total ":44830,"Per100K ":16.62},
-{"Name":"HUANG ","Rank":697,"Total ":44715,"Per100K ":16.58},
-{"Name":"KEMP ","Rank":698,"Total ":44701,"Per100K ":16.57},
-{"Name":"MOSLEY ","Rank":699,"Total ":44698,"Per100K ":16.57},
-{"Name":"PRINCE ","Rank":700,"Total ":44640,"Per100K ":16.55},
-{"Name":"MERRITT ","Rank":701,"Total ":44626,"Per100K ":16.54},
-{"Name":"HURST ","Rank":702,"Total ":44587,"Per100K ":16.53},
-{"Name":"VILLANUEVA ","Rank":703,"Total ":44570,"Per100K ":16.52},
-{"Name":"ROACH ","Rank":704,"Total ":44454,"Per100K ":16.48},
-{"Name":"NOLAN ","Rank":705,"Total ":44421,"Per100K ":16.47},
-{"Name":"LAM ","Rank":706,"Total ":44385,"Per100K ":16.45},
-{"Name":"YODER ","Rank":707,"Total ":44245,"Per100K ":16.4},
-{"Name":"MCCULLOUGH ","Rank":708,"Total ":44123,"Per100K ":16.36},
-{"Name":"LESTER ","Rank":709,"Total ":43919,"Per100K ":16.28},
-{"Name":"SANTANA ","Rank":710,"Total ":43875,"Per100K ":16.26},
-{"Name":"VALENZUELA ","Rank":711,"Total ":43770,"Per100K ":16.23},
-{"Name":"WINTERS ","Rank":712,"Total ":43762,"Per100K ":16.22},
-{"Name":"BARRERA ","Rank":713,"Total ":43720,"Per100K ":16.21},
-{"Name":"LEACH ","Rank":714,"Total ":43666,"Per100K ":16.19},
-{"Name":"ORR ","Rank":714,"Total ":43666,"Per100K ":16.19},
-{"Name":"BERGER ","Rank":716,"Total ":43556,"Per100K ":16.15},
-{"Name":"MCKEE ","Rank":717,"Total ":43555,"Per100K ":16.15},
-{"Name":"STRONG ","Rank":718,"Total ":43430,"Per100K ":16.1},
-{"Name":"CONWAY ","Rank":719,"Total ":43395,"Per100K ":16.09},
-{"Name":"STEIN ","Rank":720,"Total ":43331,"Per100K ":16.06},
-{"Name":"WHITEHEAD ","Rank":721,"Total ":43310,"Per100K ":16.05},
-{"Name":"BULLOCK ","Rank":722,"Total ":43021,"Per100K ":15.95},
-{"Name":"ESCOBAR ","Rank":723,"Total ":42955,"Per100K ":15.92},
-{"Name":"KNOX ","Rank":724,"Total ":42937,"Per100K ":15.92},
-{"Name":"MEADOWS ","Rank":725,"Total ":42884,"Per100K ":15.9},
-{"Name":"SOLOMON ","Rank":726,"Total ":42839,"Per100K ":15.88},
-{"Name":"VELEZ ","Rank":727,"Total ":42820,"Per100K ":15.87},
-{"Name":"ODONNELL ","Rank":728,"Total ":42802,"Per100K ":15.87},
-{"Name":"KERR ","Rank":729,"Total ":42758,"Per100K ":15.85},
-{"Name":"STOUT ","Rank":730,"Total ":42669,"Per100K ":15.82},
-{"Name":"BLANKENSHIP ","Rank":731,"Total ":42663,"Per100K ":15.82},
-{"Name":"BROWNING ","Rank":732,"Total ":42642,"Per100K ":15.81},
-{"Name":"KENT ","Rank":733,"Total ":42597,"Per100K ":15.79},
-{"Name":"LOZANO ","Rank":734,"Total ":42567,"Per100K ":15.78},
-{"Name":"BARTLETT ","Rank":735,"Total ":42512,"Per100K ":15.76},
-{"Name":"PRUITT ","Rank":736,"Total ":42463,"Per100K ":15.74},
-{"Name":"BUCK ","Rank":737,"Total ":42441,"Per100K ":15.73},
-{"Name":"BARR ","Rank":738,"Total ":42432,"Per100K ":15.73},
-{"Name":"GAINES ","Rank":739,"Total ":42369,"Per100K ":15.71},
-{"Name":"DURHAM ","Rank":740,"Total ":42365,"Per100K ":15.7},
-{"Name":"GENTRY ","Rank":741,"Total ":42357,"Per100K ":15.7},
-{"Name":"MCINTYRE ","Rank":742,"Total ":42335,"Per100K ":15.69},
-{"Name":"SLOAN ","Rank":743,"Total ":42281,"Per100K ":15.67},
-{"Name":"MELENDEZ ","Rank":744,"Total ":42139,"Per100K ":15.62},
-{"Name":"ROCHA ","Rank":744,"Total ":42139,"Per100K ":15.62},
-{"Name":"HERMAN ","Rank":746,"Total ":42091,"Per100K ":15.6},
-{"Name":"SEXTON ","Rank":747,"Total ":42080,"Per100K ":15.6},
-{"Name":"MOON ","Rank":748,"Total ":42062,"Per100K ":15.59},
-{"Name":"HENDRICKS ","Rank":749,"Total ":41879,"Per100K ":15.52},
-{"Name":"RANGEL ","Rank":750,"Total ":41868,"Per100K ":15.52},
-{"Name":"STARK ","Rank":751,"Total ":41863,"Per100K ":15.52},
-{"Name":"LOWERY ","Rank":752,"Total ":41670,"Per100K ":15.45},
-{"Name":"HARDIN ","Rank":753,"Total ":41664,"Per100K ":15.44},
-{"Name":"HULL ","Rank":754,"Total ":41656,"Per100K ":15.44},
-{"Name":"SELLERS ","Rank":755,"Total ":41561,"Per100K ":15.41},
-{"Name":"ELLISON ","Rank":756,"Total ":41459,"Per100K ":15.37},
-{"Name":"CALHOUN ","Rank":757,"Total ":41452,"Per100K ":15.37},
-{"Name":"GILLESPIE ","Rank":758,"Total ":41393,"Per100K ":15.34},
-{"Name":"MORA ","Rank":759,"Total ":41348,"Per100K ":15.33},
-{"Name":"KNAPP ","Rank":760,"Total ":41267,"Per100K ":15.3},
-{"Name":"MCCALL ","Rank":761,"Total ":41231,"Per100K ":15.28},
-{"Name":"MORSE ","Rank":762,"Total ":41112,"Per100K ":15.24},
-{"Name":"DORSEY ","Rank":763,"Total ":41104,"Per100K ":15.24},
-{"Name":"WEEKS ","Rank":764,"Total ":41053,"Per100K ":15.22},
-{"Name":"NIELSEN ","Rank":765,"Total ":41007,"Per100K ":15.2},
-{"Name":"LIVINGSTON ","Rank":766,"Total ":40964,"Per100K ":15.19},
-{"Name":"LEBLANC ","Rank":767,"Total ":40923,"Per100K ":15.17},
-{"Name":"MCLEAN ","Rank":768,"Total ":40871,"Per100K ":15.15},
-{"Name":"BRADSHAW ","Rank":769,"Total ":40794,"Per100K ":15.12},
-{"Name":"GLASS ","Rank":770,"Total ":40724,"Per100K ":15.1},
-{"Name":"MIDDLETON ","Rank":771,"Total ":40708,"Per100K ":15.09},
-{"Name":"BUCKLEY ","Rank":772,"Total ":40706,"Per100K ":15.09},
-{"Name":"SCHAEFER ","Rank":773,"Total ":40663,"Per100K ":15.07},
-{"Name":"FROST ","Rank":774,"Total ":40582,"Per100K ":15.04},
-{"Name":"HOWE ","Rank":775,"Total ":40555,"Per100K ":15.03},
-{"Name":"HOUSE ","Rank":776,"Total ":40477,"Per100K ":15},
-{"Name":"MCINTOSH ","Rank":777,"Total ":40453,"Per100K ":15},
-{"Name":"HO ","Rank":778,"Total ":40413,"Per100K ":14.98},
-{"Name":"PENNINGTON ","Rank":779,"Total ":40339,"Per100K ":14.95},
-{"Name":"REILLY ","Rank":780,"Total ":40310,"Per100K ":14.94},
-{"Name":"HEBERT ","Rank":781,"Total ":40283,"Per100K ":14.93},
-{"Name":"MCFARLAND ","Rank":782,"Total ":40244,"Per100K ":14.92},
-{"Name":"HICKMAN ","Rank":783,"Total ":40224,"Per100K ":14.91},
-{"Name":"NOBLE ","Rank":784,"Total ":40217,"Per100K ":14.91},
-{"Name":"SPEARS ","Rank":785,"Total ":40203,"Per100K ":14.9},
-{"Name":"CONRAD ","Rank":786,"Total ":40102,"Per100K ":14.87},
-{"Name":"ARIAS ","Rank":787,"Total ":40086,"Per100K ":14.86},
-{"Name":"GALVAN ","Rank":788,"Total ":40046,"Per100K ":14.84},
-{"Name":"VELAZQUEZ ","Rank":789,"Total ":40030,"Per100K ":14.84},
-{"Name":"HUYNH ","Rank":790,"Total ":40011,"Per100K ":14.83},
-{"Name":"FREDERICK ","Rank":791,"Total ":39909,"Per100K ":14.79},
-{"Name":"RANDOLPH ","Rank":792,"Total ":39742,"Per100K ":14.73},
-{"Name":"CANTU ","Rank":793,"Total ":39601,"Per100K ":14.68},
-{"Name":"FITZPATRICK ","Rank":794,"Total ":39501,"Per100K ":14.64},
-{"Name":"MAHONEY ","Rank":795,"Total ":39440,"Per100K ":14.62},
-{"Name":"PECK ","Rank":796,"Total ":39432,"Per100K ":14.62},
-{"Name":"VILLA ","Rank":797,"Total ":39402,"Per100K ":14.61},
-{"Name":"MICHAEL ","Rank":798,"Total ":39369,"Per100K ":14.59},
-{"Name":"DONOVAN ","Rank":799,"Total ":39270,"Per100K ":14.56},
-{"Name":"MCCONNELL ","Rank":800,"Total ":39203,"Per100K ":14.53},
-{"Name":"WALLS ","Rank":801,"Total ":39166,"Per100K ":14.52},
-{"Name":"BOYLE ","Rank":802,"Total ":39141,"Per100K ":14.51},
-{"Name":"MAYER ","Rank":803,"Total ":39111,"Per100K ":14.5},
-{"Name":"ZUNIGA ","Rank":804,"Total ":39057,"Per100K ":14.48},
-{"Name":"GILES ","Rank":805,"Total ":39002,"Per100K ":14.46},
-{"Name":"PINEDA ","Rank":806,"Total ":38999,"Per100K ":14.46},
-{"Name":"PACE ","Rank":807,"Total ":38975,"Per100K ":14.45},
-{"Name":"HURLEY ","Rank":808,"Total ":38971,"Per100K ":14.45},
-{"Name":"MAYS ","Rank":809,"Total ":38914,"Per100K ":14.43},
-{"Name":"MCMILLAN ","Rank":810,"Total ":38896,"Per100K ":14.42},
-{"Name":"CROSBY ","Rank":811,"Total ":38844,"Per100K ":14.4},
-{"Name":"AYERS ","Rank":812,"Total ":38836,"Per100K ":14.4},
-{"Name":"CASE ","Rank":813,"Total ":38759,"Per100K ":14.37},
-{"Name":"BENTLEY ","Rank":814,"Total ":38714,"Per100K ":14.35},
-{"Name":"SHEPARD ","Rank":815,"Total ":38705,"Per100K ":14.35},
-{"Name":"EVERETT ","Rank":816,"Total ":38702,"Per100K ":14.35},
-{"Name":"PUGH ","Rank":817,"Total ":38691,"Per100K ":14.34},
-{"Name":"DAVID ","Rank":818,"Total ":38659,"Per100K ":14.33},
-{"Name":"MCMAHON ","Rank":819,"Total ":38557,"Per100K ":14.29},
-{"Name":"DUNLAP ","Rank":820,"Total ":38516,"Per100K ":14.28},
-{"Name":"BENDER ","Rank":821,"Total ":38464,"Per100K ":14.26},
-{"Name":"HAHN ","Rank":822,"Total ":38354,"Per100K ":14.22},
-{"Name":"HARDING ","Rank":823,"Total ":38340,"Per100K ":14.21},
-{"Name":"ACEVEDO ","Rank":824,"Total ":38232,"Per100K ":14.17},
-{"Name":"RAYMOND ","Rank":825,"Total ":38158,"Per100K ":14.15},
-{"Name":"BLACKBURN ","Rank":826,"Total ":38137,"Per100K ":14.14},
-{"Name":"DUFFY ","Rank":827,"Total ":37962,"Per100K ":14.07},
-{"Name":"LANDRY ","Rank":828,"Total ":37961,"Per100K ":14.07},
-{"Name":"DOUGHERTY ","Rank":829,"Total ":37903,"Per100K ":14.05},
-{"Name":"BAUTISTA ","Rank":830,"Total ":37847,"Per100K ":14.03},
-{"Name":"SHAH ","Rank":831,"Total ":37833,"Per100K ":14.02},
-{"Name":"POTTS ","Rank":832,"Total ":37687,"Per100K ":13.97},
-{"Name":"ARROYO ","Rank":833,"Total ":37678,"Per100K ":13.97},
-{"Name":"VALENTINE ","Rank":834,"Total ":37669,"Per100K ":13.96},
-{"Name":"MEZA ","Rank":835,"Total ":37662,"Per100K ":13.96},
-{"Name":"GOULD ","Rank":836,"Total ":37660,"Per100K ":13.96},
-{"Name":"VAUGHAN ","Rank":837,"Total ":37591,"Per100K ":13.93},
-{"Name":"FRY ","Rank":838,"Total ":37542,"Per100K ":13.92},
-{"Name":"RUSH ","Rank":839,"Total ":37470,"Per100K ":13.89},
-{"Name":"AVERY ","Rank":840,"Total ":37440,"Per100K ":13.88},
-{"Name":"HERRING ","Rank":841,"Total ":37353,"Per100K ":13.85},
-{"Name":"DODSON ","Rank":842,"Total ":37298,"Per100K ":13.83},
-{"Name":"CLEMENTS ","Rank":843,"Total ":37237,"Per100K ":13.8},
-{"Name":"SAMPSON ","Rank":844,"Total ":37234,"Per100K ":13.8},
-{"Name":"TAPIA ","Rank":845,"Total ":37201,"Per100K ":13.79},
-{"Name":"BEAN ","Rank":846,"Total ":37145,"Per100K ":13.77},
-{"Name":"LYNN ","Rank":847,"Total ":37125,"Per100K ":13.76},
-{"Name":"CRANE ","Rank":848,"Total ":37123,"Per100K ":13.76},
-{"Name":"FARLEY ","Rank":849,"Total ":37116,"Per100K ":13.76},
-{"Name":"CISNEROS ","Rank":850,"Total ":37050,"Per100K ":13.73},
-{"Name":"BENTON ","Rank":851,"Total ":37032,"Per100K ":13.73},
-{"Name":"ASHLEY ","Rank":852,"Total ":37021,"Per100K ":13.72},
-{"Name":"MCKAY ","Rank":853,"Total ":36948,"Per100K ":13.7},
-{"Name":"FINLEY ","Rank":854,"Total ":36874,"Per100K ":13.67},
-{"Name":"BEST ","Rank":855,"Total ":36862,"Per100K ":13.66},
-{"Name":"BLEVINS ","Rank":856,"Total ":36841,"Per100K ":13.66},
-{"Name":"FRIEDMAN ","Rank":857,"Total ":36833,"Per100K ":13.65},
-{"Name":"MOSES ","Rank":858,"Total ":36814,"Per100K ":13.65},
-{"Name":"SOSA ","Rank":859,"Total ":36813,"Per100K ":13.65},
-{"Name":"BLANCHARD ","Rank":860,"Total ":36764,"Per100K ":13.63},
-{"Name":"HUBER ","Rank":861,"Total ":36729,"Per100K ":13.62},
-{"Name":"FRYE ","Rank":862,"Total ":36716,"Per100K ":13.61},
-{"Name":"KRUEGER ","Rank":863,"Total ":36694,"Per100K ":13.6},
-{"Name":"BERNARD ","Rank":864,"Total ":36546,"Per100K ":13.55},
-{"Name":"ROSARIO ","Rank":865,"Total ":36539,"Per100K ":13.54},
-{"Name":"RUBIO ","Rank":866,"Total ":36531,"Per100K ":13.54},
-{"Name":"MULLEN ","Rank":867,"Total ":36442,"Per100K ":13.51},
-{"Name":"BENJAMIN ","Rank":868,"Total ":36439,"Per100K ":13.51},
-{"Name":"HALEY ","Rank":869,"Total ":36433,"Per100K ":13.51},
-{"Name":"CHUNG ","Rank":870,"Total ":36422,"Per100K ":13.5},
-{"Name":"MOYER ","Rank":871,"Total ":36421,"Per100K ":13.5},
-{"Name":"CHOI ","Rank":872,"Total ":36390,"Per100K ":13.49},
-{"Name":"HORNE ","Rank":873,"Total ":36288,"Per100K ":13.45},
-{"Name":"YU ","Rank":874,"Total ":36285,"Per100K ":13.45},
-{"Name":"WOODWARD ","Rank":875,"Total ":36242,"Per100K ":13.43},
-{"Name":"ALI ","Rank":876,"Total ":36079,"Per100K ":13.37},
-{"Name":"NIXON ","Rank":877,"Total ":36037,"Per100K ":13.36},
-{"Name":"HAYDEN ","Rank":878,"Total ":36024,"Per100K ":13.35},
-{"Name":"RIVERS ","Rank":879,"Total ":35980,"Per100K ":13.34},
-{"Name":"ESTES ","Rank":880,"Total ":35839,"Per100K ":13.29},
-{"Name":"MCCARTY ","Rank":881,"Total ":35718,"Per100K ":13.24},
-{"Name":"RICHMOND ","Rank":882,"Total ":35715,"Per100K ":13.24},
-{"Name":"STUART ","Rank":883,"Total ":35701,"Per100K ":13.23},
-{"Name":"MAYNARD ","Rank":884,"Total ":35648,"Per100K ":13.21},
-{"Name":"BRANDT ","Rank":885,"Total ":35616,"Per100K ":13.2},
-{"Name":"OCONNELL ","Rank":886,"Total ":35610,"Per100K ":13.2},
-{"Name":"HANNA ","Rank":887,"Total ":35599,"Per100K ":13.2},
-{"Name":"SANFORD ","Rank":888,"Total ":35565,"Per100K ":13.18},
-{"Name":"SHEPPARD ","Rank":889,"Total ":35554,"Per100K ":13.18},
-{"Name":"CHURCH ","Rank":890,"Total ":35539,"Per100K ":13.17},
-{"Name":"BURCH ","Rank":891,"Total ":35521,"Per100K ":13.17},
-{"Name":"LEVY ","Rank":892,"Total ":35464,"Per100K ":13.15},
-{"Name":"RASMUSSEN ","Rank":893,"Total ":35453,"Per100K ":13.14},
-{"Name":"COFFEY ","Rank":894,"Total ":35442,"Per100K ":13.14},
-{"Name":"PONCE ","Rank":895,"Total ":35400,"Per100K ":13.12},
-{"Name":"FAULKNER ","Rank":896,"Total ":35389,"Per100K ":13.12},
-{"Name":"DONALDSON ","Rank":897,"Total ":35387,"Per100K ":13.12},
-{"Name":"SCHMITT ","Rank":898,"Total ":35326,"Per100K ":13.1},
-{"Name":"NOVAK ","Rank":899,"Total ":35282,"Per100K ":13.08},
-{"Name":"COSTA ","Rank":900,"Total ":35227,"Per100K ":13.06},
-{"Name":"MONTES ","Rank":901,"Total ":35196,"Per100K ":13.05},
-{"Name":"BOOKER ","Rank":902,"Total ":35101,"Per100K ":13.01},
-{"Name":"CORDOVA ","Rank":903,"Total ":35074,"Per100K ":13},
-{"Name":"WALLER ","Rank":904,"Total ":35001,"Per100K ":12.97},
-{"Name":"ARELLANO ","Rank":905,"Total ":34999,"Per100K ":12.97},
-{"Name":"MADDOX ","Rank":906,"Total ":34970,"Per100K ":12.96},
-{"Name":"MATA ","Rank":907,"Total ":34888,"Per100K ":12.93},
-{"Name":"BONILLA ","Rank":908,"Total ":34824,"Per100K ":12.91},
-{"Name":"STANTON ","Rank":909,"Total ":34812,"Per100K ":12.9},
-{"Name":"COMPTON ","Rank":910,"Total ":34788,"Per100K ":12.9},
-{"Name":"KAUFMAN ","Rank":911,"Total ":34786,"Per100K ":12.9},
-{"Name":"DUDLEY ","Rank":912,"Total ":34770,"Per100K ":12.89},
-{"Name":"MCPHERSON ","Rank":913,"Total ":34763,"Per100K ":12.89},
-{"Name":"BELTRAN ","Rank":914,"Total ":34736,"Per100K ":12.88},
-{"Name":"DICKSON ","Rank":915,"Total ":34698,"Per100K ":12.86},
-{"Name":"MCCANN ","Rank":916,"Total ":34692,"Per100K ":12.86},
-{"Name":"VILLEGAS ","Rank":917,"Total ":34684,"Per100K ":12.86},
-{"Name":"PROCTOR ","Rank":918,"Total ":34682,"Per100K ":12.86},
-{"Name":"HESTER ","Rank":919,"Total ":34675,"Per100K ":12.85},
-{"Name":"CANTRELL ","Rank":920,"Total ":34674,"Per100K ":12.85},
-{"Name":"DAUGHERTY ","Rank":921,"Total ":34650,"Per100K ":12.84},
-{"Name":"CHERRY ","Rank":922,"Total ":34615,"Per100K ":12.83},
-{"Name":"BRAY ","Rank":923,"Total ":34575,"Per100K ":12.82},
-{"Name":"DAVILA ","Rank":924,"Total ":34541,"Per100K ":12.8},
-{"Name":"ROWLAND ","Rank":925,"Total ":34498,"Per100K ":12.79},
-{"Name":"LEVINE ","Rank":926,"Total ":34472,"Per100K ":12.78},
-{"Name":"MADDEN ","Rank":926,"Total ":34472,"Per100K ":12.78},
-{"Name":"SPENCE ","Rank":928,"Total ":34435,"Per100K ":12.76},
-{"Name":"GOOD ","Rank":929,"Total ":34430,"Per100K ":12.76},
-{"Name":"IRWIN ","Rank":930,"Total ":34374,"Per100K ":12.74},
-{"Name":"WERNER ","Rank":931,"Total ":34352,"Per100K ":12.73},
-{"Name":"KRAUSE ","Rank":932,"Total ":34345,"Per100K ":12.73},
-{"Name":"PETTY ","Rank":933,"Total ":34278,"Per100K ":12.71},
-{"Name":"WHITNEY ","Rank":934,"Total ":34251,"Per100K ":12.7},
-{"Name":"BAIRD ","Rank":935,"Total ":34233,"Per100K ":12.69},
-{"Name":"HOOPER ","Rank":936,"Total ":34084,"Per100K ":12.63},
-{"Name":"POLLARD ","Rank":937,"Total ":34079,"Per100K ":12.63},
-{"Name":"ZAVALA ","Rank":938,"Total ":34068,"Per100K ":12.63},
-{"Name":"JARVIS ","Rank":939,"Total ":34050,"Per100K ":12.62},
-{"Name":"HOLDEN ","Rank":940,"Total ":34041,"Per100K ":12.62},
-{"Name":"HAAS ","Rank":941,"Total ":34032,"Per100K ":12.62},
-{"Name":"HENDRIX ","Rank":941,"Total ":34032,"Per100K ":12.62},
-{"Name":"MCGRATH ","Rank":943,"Total ":34031,"Per100K ":12.62},
-{"Name":"BIRD ","Rank":944,"Total ":33962,"Per100K ":12.59},
-{"Name":"LUCERO ","Rank":945,"Total ":33922,"Per100K ":12.57},
-{"Name":"TERRELL ","Rank":946,"Total ":33914,"Per100K ":12.57},
-{"Name":"RIGGS ","Rank":947,"Total ":33868,"Per100K ":12.55},
-{"Name":"JOYCE ","Rank":948,"Total ":33843,"Per100K ":12.55},
-{"Name":"MERCER ","Rank":949,"Total ":33797,"Per100K ":12.53},
-{"Name":"ROLLINS ","Rank":949,"Total ":33797,"Per100K ":12.53},
-{"Name":"GALLOWAY ","Rank":951,"Total ":33773,"Per100K ":12.52},
-{"Name":"DUKE ","Rank":952,"Total ":33745,"Per100K ":12.51},
-{"Name":"ODOM ","Rank":953,"Total ":33717,"Per100K ":12.5},
-{"Name":"ANDERSEN ","Rank":954,"Total ":33508,"Per100K ":12.42},
-{"Name":"DOWNS ","Rank":955,"Total ":33494,"Per100K ":12.42},
-{"Name":"HATFIELD ","Rank":956,"Total ":33464,"Per100K ":12.41},
-{"Name":"BENITEZ ","Rank":957,"Total ":33441,"Per100K ":12.4},
-{"Name":"ARCHER ","Rank":958,"Total ":33411,"Per100K ":12.39},
-{"Name":"HUERTA ","Rank":959,"Total ":33348,"Per100K ":12.36},
-{"Name":"TRAVIS ","Rank":960,"Total ":33339,"Per100K ":12.36},
-{"Name":"MCNEIL ","Rank":961,"Total ":33239,"Per100K ":12.32},
-{"Name":"HINTON ","Rank":962,"Total ":33209,"Per100K ":12.31},
-{"Name":"ZHANG ","Rank":963,"Total ":33202,"Per100K ":12.31},
-{"Name":"HAYS ","Rank":964,"Total ":33194,"Per100K ":12.3},
-{"Name":"MAYO ","Rank":965,"Total ":33126,"Per100K ":12.28},
-{"Name":"FRITZ ","Rank":966,"Total ":33068,"Per100K ":12.26},
-{"Name":"BRANCH ","Rank":967,"Total ":33040,"Per100K ":12.25},
-{"Name":"MOONEY ","Rank":968,"Total ":32953,"Per100K ":12.22},
-{"Name":"EWING ","Rank":969,"Total ":32925,"Per100K ":12.21},
-{"Name":"RITTER ","Rank":970,"Total ":32864,"Per100K ":12.18},
-{"Name":"ESPARZA ","Rank":971,"Total ":32772,"Per100K ":12.15},
-{"Name":"FREY ","Rank":972,"Total ":32735,"Per100K ":12.13},
-{"Name":"BRAUN ","Rank":973,"Total ":32676,"Per100K ":12.11},
-{"Name":"GAY ","Rank":974,"Total ":32672,"Per100K ":12.11},
-{"Name":"RIDDLE ","Rank":975,"Total ":32654,"Per100K ":12.1},
-{"Name":"HANEY ","Rank":976,"Total ":32644,"Per100K ":12.1},
-{"Name":"KAISER ","Rank":977,"Total ":32567,"Per100K ":12.07},
-{"Name":"HOLDER ","Rank":978,"Total ":32466,"Per100K ":12.04},
-{"Name":"CHANEY ","Rank":979,"Total ":32433,"Per100K ":12.02},
-{"Name":"MCKNIGHT ","Rank":980,"Total ":32386,"Per100K ":12.01},
-{"Name":"GAMBLE ","Rank":981,"Total ":32377,"Per100K ":12},
-{"Name":"VANG ","Rank":982,"Total ":32333,"Per100K ":11.99},
-{"Name":"COOLEY ","Rank":983,"Total ":32287,"Per100K ":11.97},
-{"Name":"CARNEY ","Rank":984,"Total ":32282,"Per100K ":11.97},
-{"Name":"COWAN ","Rank":985,"Total ":32242,"Per100K ":11.95},
-{"Name":"FORBES ","Rank":986,"Total ":32228,"Per100K ":11.95},
-{"Name":"FERRELL ","Rank":987,"Total ":32174,"Per100K ":11.93},
-{"Name":"DAVIES ","Rank":988,"Total ":32165,"Per100K ":11.92},
-{"Name":"BARAJAS ","Rank":989,"Total ":32147,"Per100K ":11.92},
-{"Name":"SHEA ","Rank":990,"Total ":32069,"Per100K ":11.89},
-{"Name":"OSBORN ","Rank":991,"Total ":32044,"Per100K ":11.88},
-{"Name":"BRIGHT ","Rank":992,"Total ":32042,"Per100K ":11.88},
-{"Name":"CUEVAS ","Rank":993,"Total ":32015,"Per100K ":11.87},
-{"Name":"BOLTON ","Rank":994,"Total ":31995,"Per100K ":11.86},
-{"Name":"MURILLO ","Rank":995,"Total ":31964,"Per100K ":11.85},
-{"Name":"LUTZ ","Rank":996,"Total ":31940,"Per100K ":11.84},
-{"Name":"DUARTE ","Rank":997,"Total ":31896,"Per100K ":11.82},
-{"Name":"KIDD ","Rank":998,"Total ":31886,"Per100K ":11.82},
-{"Name":"KEY ","Rank":999,"Total ":31882,"Per100K ":11.82},
-{"Name":"COOKE ","Rank":1000,"Total ":31860,"Per100K ":11.81}]
+[
+  {
+    "Name": "SMITH ",
+    "Rank": 1,
+    "Total ": 2376206,
+    "Per100K ": 880.85
+  },
+  {
+    "Name": "JOHNSON ",
+    "Rank": 2,
+    "Total ": 1857160,
+    "Per100K ": 688.44
+  },
+  {
+    "Name": "WILLIAMS ",
+    "Rank": 3,
+    "Total ": 1534042,
+    "Per100K ": 568.66
+  },
+  {
+    "Name": "BROWN ",
+    "Rank": 4,
+    "Total ": 1380145,
+    "Per100K ": 511.62
+  },
+  {
+    "Name": "JONES ",
+    "Rank": 5,
+    "Total ": 1362755,
+    "Per100K ": 505.17
+  },
+  {
+    "Name": "MILLER ",
+    "Rank": 6,
+    "Total ": 1127803,
+    "Per100K ": 418.07
+  },
+  {
+    "Name": "DAVIS ",
+    "Rank": 7,
+    "Total ": 1072335,
+    "Per100K ": 397.51
+  },
+  {
+    "Name": "GARCIA ",
+    "Rank": 8,
+    "Total ": 858289,
+    "Per100K ": 318.17
+  },
+  {
+    "Name": "RODRIGUEZ ",
+    "Rank": 9,
+    "Total ": 804240,
+    "Per100K ": 298.13
+  },
+  {
+    "Name": "WILSON ",
+    "Rank": 10,
+    "Total ": 783051,
+    "Per100K ": 290.27
+  },
+  {
+    "Name": "MARTINEZ ",
+    "Rank": 11,
+    "Total ": 775072,
+    "Per100K ": 287.32
+  },
+  {
+    "Name": "ANDERSON ",
+    "Rank": 12,
+    "Total ": 762394,
+    "Per100K ": 282.62
+  },
+  {
+    "Name": "TAYLOR ",
+    "Rank": 13,
+    "Total ": 720370,
+    "Per100K ": 267.04
+  },
+  {
+    "Name": "THOMAS ",
+    "Rank": 14,
+    "Total ": 710696,
+    "Per100K ": 263.45
+  },
+  {
+    "Name": "HERNANDEZ ",
+    "Rank": 15,
+    "Total ": 706372,
+    "Per100K ": 261.85
+  },
+  {
+    "Name": "MOORE ",
+    "Rank": 16,
+    "Total ": 698671,
+    "Per100K ": 259
+  },
+  {
+    "Name": "MARTIN ",
+    "Rank": 17,
+    "Total ": 672711,
+    "Per100K ": 249.37
+  },
+  {
+    "Name": "JACKSON ",
+    "Rank": 18,
+    "Total ": 666125,
+    "Per100K ": 246.93
+  },
+  {
+    "Name": "THOMPSON ",
+    "Rank": 19,
+    "Total ": 644368,
+    "Per100K ": 238.87
+  },
+  {
+    "Name": "WHITE ",
+    "Rank": 20,
+    "Total ": 639515,
+    "Per100K ": 237.07
+  },
+  {
+    "Name": "LOPEZ ",
+    "Rank": 21,
+    "Total ": 621536,
+    "Per100K ": 230.4
+  },
+  {
+    "Name": "LEE ",
+    "Rank": 22,
+    "Total ": 605860,
+    "Per100K ": 224.59
+  },
+  {
+    "Name": "GONZALEZ ",
+    "Rank": 23,
+    "Total ": 597718,
+    "Per100K ": 221.57
+  },
+  {
+    "Name": "HARRIS ",
+    "Rank": 24,
+    "Total ": 593542,
+    "Per100K ": 220.02
+  },
+  {
+    "Name": "CLARK ",
+    "Rank": 25,
+    "Total ": 548369,
+    "Per100K ": 203.28
+  },
+  {
+    "Name": "LEWIS ",
+    "Rank": 26,
+    "Total ": 509930,
+    "Per100K ": 189.03
+  },
+  {
+    "Name": "ROBINSON ",
+    "Rank": 27,
+    "Total ": 503028,
+    "Per100K ": 186.47
+  },
+  {
+    "Name": "WALKER ",
+    "Rank": 28,
+    "Total ": 501307,
+    "Per100K ": 185.83
+  },
+  {
+    "Name": "PEREZ ",
+    "Rank": 29,
+    "Total ": 488521,
+    "Per100K ": 181.09
+  },
+  {
+    "Name": "HALL ",
+    "Rank": 30,
+    "Total ": 473568,
+    "Per100K ": 175.55
+  },
+  {
+    "Name": "YOUNG ",
+    "Rank": 31,
+    "Total ": 465948,
+    "Per100K ": 172.73
+  },
+  {
+    "Name": "ALLEN ",
+    "Rank": 32,
+    "Total ": 463368,
+    "Per100K ": 171.77
+  },
+  {
+    "Name": "SANCHEZ ",
+    "Rank": 33,
+    "Total ": 441242,
+    "Per100K ": 163.57
+  },
+  {
+    "Name": "WRIGHT ",
+    "Rank": 34,
+    "Total ": 440367,
+    "Per100K ": 163.24
+  },
+  {
+    "Name": "KING ",
+    "Rank": 35,
+    "Total ": 438986,
+    "Per100K ": 162.73
+  },
+  {
+    "Name": "SCOTT ",
+    "Rank": 36,
+    "Total ": 420091,
+    "Per100K ": 155.73
+  },
+  {
+    "Name": "GREEN ",
+    "Rank": 37,
+    "Total ": 413477,
+    "Per100K ": 153.27
+  },
+  {
+    "Name": "BAKER ",
+    "Rank": 38,
+    "Total ": 413351,
+    "Per100K ": 153.23
+  },
+  {
+    "Name": "ADAMS ",
+    "Rank": 39,
+    "Total ": 413086,
+    "Per100K ": 153.13
+  },
+  {
+    "Name": "NELSON ",
+    "Rank": 40,
+    "Total ": 412236,
+    "Per100K ": 152.81
+  },
+  {
+    "Name": "HILL ",
+    "Rank": 41,
+    "Total ": 411770,
+    "Per100K ": 152.64
+  },
+  {
+    "Name": "RAMIREZ ",
+    "Rank": 42,
+    "Total ": 388987,
+    "Per100K ": 144.2
+  },
+  {
+    "Name": "CAMPBELL ",
+    "Rank": 43,
+    "Total ": 371953,
+    "Per100K ": 137.88
+  },
+  {
+    "Name": "MITCHELL ",
+    "Rank": 44,
+    "Total ": 367433,
+    "Per100K ": 136.21
+  },
+  {
+    "Name": "ROBERTS ",
+    "Rank": 45,
+    "Total ": 366215,
+    "Per100K ": 135.75
+  },
+  {
+    "Name": "CARTER ",
+    "Rank": 46,
+    "Total ": 362548,
+    "Per100K ": 134.4
+  },
+  {
+    "Name": "PHILLIPS ",
+    "Rank": 47,
+    "Total ": 351848,
+    "Per100K ": 130.43
+  },
+  {
+    "Name": "EVANS ",
+    "Rank": 48,
+    "Total ": 342237,
+    "Per100K ": 126.87
+  },
+  {
+    "Name": "TURNER ",
+    "Rank": 49,
+    "Total ": 335663,
+    "Per100K ": 124.43
+  },
+  {
+    "Name": "TORRES ",
+    "Rank": 50,
+    "Total ": 325169,
+    "Per100K ": 120.54
+  },
+  {
+    "Name": "PARKER ",
+    "Rank": 51,
+    "Total ": 324246,
+    "Per100K ": 120.2
+  },
+  {
+    "Name": "COLLINS ",
+    "Rank": 52,
+    "Total ": 317848,
+    "Per100K ": 117.83
+  },
+  {
+    "Name": "EDWARDS ",
+    "Rank": 53,
+    "Total ": 317070,
+    "Per100K ": 117.54
+  },
+  {
+    "Name": "STEWART ",
+    "Rank": 54,
+    "Total ": 312899,
+    "Per100K ": 115.99
+  },
+  {
+    "Name": "FLORES ",
+    "Rank": 55,
+    "Total ": 312615,
+    "Per100K ": 115.89
+  },
+  {
+    "Name": "MORRIS ",
+    "Rank": 56,
+    "Total ": 311754,
+    "Per100K ": 115.57
+  },
+  {
+    "Name": "NGUYEN ",
+    "Rank": 57,
+    "Total ": 310125,
+    "Per100K ": 114.96
+  },
+  {
+    "Name": "MURPHY ",
+    "Rank": 58,
+    "Total ": 300501,
+    "Per100K ": 111.39
+  },
+  {
+    "Name": "RIVERA ",
+    "Rank": 59,
+    "Total ": 299463,
+    "Per100K ": 111.01
+  },
+  {
+    "Name": "COOK ",
+    "Rank": 60,
+    "Total ": 294795,
+    "Per100K ": 109.28
+  },
+  {
+    "Name": "ROGERS ",
+    "Rank": 61,
+    "Total ": 294403,
+    "Per100K ": 109.13
+  },
+  {
+    "Name": "MORGAN ",
+    "Rank": 62,
+    "Total ": 276400,
+    "Per100K ": 102.46
+  },
+  {
+    "Name": "PETERSON ",
+    "Rank": 63,
+    "Total ": 275041,
+    "Per100K ": 101.96
+  },
+  {
+    "Name": "COOPER ",
+    "Rank": 64,
+    "Total ": 270097,
+    "Per100K ": 100.12
+  },
+  {
+    "Name": "REED ",
+    "Rank": 65,
+    "Total ": 267443,
+    "Per100K ": 99.14
+  },
+  {
+    "Name": "BAILEY ",
+    "Rank": 66,
+    "Total ": 265916,
+    "Per100K ": 98.57
+  },
+  {
+    "Name": "BELL ",
+    "Rank": 67,
+    "Total ": 264752,
+    "Per100K ": 98.14
+  },
+  {
+    "Name": "GOMEZ ",
+    "Rank": 68,
+    "Total ": 263590,
+    "Per100K ": 97.71
+  },
+  {
+    "Name": "KELLY ",
+    "Rank": 69,
+    "Total ": 260385,
+    "Per100K ": 96.52
+  },
+  {
+    "Name": "WARD ",
+    "Rank": 71,
+    "Total ": 254121,
+    "Per100K ": 94.2
+  },
+  {
+    "Name": "COX ",
+    "Rank": 72,
+    "Total ": 253771,
+    "Per100K ": 94.07
+  },
+  {
+    "Name": "DIAZ ",
+    "Rank": 73,
+    "Total ": 251772,
+    "Per100K ": 93.33
+  },
+  {
+    "Name": "RICHARDSON ",
+    "Rank": 74,
+    "Total ": 249533,
+    "Per100K ": 92.5
+  },
+  {
+    "Name": "WOOD ",
+    "Rank": 75,
+    "Total ": 247299,
+    "Per100K ": 91.67
+  },
+  {
+    "Name": "WATSON ",
+    "Rank": 76,
+    "Total ": 242432,
+    "Per100K ": 89.87
+  },
+  {
+    "Name": "BROOKS ",
+    "Rank": 77,
+    "Total ": 240751,
+    "Per100K ": 89.25
+  },
+  {
+    "Name": "BENNETT ",
+    "Rank": 78,
+    "Total ": 239055,
+    "Per100K ": 88.62
+  },
+  {
+    "Name": "GRAY ",
+    "Rank": 79,
+    "Total ": 236713,
+    "Per100K ": 87.75
+  },
+  {
+    "Name": "JAMES ",
+    "Rank": 80,
+    "Total ": 233224,
+    "Per100K ": 86.46
+  },
+  {
+    "Name": "REYES ",
+    "Rank": 81,
+    "Total ": 232511,
+    "Per100K ": 86.19
+  },
+  {
+    "Name": "CRUZ ",
+    "Rank": 82,
+    "Total ": 231065,
+    "Per100K ": 85.66
+  },
+  {
+    "Name": "HUGHES ",
+    "Rank": 83,
+    "Total ": 229390,
+    "Per100K ": 85.03
+  },
+  {
+    "Name": "PRICE ",
+    "Rank": 84,
+    "Total ": 228756,
+    "Per100K ": 84.8
+  },
+  {
+    "Name": "MYERS ",
+    "Rank": 85,
+    "Total ": 224824,
+    "Per100K ": 83.34
+  },
+  {
+    "Name": "LONG ",
+    "Rank": 86,
+    "Total ": 223494,
+    "Per100K ": 82.85
+  },
+  {
+    "Name": "FOSTER ",
+    "Rank": 87,
+    "Total ": 221040,
+    "Per100K ": 81.94
+  },
+  {
+    "Name": "SANDERS ",
+    "Rank": 88,
+    "Total ": 220902,
+    "Per100K ": 81.89
+  },
+  {
+    "Name": "ROSS ",
+    "Rank": 89,
+    "Total ": 219961,
+    "Per100K ": 81.54
+  },
+  {
+    "Name": "MORALES ",
+    "Rank": 90,
+    "Total ": 217642,
+    "Per100K ": 80.68
+  },
+  {
+    "Name": "POWELL ",
+    "Rank": 91,
+    "Total ": 216553,
+    "Per100K ": 80.28
+  },
+  {
+    "Name": "SULLIVAN ",
+    "Rank": 92,
+    "Total ": 215640,
+    "Per100K ": 79.94
+  },
+  {
+    "Name": "RUSSELL ",
+    "Rank": 93,
+    "Total ": 215432,
+    "Per100K ": 79.86
+  },
+  {
+    "Name": "ORTIZ ",
+    "Rank": 94,
+    "Total ": 214683,
+    "Per100K ": 79.58
+  },
+  {
+    "Name": "JENKINS ",
+    "Rank": 95,
+    "Total ": 213737,
+    "Per100K ": 79.23
+  },
+  {
+    "Name": "GUTIERREZ ",
+    "Rank": 96,
+    "Total ": 212905,
+    "Per100K ": 78.92
+  },
+  {
+    "Name": "PERRY ",
+    "Rank": 97,
+    "Total ": 212644,
+    "Per100K ": 78.83
+  },
+  {
+    "Name": "BUTLER ",
+    "Rank": 98,
+    "Total ": 210879,
+    "Per100K ": 78.17
+  },
+  {
+    "Name": "BARNES ",
+    "Rank": 99,
+    "Total ": 210426,
+    "Per100K ": 78
+  },
+  {
+    "Name": "FISHER ",
+    "Rank": 100,
+    "Total ": 210279,
+    "Per100K ": 77.95
+  },
+  {
+    "Name": "HENDERSON ",
+    "Rank": 101,
+    "Total ": 210094,
+    "Per100K ": 77.88
+  },
+  {
+    "Name": "COLEMAN ",
+    "Rank": 102,
+    "Total ": 208624,
+    "Per100K ": 77.34
+  },
+  {
+    "Name": "SIMMONS ",
+    "Rank": 103,
+    "Total ": 201650,
+    "Per100K ": 74.75
+  },
+  {
+    "Name": "PATTERSON ",
+    "Rank": 104,
+    "Total ": 198557,
+    "Per100K ": 73.6
+  },
+  {
+    "Name": "JORDAN ",
+    "Rank": 105,
+    "Total ": 197212,
+    "Per100K ": 73.11
+  },
+  {
+    "Name": "REYNOLDS ",
+    "Rank": 106,
+    "Total ": 195598,
+    "Per100K ": 72.51
+  },
+  {
+    "Name": "HAMILTON ",
+    "Rank": 107,
+    "Total ": 194331,
+    "Per100K ": 72.04
+  },
+  {
+    "Name": "GRAHAM ",
+    "Rank": 108,
+    "Total ": 194074,
+    "Per100K ": 71.94
+  },
+  {
+    "Name": "KIM ",
+    "Rank": 109,
+    "Total ": 194067,
+    "Per100K ": 71.94
+  },
+  {
+    "Name": "GONZALES ",
+    "Rank": 110,
+    "Total ": 193934,
+    "Per100K ": 71.89
+  },
+  {
+    "Name": "ALEXANDER ",
+    "Rank": 111,
+    "Total ": 193443,
+    "Per100K ": 71.71
+  },
+  {
+    "Name": "RAMOS ",
+    "Rank": 112,
+    "Total ": 193096,
+    "Per100K ": 71.58
+  },
+  {
+    "Name": "WALLACE ",
+    "Rank": 113,
+    "Total ": 190760,
+    "Per100K ": 70.71
+  },
+  {
+    "Name": "GRIFFIN ",
+    "Rank": 114,
+    "Total ": 190636,
+    "Per100K ": 70.67
+  },
+  {
+    "Name": "WEST ",
+    "Rank": 115,
+    "Total ": 188464,
+    "Per100K ": 69.86
+  },
+  {
+    "Name": "COLE ",
+    "Rank": 116,
+    "Total ": 187793,
+    "Per100K ": 69.61
+  },
+  {
+    "Name": "HAYES ",
+    "Rank": 117,
+    "Total ": 187473,
+    "Per100K ": 69.5
+  },
+  {
+    "Name": "CHAVEZ ",
+    "Rank": 118,
+    "Total ": 185865,
+    "Per100K ": 68.9
+  },
+  {
+    "Name": "GIBSON ",
+    "Rank": 119,
+    "Total ": 184420,
+    "Per100K ": 68.36
+  },
+  {
+    "Name": "BRYANT ",
+    "Rank": 120,
+    "Total ": 183761,
+    "Per100K ": 68.12
+  },
+  {
+    "Name": "ELLIS ",
+    "Rank": 121,
+    "Total ": 181934,
+    "Per100K ": 67.44
+  },
+  {
+    "Name": "STEVENS ",
+    "Rank": 122,
+    "Total ": 181417,
+    "Per100K ": 67.25
+  },
+  {
+    "Name": "MURRAY ",
+    "Rank": 123,
+    "Total ": 178414,
+    "Per100K ": 66.14
+  },
+  {
+    "Name": "FORD ",
+    "Rank": 124,
+    "Total ": 178397,
+    "Per100K ": 66.13
+  },
+  {
+    "Name": "MARSHALL ",
+    "Rank": 125,
+    "Total ": 177213,
+    "Per100K ": 65.69
+  },
+  {
+    "Name": "OWENS ",
+    "Rank": 126,
+    "Total ": 176334,
+    "Per100K ": 65.37
+  },
+  {
+    "Name": "MCDONALD ",
+    "Rank": 127,
+    "Total ": 176094,
+    "Per100K ": 65.28
+  },
+  {
+    "Name": "HARRISON ",
+    "Rank": 128,
+    "Total ": 175577,
+    "Per100K ": 65.09
+  },
+  {
+    "Name": "RUIZ ",
+    "Rank": 129,
+    "Total ": 175429,
+    "Per100K ": 65.03
+  },
+  {
+    "Name": "KENNEDY ",
+    "Rank": 130,
+    "Total ": 171636,
+    "Per100K ": 63.62
+  },
+  {
+    "Name": "WELLS ",
+    "Rank": 131,
+    "Total ": 170635,
+    "Per100K ": 63.25
+  },
+  {
+    "Name": "ALVAREZ ",
+    "Rank": 132,
+    "Total ": 168817,
+    "Per100K ": 62.58
+  },
+  {
+    "Name": "WOODS ",
+    "Rank": 133,
+    "Total ": 168814,
+    "Per100K ": 62.58
+  },
+  {
+    "Name": "MENDOZA ",
+    "Rank": 134,
+    "Total ": 168567,
+    "Per100K ": 62.49
+  },
+  {
+    "Name": "CASTILLO ",
+    "Rank": 135,
+    "Total ": 165473,
+    "Per100K ": 61.34
+  },
+  {
+    "Name": "OLSON ",
+    "Rank": 136,
+    "Total ": 163502,
+    "Per100K ": 60.61
+  },
+  {
+    "Name": "WEBB ",
+    "Rank": 137,
+    "Total ": 163481,
+    "Per100K ": 60.6
+  },
+  {
+    "Name": "WASHINGTON ",
+    "Rank": 138,
+    "Total ": 163036,
+    "Per100K ": 60.44
+  },
+  {
+    "Name": "TUCKER ",
+    "Rank": 139,
+    "Total ": 162933,
+    "Per100K ": 60.4
+  },
+  {
+    "Name": "FREEMAN ",
+    "Rank": 140,
+    "Total ": 162686,
+    "Per100K ": 60.31
+  },
+  {
+    "Name": "BURNS ",
+    "Rank": 141,
+    "Total ": 162153,
+    "Per100K ": 60.11
+  },
+  {
+    "Name": "HENRY ",
+    "Rank": 142,
+    "Total ": 161392,
+    "Per100K ": 59.83
+  },
+  {
+    "Name": "VASQUEZ ",
+    "Rank": 143,
+    "Total ": 159989,
+    "Per100K ": 59.31
+  },
+  {
+    "Name": "SNYDER ",
+    "Rank": 144,
+    "Total ": 159363,
+    "Per100K ": 59.08
+  },
+  {
+    "Name": "SIMPSON ",
+    "Rank": 145,
+    "Total ": 158241,
+    "Per100K ": 58.66
+  },
+  {
+    "Name": "CRAWFORD ",
+    "Rank": 146,
+    "Total ": 158121,
+    "Per100K ": 58.61
+  },
+  {
+    "Name": "JIMENEZ ",
+    "Rank": 147,
+    "Total ": 157475,
+    "Per100K ": 58.38
+  },
+  {
+    "Name": "PORTER ",
+    "Rank": 148,
+    "Total ": 156848,
+    "Per100K ": 58.14
+  },
+  {
+    "Name": "MASON ",
+    "Rank": 149,
+    "Total ": 155484,
+    "Per100K ": 57.64
+  },
+  {
+    "Name": "SHAW ",
+    "Rank": 150,
+    "Total ": 155172,
+    "Per100K ": 57.52
+  },
+  {
+    "Name": "GORDON ",
+    "Rank": 151,
+    "Total ": 154934,
+    "Per100K ": 57.43
+  },
+  {
+    "Name": "WAGNER ",
+    "Rank": 152,
+    "Total ": 154516,
+    "Per100K ": 57.28
+  },
+  {
+    "Name": "HUNTER ",
+    "Rank": 153,
+    "Total ": 154410,
+    "Per100K ": 57.24
+  },
+  {
+    "Name": "ROMERO ",
+    "Rank": 154,
+    "Total ": 153772,
+    "Per100K ": 57
+  },
+  {
+    "Name": "HICKS ",
+    "Rank": 155,
+    "Total ": 153618,
+    "Per100K ": 56.95
+  },
+  {
+    "Name": "DIXON ",
+    "Rank": 156,
+    "Total ": 152015,
+    "Per100K ": 56.35
+  },
+  {
+    "Name": "HUNT ",
+    "Rank": 157,
+    "Total ": 151986,
+    "Per100K ": 56.34
+  },
+  {
+    "Name": "PALMER ",
+    "Rank": 158,
+    "Total ": 150407,
+    "Per100K ": 55.76
+  },
+  {
+    "Name": "ROBERTSON ",
+    "Rank": 159,
+    "Total ": 150299,
+    "Per100K ": 55.72
+  },
+  {
+    "Name": "BLACK ",
+    "Rank": 160,
+    "Total ": 150186,
+    "Per100K ": 55.67
+  },
+  {
+    "Name": "HOLMES ",
+    "Rank": 161,
+    "Total ": 150166,
+    "Per100K ": 55.67
+  },
+  {
+    "Name": "STONE ",
+    "Rank": 162,
+    "Total ": 149802,
+    "Per100K ": 55.53
+  },
+  {
+    "Name": "MEYER ",
+    "Rank": 163,
+    "Total ": 149664,
+    "Per100K ": 55.48
+  },
+  {
+    "Name": "BOYD ",
+    "Rank": 164,
+    "Total ": 149476,
+    "Per100K ": 55.41
+  },
+  {
+    "Name": "MILLS ",
+    "Rank": 165,
+    "Total ": 147909,
+    "Per100K ": 54.83
+  },
+  {
+    "Name": "WARREN ",
+    "Rank": 166,
+    "Total ": 147906,
+    "Per100K ": 54.83
+  },
+  {
+    "Name": "FOX ",
+    "Rank": 167,
+    "Total ": 147357,
+    "Per100K ": 54.62
+  },
+  {
+    "Name": "ROSE ",
+    "Rank": 168,
+    "Total ": 146924,
+    "Per100K ": 54.46
+  },
+  {
+    "Name": "RICE ",
+    "Rank": 169,
+    "Total ": 146440,
+    "Per100K ": 54.28
+  },
+  {
+    "Name": "MORENO ",
+    "Rank": 170,
+    "Total ": 146088,
+    "Per100K ": 54.15
+  },
+  {
+    "Name": "SCHMIDT ",
+    "Rank": 171,
+    "Total ": 145565,
+    "Per100K ": 53.96
+  },
+  {
+    "Name": "PATEL ",
+    "Rank": 172,
+    "Total ": 145066,
+    "Per100K ": 53.78
+  },
+  {
+    "Name": "FERGUSON ",
+    "Rank": 173,
+    "Total ": 142256,
+    "Per100K ": 52.73
+  },
+  {
+    "Name": "NICHOLS ",
+    "Rank": 174,
+    "Total ": 141936,
+    "Per100K ": 52.62
+  },
+  {
+    "Name": "HERRERA ",
+    "Rank": 175,
+    "Total ": 140786,
+    "Per100K ": 52.19
+  },
+  {
+    "Name": "MEDINA ",
+    "Rank": 176,
+    "Total ": 139353,
+    "Per100K ": 51.66
+  },
+  {
+    "Name": "RYAN ",
+    "Rank": 177,
+    "Total ": 139335,
+    "Per100K ": 51.65
+  },
+  {
+    "Name": "FERNANDEZ ",
+    "Rank": 178,
+    "Total ": 139302,
+    "Per100K ": 51.64
+  },
+  {
+    "Name": "WEAVER ",
+    "Rank": 179,
+    "Total ": 138811,
+    "Per100K ": 51.46
+  },
+  {
+    "Name": "DANIELS ",
+    "Rank": 180,
+    "Total ": 138776,
+    "Per100K ": 51.44
+  },
+  {
+    "Name": "STEPHENS ",
+    "Rank": 181,
+    "Total ": 138742,
+    "Per100K ": 51.43
+  },
+  {
+    "Name": "GARDNER ",
+    "Rank": 182,
+    "Total ": 138660,
+    "Per100K ": 51.4
+  },
+  {
+    "Name": "PAYNE ",
+    "Rank": 183,
+    "Total ": 138028,
+    "Per100K ": 51.17
+  },
+  {
+    "Name": "KELLEY ",
+    "Rank": 184,
+    "Total ": 137555,
+    "Per100K ": 50.99
+  },
+  {
+    "Name": "DUNN ",
+    "Rank": 185,
+    "Total ": 136955,
+    "Per100K ": 50.77
+  },
+  {
+    "Name": "PIERCE ",
+    "Rank": 186,
+    "Total ": 136517,
+    "Per100K ": 50.61
+  },
+  {
+    "Name": "ARNOLD ",
+    "Rank": 187,
+    "Total ": 136315,
+    "Per100K ": 50.53
+  },
+  {
+    "Name": "TRAN ",
+    "Rank": 188,
+    "Total ": 136095,
+    "Per100K ": 50.45
+  },
+  {
+    "Name": "SPENCER ",
+    "Rank": 189,
+    "Total ": 134443,
+    "Per100K ": 49.84
+  },
+  {
+    "Name": "PETERS ",
+    "Rank": 190,
+    "Total ": 134231,
+    "Per100K ": 49.76
+  },
+  {
+    "Name": "HAWKINS ",
+    "Rank": 191,
+    "Total ": 134066,
+    "Per100K ": 49.7
+  },
+  {
+    "Name": "GRANT ",
+    "Rank": 192,
+    "Total ": 134034,
+    "Per100K ": 49.69
+  },
+  {
+    "Name": "HANSEN ",
+    "Rank": 193,
+    "Total ": 133474,
+    "Per100K ": 49.48
+  },
+  {
+    "Name": "CASTRO ",
+    "Rank": 194,
+    "Total ": 133254,
+    "Per100K ": 49.4
+  },
+  {
+    "Name": "HOFFMAN ",
+    "Rank": 195,
+    "Total ": 132645,
+    "Per100K ": 49.17
+  },
+  {
+    "Name": "HART ",
+    "Rank": 196,
+    "Total ": 132466,
+    "Per100K ": 49.1
+  },
+  {
+    "Name": "ELLIOTT ",
+    "Rank": 197,
+    "Total ": 132457,
+    "Per100K ": 49.1
+  },
+  {
+    "Name": "CUNNINGHAM ",
+    "Rank": 198,
+    "Total ": 131896,
+    "Per100K ": 48.89
+  },
+  {
+    "Name": "KNIGHT ",
+    "Rank": 199,
+    "Total ": 131860,
+    "Per100K ": 48.88
+  },
+  {
+    "Name": "BRADLEY ",
+    "Rank": 200,
+    "Total ": 131289,
+    "Per100K ": 48.67
+  },
+  {
+    "Name": "CARROLL ",
+    "Rank": 201,
+    "Total ": 131020,
+    "Per100K ": 48.57
+  },
+  {
+    "Name": "HUDSON ",
+    "Rank": 202,
+    "Total ": 130793,
+    "Per100K ": 48.48
+  },
+  {
+    "Name": "DUNCAN ",
+    "Rank": 203,
+    "Total ": 130419,
+    "Per100K ": 48.35
+  },
+  {
+    "Name": "ARMSTRONG ",
+    "Rank": 204,
+    "Total ": 129982,
+    "Per100K ": 48.18
+  },
+  {
+    "Name": "BERRY ",
+    "Rank": 205,
+    "Total ": 129405,
+    "Per100K ": 47.97
+  },
+  {
+    "Name": "ANDREWS ",
+    "Rank": 206,
+    "Total ": 129320,
+    "Per100K ": 47.94
+  },
+  {
+    "Name": "JOHNSTON ",
+    "Rank": 207,
+    "Total ": 128935,
+    "Per100K ": 47.8
+  },
+  {
+    "Name": "RAY ",
+    "Rank": 208,
+    "Total ": 128794,
+    "Per100K ": 47.74
+  },
+  {
+    "Name": "LANE ",
+    "Rank": 209,
+    "Total ": 128727,
+    "Per100K ": 47.72
+  },
+  {
+    "Name": "RILEY ",
+    "Rank": 210,
+    "Total ": 127960,
+    "Per100K ": 47.43
+  },
+  {
+    "Name": "CARPENTER ",
+    "Rank": 211,
+    "Total ": 127073,
+    "Per100K ": 47.11
+  },
+  {
+    "Name": "PERKINS ",
+    "Rank": 212,
+    "Total ": 126951,
+    "Per100K ": 47.06
+  },
+  {
+    "Name": "AGUILAR ",
+    "Rank": 213,
+    "Total ": 126399,
+    "Per100K ": 46.86
+  },
+  {
+    "Name": "SILVA ",
+    "Rank": 214,
+    "Total ": 126164,
+    "Per100K ": 46.77
+  },
+  {
+    "Name": "RICHARDS ",
+    "Rank": 215,
+    "Total ": 125653,
+    "Per100K ": 46.58
+  },
+  {
+    "Name": "WILLIS ",
+    "Rank": 216,
+    "Total ": 125627,
+    "Per100K ": 46.57
+  },
+  {
+    "Name": "MATTHEWS ",
+    "Rank": 217,
+    "Total ": 124839,
+    "Per100K ": 46.28
+  },
+  {
+    "Name": "CHAPMAN ",
+    "Rank": 218,
+    "Total ": 124614,
+    "Per100K ": 46.19
+  },
+  {
+    "Name": "LAWRENCE ",
+    "Rank": 219,
+    "Total ": 124321,
+    "Per100K ": 46.09
+  },
+  {
+    "Name": "GARZA ",
+    "Rank": 220,
+    "Total ": 124130,
+    "Per100K ": 46.01
+  },
+  {
+    "Name": "VARGAS ",
+    "Rank": 221,
+    "Total ": 123952,
+    "Per100K ": 45.95
+  },
+  {
+    "Name": "WATKINS ",
+    "Rank": 222,
+    "Total ": 122447,
+    "Per100K ": 45.39
+  },
+  {
+    "Name": "WHEELER ",
+    "Rank": 223,
+    "Total ": 121684,
+    "Per100K ": 45.11
+  },
+  {
+    "Name": "LARSON ",
+    "Rank": 224,
+    "Total ": 121064,
+    "Per100K ": 44.88
+  },
+  {
+    "Name": "CARLSON ",
+    "Rank": 225,
+    "Total ": 120124,
+    "Per100K ": 44.53
+  },
+  {
+    "Name": "HARPER ",
+    "Rank": 226,
+    "Total ": 119868,
+    "Per100K ": 44.43
+  },
+  {
+    "Name": "GEORGE ",
+    "Rank": 227,
+    "Total ": 119778,
+    "Per100K ": 44.4
+  },
+  {
+    "Name": "GREENE ",
+    "Rank": 228,
+    "Total ": 119604,
+    "Per100K ": 44.34
+  },
+  {
+    "Name": "BURKE ",
+    "Rank": 229,
+    "Total ": 119175,
+    "Per100K ": 44.18
+  },
+  {
+    "Name": "GUZMAN ",
+    "Rank": 230,
+    "Total ": 118390,
+    "Per100K ": 43.89
+  },
+  {
+    "Name": "MORRISON ",
+    "Rank": 231,
+    "Total ": 117939,
+    "Per100K ": 43.72
+  },
+  {
+    "Name": "MUNOZ ",
+    "Rank": 232,
+    "Total ": 117774,
+    "Per100K ": 43.66
+  },
+  {
+    "Name": "JACOBS ",
+    "Rank": 233,
+    "Total ": 115540,
+    "Per100K ": 42.83
+  },
+  {
+    "Name": "OBRIEN ",
+    "Rank": 234,
+    "Total ": 115385,
+    "Per100K ": 42.77
+  },
+  {
+    "Name": "LAWSON ",
+    "Rank": 235,
+    "Total ": 115186,
+    "Per100K ": 42.7
+  },
+  {
+    "Name": "FRANKLIN ",
+    "Rank": 236,
+    "Total ": 114859,
+    "Per100K ": 42.58
+  },
+  {
+    "Name": "LYNCH ",
+    "Rank": 237,
+    "Total ": 114448,
+    "Per100K ": 42.43
+  },
+  {
+    "Name": "BISHOP ",
+    "Rank": 238,
+    "Total ": 114034,
+    "Per100K ": 42.27
+  },
+  {
+    "Name": "CARR ",
+    "Rank": 239,
+    "Total ": 113892,
+    "Per100K ": 42.22
+  },
+  {
+    "Name": "SALAZAR ",
+    "Rank": 240,
+    "Total ": 113468,
+    "Per100K ": 42.06
+  },
+  {
+    "Name": "AUSTIN ",
+    "Rank": 241,
+    "Total ": 113160,
+    "Per100K ": 41.95
+  },
+  {
+    "Name": "MENDEZ ",
+    "Rank": 242,
+    "Total ": 112736,
+    "Per100K ": 41.79
+  },
+  {
+    "Name": "GILBERT ",
+    "Rank": 243,
+    "Total ": 112406,
+    "Per100K ": 41.67
+  },
+  {
+    "Name": "JENSEN ",
+    "Rank": 244,
+    "Total ": 112332,
+    "Per100K ": 41.64
+  },
+  {
+    "Name": "WILLIAMSON ",
+    "Rank": 245,
+    "Total ": 112216,
+    "Per100K ": 41.6
+  },
+  {
+    "Name": "MONTGOMERY ",
+    "Rank": 246,
+    "Total ": 112144,
+    "Per100K ": 41.57
+  },
+  {
+    "Name": "HARVEY ",
+    "Rank": 247,
+    "Total ": 112136,
+    "Per100K ": 41.57
+  },
+  {
+    "Name": "OLIVER ",
+    "Rank": 248,
+    "Total ": 111641,
+    "Per100K ": 41.38
+  },
+  {
+    "Name": "HOWELL ",
+    "Rank": 249,
+    "Total ": 109634,
+    "Per100K ": 40.64
+  },
+  {
+    "Name": "DEAN ",
+    "Rank": 250,
+    "Total ": 109230,
+    "Per100K ": 40.49
+  },
+  {
+    "Name": "HANSON ",
+    "Rank": 251,
+    "Total ": 109079,
+    "Per100K ": 40.44
+  },
+  {
+    "Name": "WEBER ",
+    "Rank": 252,
+    "Total ": 107866,
+    "Per100K ": 39.99
+  },
+  {
+    "Name": "GARRETT ",
+    "Rank": 253,
+    "Total ": 107777,
+    "Per100K ": 39.95
+  },
+  {
+    "Name": "SIMS ",
+    "Rank": 254,
+    "Total ": 107244,
+    "Per100K ": 39.76
+  },
+  {
+    "Name": "BURTON ",
+    "Rank": 255,
+    "Total ": 107158,
+    "Per100K ": 39.72
+  },
+  {
+    "Name": "FULLER ",
+    "Rank": 256,
+    "Total ": 106682,
+    "Per100K ": 39.55
+  },
+  {
+    "Name": "SOTO ",
+    "Rank": 257,
+    "Total ": 106631,
+    "Per100K ": 39.53
+  },
+  {
+    "Name": "MCCOY ",
+    "Rank": 258,
+    "Total ": 106481,
+    "Per100K ": 39.47
+  },
+  {
+    "Name": "WELCH ",
+    "Rank": 259,
+    "Total ": 105804,
+    "Per100K ": 39.22
+  },
+  {
+    "Name": "CHEN ",
+    "Rank": 260,
+    "Total ": 105544,
+    "Per100K ": 39.12
+  },
+  {
+    "Name": "SCHULTZ ",
+    "Rank": 261,
+    "Total ": 104962,
+    "Per100K ": 38.91
+  },
+  {
+    "Name": "WALTERS ",
+    "Rank": 262,
+    "Total ": 104281,
+    "Per100K ": 38.66
+  },
+  {
+    "Name": "REID ",
+    "Rank": 263,
+    "Total ": 104007,
+    "Per100K ": 38.56
+  },
+  {
+    "Name": "FIELDS ",
+    "Rank": 264,
+    "Total ": 103242,
+    "Per100K ": 38.27
+  },
+  {
+    "Name": "WALSH ",
+    "Rank": 265,
+    "Total ": 103216,
+    "Per100K ": 38.26
+  },
+  {
+    "Name": "LITTLE ",
+    "Rank": 266,
+    "Total ": 102718,
+    "Per100K ": 38.08
+  },
+  {
+    "Name": "FOWLER ",
+    "Rank": 267,
+    "Total ": 102620,
+    "Per100K ": 38.04
+  },
+  {
+    "Name": "BOWMAN ",
+    "Rank": 268,
+    "Total ": 102239,
+    "Per100K ": 37.9
+  },
+  {
+    "Name": "DAVIDSON ",
+    "Rank": 269,
+    "Total ": 102044,
+    "Per100K ": 37.83
+  },
+  {
+    "Name": "MAY ",
+    "Rank": 270,
+    "Total ": 101726,
+    "Per100K ": 37.71
+  },
+  {
+    "Name": "DAY ",
+    "Rank": 271,
+    "Total ": 101676,
+    "Per100K ": 37.69
+  },
+  {
+    "Name": "SCHNEIDER ",
+    "Rank": 272,
+    "Total ": 100553,
+    "Per100K ": 37.27
+  },
+  {
+    "Name": "NEWMAN ",
+    "Rank": 273,
+    "Total ": 100491,
+    "Per100K ": 37.25
+  },
+  {
+    "Name": "BREWER ",
+    "Rank": 274,
+    "Total ": 100465,
+    "Per100K ": 37.24
+  },
+  {
+    "Name": "LUCAS ",
+    "Rank": 275,
+    "Total ": 100417,
+    "Per100K ": 37.22
+  },
+  {
+    "Name": "HOLLAND ",
+    "Rank": 276,
+    "Total ": 99885,
+    "Per100K ": 37.03
+  },
+  {
+    "Name": "WONG ",
+    "Rank": 277,
+    "Total ": 99392,
+    "Per100K ": 36.84
+  },
+  {
+    "Name": "BANKS ",
+    "Rank": 278,
+    "Total ": 99294,
+    "Per100K ": 36.81
+  },
+  {
+    "Name": "SANTOS ",
+    "Rank": 279,
+    "Total ": 98993,
+    "Per100K ": 36.7
+  },
+  {
+    "Name": "CURTIS ",
+    "Rank": 280,
+    "Total ": 98958,
+    "Per100K ": 36.68
+  },
+  {
+    "Name": "PEARSON ",
+    "Rank": 281,
+    "Total ": 98728,
+    "Per100K ": 36.6
+  },
+  {
+    "Name": "DELGADO ",
+    "Rank": 282,
+    "Total ": 98675,
+    "Per100K ": 36.58
+  },
+  {
+    "Name": "VALDEZ ",
+    "Rank": 283,
+    "Total ": 98610,
+    "Per100K ": 36.55
+  },
+  {
+    "Name": "PENA ",
+    "Rank": 284,
+    "Total ": 98345,
+    "Per100K ": 36.46
+  },
+  {
+    "Name": "RIOS ",
+    "Rank": 285,
+    "Total ": 96569,
+    "Per100K ": 35.8
+  },
+  {
+    "Name": "DOUGLAS ",
+    "Rank": 286,
+    "Total ": 96425,
+    "Per100K ": 35.74
+  },
+  {
+    "Name": "SANDOVAL ",
+    "Rank": 287,
+    "Total ": 96303,
+    "Per100K ": 35.7
+  },
+  {
+    "Name": "BARRETT ",
+    "Rank": 288,
+    "Total ": 95896,
+    "Per100K ": 35.55
+  },
+  {
+    "Name": "HOPKINS ",
+    "Rank": 289,
+    "Total ": 94603,
+    "Per100K ": 35.07
+  },
+  {
+    "Name": "KELLER ",
+    "Rank": 290,
+    "Total ": 94300,
+    "Per100K ": 34.96
+  },
+  {
+    "Name": "GUERRERO ",
+    "Rank": 291,
+    "Total ": 94152,
+    "Per100K ": 34.9
+  },
+  {
+    "Name": "STANLEY ",
+    "Rank": 292,
+    "Total ": 93817,
+    "Per100K ": 34.78
+  },
+  {
+    "Name": "BATES ",
+    "Rank": 293,
+    "Total ": 93743,
+    "Per100K ": 34.75
+  },
+  {
+    "Name": "ALVARADO ",
+    "Rank": 294,
+    "Total ": 93723,
+    "Per100K ": 34.74
+  },
+  {
+    "Name": "BECK ",
+    "Rank": 295,
+    "Total ": 93161,
+    "Per100K ": 34.53
+  },
+  {
+    "Name": "ORTEGA ",
+    "Rank": 296,
+    "Total ": 93131,
+    "Per100K ": 34.52
+  },
+  {
+    "Name": "WADE ",
+    "Rank": 297,
+    "Total ": 92834,
+    "Per100K ": 34.41
+  },
+  {
+    "Name": "ESTRADA ",
+    "Rank": 298,
+    "Total ": 92831,
+    "Per100K ": 34.41
+  },
+  {
+    "Name": "CONTRERAS ",
+    "Rank": 299,
+    "Total ": 92660,
+    "Per100K ": 34.35
+  },
+  {
+    "Name": "BARNETT ",
+    "Rank": 300,
+    "Total ": 92287,
+    "Per100K ": 34.21
+  },
+  {
+    "Name": "CALDWELL ",
+    "Rank": 301,
+    "Total ": 91338,
+    "Per100K ": 33.86
+  },
+  {
+    "Name": "SANTIAGO ",
+    "Rank": 302,
+    "Total ": 90967,
+    "Per100K ": 33.72
+  },
+  {
+    "Name": "LAMBERT ",
+    "Rank": 303,
+    "Total ": 90618,
+    "Per100K ": 33.59
+  },
+  {
+    "Name": "POWERS ",
+    "Rank": 304,
+    "Total ": 90401,
+    "Per100K ": 33.51
+  },
+  {
+    "Name": "CHAMBERS ",
+    "Rank": 305,
+    "Total ": 90325,
+    "Per100K ": 33.48
+  },
+  {
+    "Name": "NUNEZ ",
+    "Rank": 306,
+    "Total ": 90208,
+    "Per100K ": 33.44
+  },
+  {
+    "Name": "CRAIG ",
+    "Rank": 307,
+    "Total ": 89591,
+    "Per100K ": 33.21
+  },
+  {
+    "Name": "LEONARD ",
+    "Rank": 308,
+    "Total ": 89198,
+    "Per100K ": 33.07
+  },
+  {
+    "Name": "LOWE ",
+    "Rank": 309,
+    "Total ": 89178,
+    "Per100K ": 33.06
+  },
+  {
+    "Name": "RHODES ",
+    "Rank": 310,
+    "Total ": 88917,
+    "Per100K ": 32.96
+  },
+  {
+    "Name": "BYRD ",
+    "Rank": 311,
+    "Total ": 88811,
+    "Per100K ": 32.92
+  },
+  {
+    "Name": "GREGORY ",
+    "Rank": 312,
+    "Total ": 88810,
+    "Per100K ": 32.92
+  },
+  {
+    "Name": "SHELTON ",
+    "Rank": 313,
+    "Total ": 88326,
+    "Per100K ": 32.74
+  },
+  {
+    "Name": "FRAZIER ",
+    "Rank": 314,
+    "Total ": 88325,
+    "Per100K ": 32.74
+  },
+  {
+    "Name": "BECKER ",
+    "Rank": 315,
+    "Total ": 88114,
+    "Per100K ": 32.66
+  },
+  {
+    "Name": "MALDONADO ",
+    "Rank": 316,
+    "Total ": 88016,
+    "Per100K ": 32.63
+  },
+  {
+    "Name": "FLEMING ",
+    "Rank": 317,
+    "Total ": 87949,
+    "Per100K ": 32.6
+  },
+  {
+    "Name": "VEGA ",
+    "Rank": 318,
+    "Total ": 87728,
+    "Per100K ": 32.52
+  },
+  {
+    "Name": "SUTTON ",
+    "Rank": 319,
+    "Total ": 87373,
+    "Per100K ": 32.39
+  },
+  {
+    "Name": "COHEN ",
+    "Rank": 320,
+    "Total ": 87226,
+    "Per100K ": 32.33
+  },
+  {
+    "Name": "JENNINGS ",
+    "Rank": 321,
+    "Total ": 87038,
+    "Per100K ": 32.26
+  },
+  {
+    "Name": "PARKS ",
+    "Rank": 322,
+    "Total ": 86346,
+    "Per100K ": 32.01
+  },
+  {
+    "Name": "MCDANIEL ",
+    "Rank": 323,
+    "Total ": 86317,
+    "Per100K ": 32
+  },
+  {
+    "Name": "WATTS ",
+    "Rank": 324,
+    "Total ": 86228,
+    "Per100K ": 31.96
+  },
+  {
+    "Name": "BARKER ",
+    "Rank": 325,
+    "Total ": 85221,
+    "Per100K ": 31.59
+  },
+  {
+    "Name": "NORRIS ",
+    "Rank": 326,
+    "Total ": 85212,
+    "Per100K ": 31.59
+  },
+  {
+    "Name": "VAUGHN ",
+    "Rank": 327,
+    "Total ": 85037,
+    "Per100K ": 31.52
+  },
+  {
+    "Name": "VAZQUEZ ",
+    "Rank": 328,
+    "Total ": 84926,
+    "Per100K ": 31.48
+  },
+  {
+    "Name": "HOLT ",
+    "Rank": 329,
+    "Total ": 84710,
+    "Per100K ": 31.4
+  },
+  {
+    "Name": "SCHWARTZ ",
+    "Rank": 330,
+    "Total ": 84699,
+    "Per100K ": 31.4
+  },
+  {
+    "Name": "STEELE ",
+    "Rank": 331,
+    "Total ": 84353,
+    "Per100K ": 31.27
+  },
+  {
+    "Name": "BENSON ",
+    "Rank": 332,
+    "Total ": 84233,
+    "Per100K ": 31.22
+  },
+  {
+    "Name": "NEAL ",
+    "Rank": 333,
+    "Total ": 83849,
+    "Per100K ": 31.08
+  },
+  {
+    "Name": "DOMINGUEZ ",
+    "Rank": 334,
+    "Total ": 83731,
+    "Per100K ": 31.04
+  },
+  {
+    "Name": "HORTON ",
+    "Rank": 335,
+    "Total ": 83523,
+    "Per100K ": 30.96
+  },
+  {
+    "Name": "TERRY ",
+    "Rank": 336,
+    "Total ": 83437,
+    "Per100K ": 30.93
+  },
+  {
+    "Name": "WOLFE ",
+    "Rank": 337,
+    "Total ": 83112,
+    "Per100K ": 30.81
+  },
+  {
+    "Name": "HALE ",
+    "Rank": 338,
+    "Total ": 82955,
+    "Per100K ": 30.75
+  },
+  {
+    "Name": "LYONS ",
+    "Rank": 339,
+    "Total ": 82258,
+    "Per100K ": 30.49
+  },
+  {
+    "Name": "GRAVES ",
+    "Rank": 340,
+    "Total ": 82179,
+    "Per100K ": 30.46
+  },
+  {
+    "Name": "HAYNES ",
+    "Rank": 341,
+    "Total ": 82037,
+    "Per100K ": 30.41
+  },
+  {
+    "Name": "MILES ",
+    "Rank": 342,
+    "Total ": 81933,
+    "Per100K ": 30.37
+  },
+  {
+    "Name": "PARK ",
+    "Rank": 343,
+    "Total ": 81890,
+    "Per100K ": 30.36
+  },
+  {
+    "Name": "WARNER ",
+    "Rank": 344,
+    "Total ": 81824,
+    "Per100K ": 30.33
+  },
+  {
+    "Name": "PADILLA ",
+    "Rank": 345,
+    "Total ": 81805,
+    "Per100K ": 30.32
+  },
+  {
+    "Name": "BUSH ",
+    "Rank": 346,
+    "Total ": 81524,
+    "Per100K ": 30.22
+  },
+  {
+    "Name": "THORNTON ",
+    "Rank": 347,
+    "Total ": 81191,
+    "Per100K ": 30.1
+  },
+  {
+    "Name": "MCCARTHY ",
+    "Rank": 348,
+    "Total ": 81035,
+    "Per100K ": 30.04
+  },
+  {
+    "Name": "MANN ",
+    "Rank": 349,
+    "Total ": 81022,
+    "Per100K ": 30.03
+  },
+  {
+    "Name": "ZIMMERMAN ",
+    "Rank": 350,
+    "Total ": 80944,
+    "Per100K ": 30.01
+  },
+  {
+    "Name": "ERICKSON ",
+    "Rank": 351,
+    "Total ": 80936,
+    "Per100K ": 30
+  },
+  {
+    "Name": "FLETCHER ",
+    "Rank": 352,
+    "Total ": 80932,
+    "Per100K ": 30
+  },
+  {
+    "Name": "MCKINNEY ",
+    "Rank": 353,
+    "Total ": 80616,
+    "Per100K ": 29.88
+  },
+  {
+    "Name": "PAGE ",
+    "Rank": 354,
+    "Total ": 80493,
+    "Per100K ": 29.84
+  },
+  {
+    "Name": "DAWSON ",
+    "Rank": 355,
+    "Total ": 80190,
+    "Per100K ": 29.73
+  },
+  {
+    "Name": "JOSEPH ",
+    "Rank": 356,
+    "Total ": 80030,
+    "Per100K ": 29.67
+  },
+  {
+    "Name": "MARQUEZ ",
+    "Rank": 357,
+    "Total ": 79951,
+    "Per100K ": 29.64
+  },
+  {
+    "Name": "REEVES ",
+    "Rank": 358,
+    "Total ": 79817,
+    "Per100K ": 29.59
+  },
+  {
+    "Name": "KLEIN ",
+    "Rank": 359,
+    "Total ": 79685,
+    "Per100K ": 29.54
+  },
+  {
+    "Name": "ESPINOZA ",
+    "Rank": 360,
+    "Total ": 79322,
+    "Per100K ": 29.4
+  },
+  {
+    "Name": "BALDWIN ",
+    "Rank": 361,
+    "Total ": 79151,
+    "Per100K ": 29.34
+  },
+  {
+    "Name": "MORAN ",
+    "Rank": 362,
+    "Total ": 78546,
+    "Per100K ": 29.12
+  },
+  {
+    "Name": "LOVE ",
+    "Rank": 363,
+    "Total ": 78323,
+    "Per100K ": 29.03
+  },
+  {
+    "Name": "ROBBINS ",
+    "Rank": 364,
+    "Total ": 78141,
+    "Per100K ": 28.97
+  },
+  {
+    "Name": "HIGGINS ",
+    "Rank": 365,
+    "Total ": 78107,
+    "Per100K ": 28.95
+  },
+  {
+    "Name": "BALL ",
+    "Rank": 366,
+    "Total ": 77561,
+    "Per100K ": 28.75
+  },
+  {
+    "Name": "CORTEZ ",
+    "Rank": 367,
+    "Total ": 77492,
+    "Per100K ": 28.73
+  },
+  {
+    "Name": "LE ",
+    "Rank": 368,
+    "Total ": 77453,
+    "Per100K ": 28.71
+  },
+  {
+    "Name": "GRIFFITH ",
+    "Rank": 369,
+    "Total ": 77429,
+    "Per100K ": 28.7
+  },
+  {
+    "Name": "BOWEN ",
+    "Rank": 370,
+    "Total ": 77078,
+    "Per100K ": 28.57
+  },
+  {
+    "Name": "SHARP ",
+    "Rank": 371,
+    "Total ": 76868,
+    "Per100K ": 28.49
+  },
+  {
+    "Name": "CUMMINGS ",
+    "Rank": 372,
+    "Total ": 76707,
+    "Per100K ": 28.44
+  },
+  {
+    "Name": "RAMSEY ",
+    "Rank": 373,
+    "Total ": 76625,
+    "Per100K ": 28.4
+  },
+  {
+    "Name": "HARDY ",
+    "Rank": 374,
+    "Total ": 76608,
+    "Per100K ": 28.4
+  },
+  {
+    "Name": "SWANSON ",
+    "Rank": 375,
+    "Total ": 76539,
+    "Per100K ": 28.37
+  },
+  {
+    "Name": "BARBER ",
+    "Rank": 376,
+    "Total ": 76504,
+    "Per100K ": 28.36
+  },
+  {
+    "Name": "ACOSTA ",
+    "Rank": 377,
+    "Total ": 76477,
+    "Per100K ": 28.35
+  },
+  {
+    "Name": "LUNA ",
+    "Rank": 378,
+    "Total ": 76127,
+    "Per100K ": 28.22
+  },
+  {
+    "Name": "CHANDLER ",
+    "Rank": 379,
+    "Total ": 76114,
+    "Per100K ": 28.22
+  },
+  {
+    "Name": "BLAIR ",
+    "Rank": 380,
+    "Total ": 75135,
+    "Per100K ": 27.85
+  },
+  {
+    "Name": "DANIEL ",
+    "Rank": 380,
+    "Total ": 75135,
+    "Per100K ": 27.85
+  },
+  {
+    "Name": "CROSS ",
+    "Rank": 382,
+    "Total ": 75134,
+    "Per100K ": 27.85
+  },
+  {
+    "Name": "SIMON ",
+    "Rank": 383,
+    "Total ": 74839,
+    "Per100K ": 27.74
+  },
+  {
+    "Name": "DENNIS ",
+    "Rank": 384,
+    "Total ": 74784,
+    "Per100K ": 27.72
+  },
+  {
+    "Name": "OCONNOR ",
+    "Rank": 385,
+    "Total ": 74756,
+    "Per100K ": 27.71
+  },
+  {
+    "Name": "QUINN ",
+    "Rank": 386,
+    "Total ": 74531,
+    "Per100K ": 27.63
+  },
+  {
+    "Name": "GROSS ",
+    "Rank": 387,
+    "Total ": 74285,
+    "Per100K ": 27.54
+  },
+  {
+    "Name": "NAVARRO ",
+    "Rank": 388,
+    "Total ": 73970,
+    "Per100K ": 27.42
+  },
+  {
+    "Name": "MOSS ",
+    "Rank": 389,
+    "Total ": 73750,
+    "Per100K ": 27.34
+  },
+  {
+    "Name": "FITZGERALD ",
+    "Rank": 390,
+    "Total ": 73522,
+    "Per100K ": 27.25
+  },
+  {
+    "Name": "DOYLE ",
+    "Rank": 391,
+    "Total ": 73518,
+    "Per100K ": 27.25
+  },
+  {
+    "Name": "MCLAUGHLIN ",
+    "Rank": 392,
+    "Total ": 73128,
+    "Per100K ": 27.11
+  },
+  {
+    "Name": "ROJAS ",
+    "Rank": 393,
+    "Total ": 73071,
+    "Per100K ": 27.09
+  },
+  {
+    "Name": "RODGERS ",
+    "Rank": 394,
+    "Total ": 73021,
+    "Per100K ": 27.07
+  },
+  {
+    "Name": "STEVENSON ",
+    "Rank": 395,
+    "Total ": 72892,
+    "Per100K ": 27.02
+  },
+  {
+    "Name": "SINGH ",
+    "Rank": 396,
+    "Total ": 72642,
+    "Per100K ": 26.93
+  },
+  {
+    "Name": "YANG ",
+    "Rank": 397,
+    "Total ": 72627,
+    "Per100K ": 26.92
+  },
+  {
+    "Name": "FIGUEROA ",
+    "Rank": 398,
+    "Total ": 72533,
+    "Per100K ": 26.89
+  },
+  {
+    "Name": "HARMON ",
+    "Rank": 399,
+    "Total ": 72414,
+    "Per100K ": 26.84
+  },
+  {
+    "Name": "NEWTON ",
+    "Rank": 400,
+    "Total ": 72328,
+    "Per100K ": 26.81
+  },
+  {
+    "Name": "PAUL ",
+    "Rank": 401,
+    "Total ": 72248,
+    "Per100K ": 26.78
+  },
+  {
+    "Name": "MANNING ",
+    "Rank": 402,
+    "Total ": 72069,
+    "Per100K ": 26.72
+  },
+  {
+    "Name": "GARNER ",
+    "Rank": 403,
+    "Total ": 72052,
+    "Per100K ": 26.71
+  },
+  {
+    "Name": "MCGEE ",
+    "Rank": 404,
+    "Total ": 71925,
+    "Per100K ": 26.66
+  },
+  {
+    "Name": "REESE ",
+    "Rank": 405,
+    "Total ": 71754,
+    "Per100K ": 26.6
+  },
+  {
+    "Name": "FRANCIS ",
+    "Rank": 406,
+    "Total ": 71723,
+    "Per100K ": 26.59
+  },
+  {
+    "Name": "BURGESS ",
+    "Rank": 407,
+    "Total ": 71604,
+    "Per100K ": 26.54
+  },
+  {
+    "Name": "ADKINS ",
+    "Rank": 408,
+    "Total ": 71528,
+    "Per100K ": 26.52
+  },
+  {
+    "Name": "GOODMAN ",
+    "Rank": 409,
+    "Total ": 71482,
+    "Per100K ": 26.5
+  },
+  {
+    "Name": "CURRY ",
+    "Rank": 410,
+    "Total ": 71344,
+    "Per100K ": 26.45
+  },
+  {
+    "Name": "BRADY ",
+    "Rank": 411,
+    "Total ": 71175,
+    "Per100K ": 26.38
+  },
+  {
+    "Name": "CHRISTENSEN ",
+    "Rank": 412,
+    "Total ": 71144,
+    "Per100K ": 26.37
+  },
+  {
+    "Name": "POTTER ",
+    "Rank": 413,
+    "Total ": 71103,
+    "Per100K ": 26.36
+  },
+  {
+    "Name": "WALTON ",
+    "Rank": 414,
+    "Total ": 70997,
+    "Per100K ": 26.32
+  },
+  {
+    "Name": "GOODWIN ",
+    "Rank": 415,
+    "Total ": 70333,
+    "Per100K ": 26.07
+  },
+  {
+    "Name": "MULLINS ",
+    "Rank": 416,
+    "Total ": 70286,
+    "Per100K ": 26.05
+  },
+  {
+    "Name": "MOLINA ",
+    "Rank": 417,
+    "Total ": 70211,
+    "Per100K ": 26.03
+  },
+  {
+    "Name": "WEBSTER ",
+    "Rank": 418,
+    "Total ": 70123,
+    "Per100K ": 25.99
+  },
+  {
+    "Name": "FISCHER ",
+    "Rank": 419,
+    "Total ": 70095,
+    "Per100K ": 25.98
+  },
+  {
+    "Name": "CAMPOS ",
+    "Rank": 420,
+    "Total ": 69950,
+    "Per100K ": 25.93
+  },
+  {
+    "Name": "AVILA ",
+    "Rank": 421,
+    "Total ": 69843,
+    "Per100K ": 25.89
+  },
+  {
+    "Name": "SHERMAN ",
+    "Rank": 422,
+    "Total ": 69840,
+    "Per100K ": 25.89
+  },
+  {
+    "Name": "TODD ",
+    "Rank": 423,
+    "Total ": 69810,
+    "Per100K ": 25.88
+  },
+  {
+    "Name": "CHANG ",
+    "Rank": 424,
+    "Total ": 69756,
+    "Per100K ": 25.86
+  },
+  {
+    "Name": "BLAKE ",
+    "Rank": 425,
+    "Total ": 69279,
+    "Per100K ": 25.68
+  },
+  {
+    "Name": "MALONE ",
+    "Rank": 426,
+    "Total ": 69257,
+    "Per100K ": 25.67
+  },
+  {
+    "Name": "WOLF ",
+    "Rank": 427,
+    "Total ": 68905,
+    "Per100K ": 25.54
+  },
+  {
+    "Name": "HODGES ",
+    "Rank": 428,
+    "Total ": 68868,
+    "Per100K ": 25.53
+  },
+  {
+    "Name": "JUAREZ ",
+    "Rank": 429,
+    "Total ": 68785,
+    "Per100K ": 25.5
+  },
+  {
+    "Name": "GILL ",
+    "Rank": 430,
+    "Total ": 68699,
+    "Per100K ": 25.47
+  },
+  {
+    "Name": "FARMER ",
+    "Rank": 431,
+    "Total ": 68309,
+    "Per100K ": 25.32
+  },
+  {
+    "Name": "HINES ",
+    "Rank": 432,
+    "Total ": 68145,
+    "Per100K ": 25.26
+  },
+  {
+    "Name": "GALLAGHER ",
+    "Rank": 433,
+    "Total ": 68075,
+    "Per100K ": 25.24
+  },
+  {
+    "Name": "DURAN ",
+    "Rank": 434,
+    "Total ": 68046,
+    "Per100K ": 25.22
+  },
+  {
+    "Name": "HUBBARD ",
+    "Rank": 435,
+    "Total ": 68021,
+    "Per100K ": 25.22
+  },
+  {
+    "Name": "CANNON ",
+    "Rank": 436,
+    "Total ": 67923,
+    "Per100K ": 25.18
+  },
+  {
+    "Name": "MIRANDA ",
+    "Rank": 437,
+    "Total ": 67646,
+    "Per100K ": 25.08
+  },
+  {
+    "Name": "WANG ",
+    "Rank": 438,
+    "Total ": 67570,
+    "Per100K ": 25.05
+  },
+  {
+    "Name": "SAUNDERS ",
+    "Rank": 439,
+    "Total ": 67210,
+    "Per100K ": 24.91
+  },
+  {
+    "Name": "TATE ",
+    "Rank": 440,
+    "Total ": 67208,
+    "Per100K ": 24.91
+  },
+  {
+    "Name": "MACK ",
+    "Rank": 441,
+    "Total ": 67154,
+    "Per100K ": 24.89
+  },
+  {
+    "Name": "HAMMOND ",
+    "Rank": 442,
+    "Total ": 67063,
+    "Per100K ": 24.86
+  },
+  {
+    "Name": "CARRILLO ",
+    "Rank": 443,
+    "Total ": 67054,
+    "Per100K ": 24.86
+  },
+  {
+    "Name": "TOWNSEND ",
+    "Rank": 444,
+    "Total ": 66853,
+    "Per100K ": 24.78
+  },
+  {
+    "Name": "WISE ",
+    "Rank": 445,
+    "Total ": 66738,
+    "Per100K ": 24.74
+  },
+  {
+    "Name": "INGRAM ",
+    "Rank": 446,
+    "Total ": 66665,
+    "Per100K ": 24.71
+  },
+  {
+    "Name": "BARTON ",
+    "Rank": 447,
+    "Total ": 66622,
+    "Per100K ": 24.7
+  },
+  {
+    "Name": "MEJIA ",
+    "Rank": 448,
+    "Total ": 66534,
+    "Per100K ": 24.66
+  },
+  {
+    "Name": "AYALA ",
+    "Rank": 449,
+    "Total ": 66515,
+    "Per100K ": 24.66
+  },
+  {
+    "Name": "SCHROEDER ",
+    "Rank": 450,
+    "Total ": 66412,
+    "Per100K ": 24.62
+  },
+  {
+    "Name": "HAMPTON ",
+    "Rank": 451,
+    "Total ": 66378,
+    "Per100K ": 24.61
+  },
+  {
+    "Name": "ROWE ",
+    "Rank": 452,
+    "Total ": 66205,
+    "Per100K ": 24.54
+  },
+  {
+    "Name": "PARSONS ",
+    "Rank": 453,
+    "Total ": 66203,
+    "Per100K ": 24.54
+  },
+  {
+    "Name": "FRANK ",
+    "Rank": 454,
+    "Total ": 65918,
+    "Per100K ": 24.44
+  },
+  {
+    "Name": "WATERS ",
+    "Rank": 455,
+    "Total ": 65817,
+    "Per100K ": 24.4
+  },
+  {
+    "Name": "STRICKLAND ",
+    "Rank": 456,
+    "Total ": 65814,
+    "Per100K ": 24.4
+  },
+  {
+    "Name": "OSBORNE ",
+    "Rank": 457,
+    "Total ": 65802,
+    "Per100K ": 24.39
+  },
+  {
+    "Name": "MAXWELL ",
+    "Rank": 458,
+    "Total ": 65779,
+    "Per100K ": 24.38
+  },
+  {
+    "Name": "CHAN ",
+    "Rank": 459,
+    "Total ": 65719,
+    "Per100K ": 24.36
+  },
+  {
+    "Name": "DELEON ",
+    "Rank": 460,
+    "Total ": 65598,
+    "Per100K ": 24.32
+  },
+  {
+    "Name": "NORMAN ",
+    "Rank": 461,
+    "Total ": 65269,
+    "Per100K ": 24.2
+  },
+  {
+    "Name": "HARRINGTON ",
+    "Rank": 462,
+    "Total ": 65131,
+    "Per100K ": 24.14
+  },
+  {
+    "Name": "CASEY ",
+    "Rank": 463,
+    "Total ": 64815,
+    "Per100K ": 24.03
+  },
+  {
+    "Name": "PATTON ",
+    "Rank": 464,
+    "Total ": 64772,
+    "Per100K ": 24.01
+  },
+  {
+    "Name": "LOGAN ",
+    "Rank": 465,
+    "Total ": 64576,
+    "Per100K ": 23.94
+  },
+  {
+    "Name": "BOWERS ",
+    "Rank": 466,
+    "Total ": 64496,
+    "Per100K ": 23.91
+  },
+  {
+    "Name": "MUELLER ",
+    "Rank": 467,
+    "Total ": 64305,
+    "Per100K ": 23.84
+  },
+  {
+    "Name": "GLOVER ",
+    "Rank": 468,
+    "Total ": 64180,
+    "Per100K ": 23.79
+  },
+  {
+    "Name": "FLOYD ",
+    "Rank": 469,
+    "Total ": 64141,
+    "Per100K ": 23.78
+  },
+  {
+    "Name": "HARTMAN ",
+    "Rank": 470,
+    "Total ": 63827,
+    "Per100K ": 23.66
+  },
+  {
+    "Name": "BUCHANAN ",
+    "Rank": 471,
+    "Total ": 63825,
+    "Per100K ": 23.66
+  },
+  {
+    "Name": "COBB ",
+    "Rank": 472,
+    "Total ": 63739,
+    "Per100K ": 23.63
+  },
+  {
+    "Name": "FRENCH ",
+    "Rank": 473,
+    "Total ": 63149,
+    "Per100K ": 23.41
+  },
+  {
+    "Name": "KRAMER ",
+    "Rank": 474,
+    "Total ": 63023,
+    "Per100K ": 23.36
+  },
+  {
+    "Name": "MCCORMICK ",
+    "Rank": 475,
+    "Total ": 62663,
+    "Per100K ": 23.23
+  },
+  {
+    "Name": "CLARKE ",
+    "Rank": 476,
+    "Total ": 62546,
+    "Per100K ": 23.19
+  },
+  {
+    "Name": "TYLER ",
+    "Rank": 477,
+    "Total ": 62534,
+    "Per100K ": 23.18
+  },
+  {
+    "Name": "GIBBS ",
+    "Rank": 478,
+    "Total ": 62514,
+    "Per100K ": 23.17
+  },
+  {
+    "Name": "MOODY ",
+    "Rank": 479,
+    "Total ": 62344,
+    "Per100K ": 23.11
+  },
+  {
+    "Name": "CONNER ",
+    "Rank": 480,
+    "Total ": 62335,
+    "Per100K ": 23.11
+  },
+  {
+    "Name": "SPARKS ",
+    "Rank": 481,
+    "Total ": 62234,
+    "Per100K ": 23.07
+  },
+  {
+    "Name": "MCGUIRE ",
+    "Rank": 482,
+    "Total ": 62116,
+    "Per100K ": 23.03
+  },
+  {
+    "Name": "LEON ",
+    "Rank": 483,
+    "Total ": 62034,
+    "Per100K ": 23
+  },
+  {
+    "Name": "BAUER ",
+    "Rank": 484,
+    "Total ": 61979,
+    "Per100K ": 22.98
+  },
+  {
+    "Name": "NORTON ",
+    "Rank": 485,
+    "Total ": 61805,
+    "Per100K ": 22.91
+  },
+  {
+    "Name": "POPE ",
+    "Rank": 486,
+    "Total ": 61750,
+    "Per100K ": 22.89
+  },
+  {
+    "Name": "FLYNN ",
+    "Rank": 487,
+    "Total ": 61747,
+    "Per100K ": 22.89
+  },
+  {
+    "Name": "HOGAN ",
+    "Rank": 488,
+    "Total ": 61651,
+    "Per100K ": 22.85
+  },
+  {
+    "Name": "ROBLES ",
+    "Rank": 489,
+    "Total ": 61619,
+    "Per100K ": 22.84
+  },
+  {
+    "Name": "SALINAS ",
+    "Rank": 490,
+    "Total ": 61582,
+    "Per100K ": 22.83
+  },
+  {
+    "Name": "YATES ",
+    "Rank": 491,
+    "Total ": 61400,
+    "Per100K ": 22.76
+  },
+  {
+    "Name": "LINDSEY ",
+    "Rank": 492,
+    "Total ": 61199,
+    "Per100K ": 22.69
+  },
+  {
+    "Name": "LLOYD ",
+    "Rank": 493,
+    "Total ": 61154,
+    "Per100K ": 22.67
+  },
+  {
+    "Name": "MARSH ",
+    "Rank": 494,
+    "Total ": 60999,
+    "Per100K ": 22.61
+  },
+  {
+    "Name": "MCBRIDE ",
+    "Rank": 495,
+    "Total ": 60874,
+    "Per100K ": 22.57
+  },
+  {
+    "Name": "OWEN ",
+    "Rank": 496,
+    "Total ": 60461,
+    "Per100K ": 22.41
+  },
+  {
+    "Name": "SOLIS ",
+    "Rank": 497,
+    "Total ": 60045,
+    "Per100K ": 22.26
+  },
+  {
+    "Name": "PHAM ",
+    "Rank": 498,
+    "Total ": 59949,
+    "Per100K ": 22.22
+  },
+  {
+    "Name": "LANG ",
+    "Rank": 499,
+    "Total ": 59843,
+    "Per100K ": 22.18
+  },
+  {
+    "Name": "PRATT ",
+    "Rank": 500,
+    "Total ": 59801,
+    "Per100K ": 22.17
+  },
+  {
+    "Name": "LARA ",
+    "Rank": 501,
+    "Total ": 59731,
+    "Per100K ": 22.14
+  },
+  {
+    "Name": "BROCK ",
+    "Rank": 502,
+    "Total ": 59682,
+    "Per100K ": 22.12
+  },
+  {
+    "Name": "BALLARD ",
+    "Rank": 503,
+    "Total ": 59660,
+    "Per100K ": 22.12
+  },
+  {
+    "Name": "TRUJILLO ",
+    "Rank": 504,
+    "Total ": 59609,
+    "Per100K ": 22.1
+  },
+  {
+    "Name": "SHAFFER ",
+    "Rank": 505,
+    "Total ": 59227,
+    "Per100K ": 21.96
+  },
+  {
+    "Name": "DRAKE ",
+    "Rank": 506,
+    "Total ": 59055,
+    "Per100K ": 21.89
+  },
+  {
+    "Name": "ROMAN ",
+    "Rank": 507,
+    "Total ": 59020,
+    "Per100K ": 21.88
+  },
+  {
+    "Name": "AGUIRRE ",
+    "Rank": 508,
+    "Total ": 58918,
+    "Per100K ": 21.84
+  },
+  {
+    "Name": "MORTON ",
+    "Rank": 509,
+    "Total ": 58788,
+    "Per100K ": 21.79
+  },
+  {
+    "Name": "STOKES ",
+    "Rank": 510,
+    "Total ": 58687,
+    "Per100K ": 21.76
+  },
+  {
+    "Name": "LAMB ",
+    "Rank": 511,
+    "Total ": 58555,
+    "Per100K ": 21.71
+  },
+  {
+    "Name": "PACHECO ",
+    "Rank": 512,
+    "Total ": 58534,
+    "Per100K ": 21.7
+  },
+  {
+    "Name": "PATRICK ",
+    "Rank": 513,
+    "Total ": 58257,
+    "Per100K ": 21.6
+  },
+  {
+    "Name": "COCHRAN ",
+    "Rank": 514,
+    "Total ": 58233,
+    "Per100K ": 21.59
+  },
+  {
+    "Name": "SHEPHERD ",
+    "Rank": 515,
+    "Total ": 57935,
+    "Per100K ": 21.48
+  },
+  {
+    "Name": "CAIN ",
+    "Rank": 516,
+    "Total ": 57873,
+    "Per100K ": 21.45
+  },
+  {
+    "Name": "BURNETT ",
+    "Rank": 517,
+    "Total ": 57859,
+    "Per100K ": 21.45
+  },
+  {
+    "Name": "HESS ",
+    "Rank": 518,
+    "Total ": 57822,
+    "Per100K ": 21.43
+  },
+  {
+    "Name": "LI ",
+    "Rank": 519,
+    "Total ": 57786,
+    "Per100K ": 21.42
+  },
+  {
+    "Name": "CERVANTES ",
+    "Rank": 520,
+    "Total ": 57685,
+    "Per100K ": 21.38
+  },
+  {
+    "Name": "OLSEN ",
+    "Rank": 521,
+    "Total ": 57357,
+    "Per100K ": 21.26
+  },
+  {
+    "Name": "BRIGGS ",
+    "Rank": 522,
+    "Total ": 57297,
+    "Per100K ": 21.24
+  },
+  {
+    "Name": "OCHOA ",
+    "Rank": 523,
+    "Total ": 57210,
+    "Per100K ": 21.21
+  },
+  {
+    "Name": "CABRERA ",
+    "Rank": 524,
+    "Total ": 57171,
+    "Per100K ": 21.19
+  },
+  {
+    "Name": "VELASQUEZ ",
+    "Rank": 525,
+    "Total ": 57163,
+    "Per100K ": 21.19
+  },
+  {
+    "Name": "MONTOYA ",
+    "Rank": 526,
+    "Total ": 57075,
+    "Per100K ": 21.16
+  },
+  {
+    "Name": "ROTH ",
+    "Rank": 527,
+    "Total ": 57030,
+    "Per100K ": 21.14
+  },
+  {
+    "Name": "MEYERS ",
+    "Rank": 528,
+    "Total ": 56744,
+    "Per100K ": 21.03
+  },
+  {
+    "Name": "CARDENAS ",
+    "Rank": 529,
+    "Total ": 56618,
+    "Per100K ": 20.99
+  },
+  {
+    "Name": "FUENTES ",
+    "Rank": 530,
+    "Total ": 56441,
+    "Per100K ": 20.92
+  },
+  {
+    "Name": "WEISS ",
+    "Rank": 531,
+    "Total ": 56153,
+    "Per100K ": 20.82
+  },
+  {
+    "Name": "HOOVER ",
+    "Rank": 532,
+    "Total ": 56068,
+    "Per100K ": 20.78
+  },
+  {
+    "Name": "WILKINS ",
+    "Rank": 532,
+    "Total ": 56068,
+    "Per100K ": 20.78
+  },
+  {
+    "Name": "NICHOLSON ",
+    "Rank": 534,
+    "Total ": 55986,
+    "Per100K ": 20.75
+  },
+  {
+    "Name": "UNDERWOOD ",
+    "Rank": 535,
+    "Total ": 55973,
+    "Per100K ": 20.75
+  },
+  {
+    "Name": "SHORT ",
+    "Rank": 536,
+    "Total ": 55903,
+    "Per100K ": 20.72
+  },
+  {
+    "Name": "CARSON ",
+    "Rank": 537,
+    "Total ": 55821,
+    "Per100K ": 20.69
+  },
+  {
+    "Name": "MORROW ",
+    "Rank": 538,
+    "Total ": 55664,
+    "Per100K ": 20.63
+  },
+  {
+    "Name": "COLON ",
+    "Rank": 539,
+    "Total ": 55512,
+    "Per100K ": 20.58
+  },
+  {
+    "Name": "HOLLOWAY ",
+    "Rank": 540,
+    "Total ": 55466,
+    "Per100K ": 20.56
+  },
+  {
+    "Name": "SUMMERS ",
+    "Rank": 541,
+    "Total ": 55391,
+    "Per100K ": 20.53
+  },
+  {
+    "Name": "BRYAN ",
+    "Rank": 542,
+    "Total ": 55269,
+    "Per100K ": 20.49
+  },
+  {
+    "Name": "PETERSEN ",
+    "Rank": 543,
+    "Total ": 55185,
+    "Per100K ": 20.46
+  },
+  {
+    "Name": "MCKENZIE ",
+    "Rank": 544,
+    "Total ": 55084,
+    "Per100K ": 20.42
+  },
+  {
+    "Name": "SERRANO ",
+    "Rank": 545,
+    "Total ": 55057,
+    "Per100K ": 20.41
+  },
+  {
+    "Name": "WILCOX ",
+    "Rank": 546,
+    "Total ": 54987,
+    "Per100K ": 20.38
+  },
+  {
+    "Name": "CAREY ",
+    "Rank": 547,
+    "Total ": 54924,
+    "Per100K ": 20.36
+  },
+  {
+    "Name": "CLAYTON ",
+    "Rank": 548,
+    "Total ": 54875,
+    "Per100K ": 20.34
+  },
+  {
+    "Name": "POOLE ",
+    "Rank": 549,
+    "Total ": 54706,
+    "Per100K ": 20.28
+  },
+  {
+    "Name": "CALDERON ",
+    "Rank": 550,
+    "Total ": 54691,
+    "Per100K ": 20.27
+  },
+  {
+    "Name": "GALLEGOS ",
+    "Rank": 551,
+    "Total ": 54672,
+    "Per100K ": 20.27
+  },
+  {
+    "Name": "GREER ",
+    "Rank": 552,
+    "Total ": 54611,
+    "Per100K ": 20.24
+  },
+  {
+    "Name": "RIVAS ",
+    "Rank": 553,
+    "Total ": 54588,
+    "Per100K ": 20.24
+  },
+  {
+    "Name": "GUERRA ",
+    "Rank": 554,
+    "Total ": 54575,
+    "Per100K ": 20.23
+  },
+  {
+    "Name": "DECKER ",
+    "Rank": 555,
+    "Total ": 54450,
+    "Per100K ": 20.18
+  },
+  {
+    "Name": "COLLIER ",
+    "Rank": 556,
+    "Total ": 54414,
+    "Per100K ": 20.17
+  },
+  {
+    "Name": "WALL ",
+    "Rank": 557,
+    "Total ": 54401,
+    "Per100K ": 20.17
+  },
+  {
+    "Name": "WHITAKER ",
+    "Rank": 558,
+    "Total ": 54343,
+    "Per100K ": 20.14
+  },
+  {
+    "Name": "BASS ",
+    "Rank": 559,
+    "Total ": 54296,
+    "Per100K ": 20.13
+  },
+  {
+    "Name": "FLOWERS ",
+    "Rank": 560,
+    "Total ": 54277,
+    "Per100K ": 20.12
+  },
+  {
+    "Name": "DAVENPORT ",
+    "Rank": 561,
+    "Total ": 54206,
+    "Per100K ": 20.09
+  },
+  {
+    "Name": "CONLEY ",
+    "Rank": 562,
+    "Total ": 54194,
+    "Per100K ": 20.09
+  },
+  {
+    "Name": "HOUSTON ",
+    "Rank": 563,
+    "Total ": 54026,
+    "Per100K ": 20.03
+  },
+  {
+    "Name": "HUFF ",
+    "Rank": 564,
+    "Total ": 53892,
+    "Per100K ": 19.98
+  },
+  {
+    "Name": "COPELAND ",
+    "Rank": 565,
+    "Total ": 53771,
+    "Per100K ": 19.93
+  },
+  {
+    "Name": "HOOD ",
+    "Rank": 566,
+    "Total ": 53737,
+    "Per100K ": 19.92
+  },
+  {
+    "Name": "MONROE ",
+    "Rank": 567,
+    "Total ": 53475,
+    "Per100K ": 19.82
+  },
+  {
+    "Name": "MASSEY ",
+    "Rank": 568,
+    "Total ": 53459,
+    "Per100K ": 19.82
+  },
+  {
+    "Name": "ROBERSON ",
+    "Rank": 569,
+    "Total ": 53198,
+    "Per100K ": 19.72
+  },
+  {
+    "Name": "COMBS ",
+    "Rank": 570,
+    "Total ": 53180,
+    "Per100K ": 19.71
+  },
+  {
+    "Name": "FRANCO ",
+    "Rank": 571,
+    "Total ": 53161,
+    "Per100K ": 19.71
+  },
+  {
+    "Name": "LARSEN ",
+    "Rank": 572,
+    "Total ": 52963,
+    "Per100K ": 19.63
+  },
+  {
+    "Name": "PITTMAN ",
+    "Rank": 573,
+    "Total ": 52689,
+    "Per100K ": 19.53
+  },
+  {
+    "Name": "RANDALL ",
+    "Rank": 574,
+    "Total ": 52495,
+    "Per100K ": 19.46
+  },
+  {
+    "Name": "SKINNER ",
+    "Rank": 575,
+    "Total ": 52490,
+    "Per100K ": 19.46
+  },
+  {
+    "Name": "WILKINSON ",
+    "Rank": 576,
+    "Total ": 52483,
+    "Per100K ": 19.46
+  },
+  {
+    "Name": "KIRBY ",
+    "Rank": 577,
+    "Total ": 52473,
+    "Per100K ": 19.45
+  },
+  {
+    "Name": "CAMERON ",
+    "Rank": 578,
+    "Total ": 52439,
+    "Per100K ": 19.44
+  },
+  {
+    "Name": "BRIDGES ",
+    "Rank": 579,
+    "Total ": 52260,
+    "Per100K ": 19.37
+  },
+  {
+    "Name": "ANTHONY ",
+    "Rank": 580,
+    "Total ": 52146,
+    "Per100K ": 19.33
+  },
+  {
+    "Name": "RICHARD ",
+    "Rank": 581,
+    "Total ": 52138,
+    "Per100K ": 19.33
+  },
+  {
+    "Name": "KIRK ",
+    "Rank": 582,
+    "Total ": 52056,
+    "Per100K ": 19.3
+  },
+  {
+    "Name": "BRUCE ",
+    "Rank": 583,
+    "Total ": 52004,
+    "Per100K ": 19.28
+  },
+  {
+    "Name": "SINGLETON ",
+    "Rank": 584,
+    "Total ": 51797,
+    "Per100K ": 19.2
+  },
+  {
+    "Name": "MATHIS ",
+    "Rank": 585,
+    "Total ": 51796,
+    "Per100K ": 19.2
+  },
+  {
+    "Name": "BRADFORD ",
+    "Rank": 586,
+    "Total ": 51726,
+    "Per100K ": 19.17
+  },
+  {
+    "Name": "BOONE ",
+    "Rank": 587,
+    "Total ": 51679,
+    "Per100K ": 19.16
+  },
+  {
+    "Name": "ABBOTT ",
+    "Rank": 588,
+    "Total ": 51620,
+    "Per100K ": 19.14
+  },
+  {
+    "Name": "CHARLES ",
+    "Rank": 589,
+    "Total ": 51518,
+    "Per100K ": 19.1
+  },
+  {
+    "Name": "ALLISON ",
+    "Rank": 590,
+    "Total ": 51504,
+    "Per100K ": 19.09
+  },
+  {
+    "Name": "SWEENEY ",
+    "Rank": 591,
+    "Total ": 51500,
+    "Per100K ": 19.09
+  },
+  {
+    "Name": "ATKINSON ",
+    "Rank": 592,
+    "Total ": 51489,
+    "Per100K ": 19.09
+  },
+  {
+    "Name": "HORN ",
+    "Rank": 593,
+    "Total ": 51380,
+    "Per100K ": 19.05
+  },
+  {
+    "Name": "JEFFERSON ",
+    "Rank": 594,
+    "Total ": 51361,
+    "Per100K ": 19.04
+  },
+  {
+    "Name": "ROSALES ",
+    "Rank": 595,
+    "Total ": 51336,
+    "Per100K ": 19.03
+  },
+  {
+    "Name": "YORK ",
+    "Rank": 596,
+    "Total ": 51334,
+    "Per100K ": 19.03
+  },
+  {
+    "Name": "CHRISTIAN ",
+    "Rank": 597,
+    "Total ": 51177,
+    "Per100K ": 18.97
+  },
+  {
+    "Name": "PHELPS ",
+    "Rank": 598,
+    "Total ": 51154,
+    "Per100K ": 18.96
+  },
+  {
+    "Name": "FARRELL ",
+    "Rank": 599,
+    "Total ": 51095,
+    "Per100K ": 18.94
+  },
+  {
+    "Name": "CASTANEDA ",
+    "Rank": 600,
+    "Total ": 51089,
+    "Per100K ": 18.94
+  },
+  {
+    "Name": "NASH ",
+    "Rank": 601,
+    "Total ": 51021,
+    "Per100K ": 18.91
+  },
+  {
+    "Name": "DICKERSON ",
+    "Rank": 602,
+    "Total ": 51017,
+    "Per100K ": 18.91
+  },
+  {
+    "Name": "BOND ",
+    "Rank": 603,
+    "Total ": 50980,
+    "Per100K ": 18.9
+  },
+  {
+    "Name": "WYATT ",
+    "Rank": 604,
+    "Total ": 50874,
+    "Per100K ": 18.86
+  },
+  {
+    "Name": "FOLEY ",
+    "Rank": 605,
+    "Total ": 50852,
+    "Per100K ": 18.85
+  },
+  {
+    "Name": "CHASE ",
+    "Rank": 606,
+    "Total ": 50777,
+    "Per100K ": 18.82
+  },
+  {
+    "Name": "GATES ",
+    "Rank": 607,
+    "Total ": 50748,
+    "Per100K ": 18.81
+  },
+  {
+    "Name": "VINCENT ",
+    "Rank": 608,
+    "Total ": 50628,
+    "Per100K ": 18.77
+  },
+  {
+    "Name": "MATHEWS ",
+    "Rank": 609,
+    "Total ": 50608,
+    "Per100K ": 18.76
+  },
+  {
+    "Name": "HODGE ",
+    "Rank": 610,
+    "Total ": 50577,
+    "Per100K ": 18.75
+  },
+  {
+    "Name": "GARRISON ",
+    "Rank": 611,
+    "Total ": 50482,
+    "Per100K ": 18.71
+  },
+  {
+    "Name": "TREVINO ",
+    "Rank": 612,
+    "Total ": 50454,
+    "Per100K ": 18.7
+  },
+  {
+    "Name": "VILLARREAL ",
+    "Rank": 613,
+    "Total ": 50351,
+    "Per100K ": 18.66
+  },
+  {
+    "Name": "HEATH ",
+    "Rank": 614,
+    "Total ": 50307,
+    "Per100K ": 18.65
+  },
+  {
+    "Name": "DALTON ",
+    "Rank": 615,
+    "Total ": 50166,
+    "Per100K ": 18.6
+  },
+  {
+    "Name": "VALENCIA ",
+    "Rank": 616,
+    "Total ": 50026,
+    "Per100K ": 18.54
+  },
+  {
+    "Name": "CALLAHAN ",
+    "Rank": 617,
+    "Total ": 49925,
+    "Per100K ": 18.51
+  },
+  {
+    "Name": "HENSLEY ",
+    "Rank": 618,
+    "Total ": 49858,
+    "Per100K ": 18.48
+  },
+  {
+    "Name": "ATKINS ",
+    "Rank": 619,
+    "Total ": 49754,
+    "Per100K ": 18.44
+  },
+  {
+    "Name": "HUFFMAN ",
+    "Rank": 620,
+    "Total ": 49737,
+    "Per100K ": 18.44
+  },
+  {
+    "Name": "ROY ",
+    "Rank": 621,
+    "Total ": 49725,
+    "Per100K ": 18.43
+  },
+  {
+    "Name": "BOYER ",
+    "Rank": 622,
+    "Total ": 49601,
+    "Per100K ": 18.39
+  },
+  {
+    "Name": "SHIELDS ",
+    "Rank": 623,
+    "Total ": 49556,
+    "Per100K ": 18.37
+  },
+  {
+    "Name": "LIN ",
+    "Rank": 624,
+    "Total ": 49360,
+    "Per100K ": 18.3
+  },
+  {
+    "Name": "HANCOCK ",
+    "Rank": 625,
+    "Total ": 49330,
+    "Per100K ": 18.29
+  },
+  {
+    "Name": "GRIMES ",
+    "Rank": 626,
+    "Total ": 49245,
+    "Per100K ": 18.25
+  },
+  {
+    "Name": "GLENN ",
+    "Rank": 627,
+    "Total ": 49241,
+    "Per100K ": 18.25
+  },
+  {
+    "Name": "CLINE ",
+    "Rank": 628,
+    "Total ": 49167,
+    "Per100K ": 18.23
+  },
+  {
+    "Name": "DELACRUZ ",
+    "Rank": 629,
+    "Total ": 49158,
+    "Per100K ": 18.22
+  },
+  {
+    "Name": "CAMACHO ",
+    "Rank": 630,
+    "Total ": 49000,
+    "Per100K ": 18.16
+  },
+  {
+    "Name": "DILLON ",
+    "Rank": 631,
+    "Total ": 48833,
+    "Per100K ": 18.1
+  },
+  {
+    "Name": "PARRISH ",
+    "Rank": 632,
+    "Total ": 48823,
+    "Per100K ": 18.1
+  },
+  {
+    "Name": "ONEILL ",
+    "Rank": 633,
+    "Total ": 48656,
+    "Per100K ": 18.04
+  },
+  {
+    "Name": "MELTON ",
+    "Rank": 634,
+    "Total ": 48594,
+    "Per100K ": 18.01
+  },
+  {
+    "Name": "BOOTH ",
+    "Rank": 635,
+    "Total ": 48580,
+    "Per100K ": 18.01
+  },
+  {
+    "Name": "KANE ",
+    "Rank": 636,
+    "Total ": 48527,
+    "Per100K ": 17.99
+  },
+  {
+    "Name": "BERG ",
+    "Rank": 637,
+    "Total ": 48480,
+    "Per100K ": 17.97
+  },
+  {
+    "Name": "HARRELL ",
+    "Rank": 638,
+    "Total ": 48471,
+    "Per100K ": 17.97
+  },
+  {
+    "Name": "PITTS ",
+    "Rank": 639,
+    "Total ": 48462,
+    "Per100K ": 17.96
+  },
+  {
+    "Name": "SAVAGE ",
+    "Rank": 640,
+    "Total ": 48367,
+    "Per100K ": 17.93
+  },
+  {
+    "Name": "WIGGINS ",
+    "Rank": 641,
+    "Total ": 48355,
+    "Per100K ": 17.93
+  },
+  {
+    "Name": "BRENNAN ",
+    "Rank": 642,
+    "Total ": 48296,
+    "Per100K ": 17.9
+  },
+  {
+    "Name": "SALAS ",
+    "Rank": 643,
+    "Total ": 48282,
+    "Per100K ": 17.9
+  },
+  {
+    "Name": "MARKS ",
+    "Rank": 644,
+    "Total ": 48281,
+    "Per100K ": 17.9
+  },
+  {
+    "Name": "RUSSO ",
+    "Rank": 645,
+    "Total ": 48126,
+    "Per100K ": 17.84
+  },
+  {
+    "Name": "SAWYER ",
+    "Rank": 646,
+    "Total ": 47979,
+    "Per100K ": 17.79
+  },
+  {
+    "Name": "BAXTER ",
+    "Rank": 647,
+    "Total ": 47857,
+    "Per100K ": 17.74
+  },
+  {
+    "Name": "GOLDEN ",
+    "Rank": 648,
+    "Total ": 47839,
+    "Per100K ": 17.73
+  },
+  {
+    "Name": "HUTCHINSON ",
+    "Rank": 649,
+    "Total ": 47809,
+    "Per100K ": 17.72
+  },
+  {
+    "Name": "LIU ",
+    "Rank": 650,
+    "Total ": 47665,
+    "Per100K ": 17.67
+  },
+  {
+    "Name": "WALTER ",
+    "Rank": 651,
+    "Total ": 47615,
+    "Per100K ": 17.65
+  },
+  {
+    "Name": "MCDOWELL ",
+    "Rank": 652,
+    "Total ": 47526,
+    "Per100K ": 17.62
+  },
+  {
+    "Name": "WILEY ",
+    "Rank": 653,
+    "Total ": 47503,
+    "Per100K ": 17.61
+  },
+  {
+    "Name": "RICH ",
+    "Rank": 654,
+    "Total ": 47477,
+    "Per100K ": 17.6
+  },
+  {
+    "Name": "HUMPHREY ",
+    "Rank": 655,
+    "Total ": 47470,
+    "Per100K ": 17.6
+  },
+  {
+    "Name": "JOHNS ",
+    "Rank": 656,
+    "Total ": 47289,
+    "Per100K ": 17.53
+  },
+  {
+    "Name": "KOCH ",
+    "Rank": 657,
+    "Total ": 47286,
+    "Per100K ": 17.53
+  },
+  {
+    "Name": "SUAREZ ",
+    "Rank": 658,
+    "Total ": 47235,
+    "Per100K ": 17.51
+  },
+  {
+    "Name": "HOBBS ",
+    "Rank": 659,
+    "Total ": 47220,
+    "Per100K ": 17.5
+  },
+  {
+    "Name": "BEARD ",
+    "Rank": 660,
+    "Total ": 47128,
+    "Per100K ": 17.47
+  },
+  {
+    "Name": "GILMORE ",
+    "Rank": 661,
+    "Total ": 47050,
+    "Per100K ": 17.44
+  },
+  {
+    "Name": "IBARRA ",
+    "Rank": 662,
+    "Total ": 46895,
+    "Per100K ": 17.38
+  },
+  {
+    "Name": "KEITH ",
+    "Rank": 663,
+    "Total ": 46747,
+    "Per100K ": 17.33
+  },
+  {
+    "Name": "MACIAS ",
+    "Rank": 664,
+    "Total ": 46739,
+    "Per100K ": 17.33
+  },
+  {
+    "Name": "KHAN ",
+    "Rank": 665,
+    "Total ": 46713,
+    "Per100K ": 17.32
+  },
+  {
+    "Name": "ANDRADE ",
+    "Rank": 666,
+    "Total ": 46702,
+    "Per100K ": 17.31
+  },
+  {
+    "Name": "WARE ",
+    "Rank": 667,
+    "Total ": 46682,
+    "Per100K ": 17.3
+  },
+  {
+    "Name": "STEPHENSON ",
+    "Rank": 668,
+    "Total ": 46662,
+    "Per100K ": 17.3
+  },
+  {
+    "Name": "HENSON ",
+    "Rank": 669,
+    "Total ": 46609,
+    "Per100K ": 17.28
+  },
+  {
+    "Name": "WILKERSON ",
+    "Rank": 670,
+    "Total ": 46605,
+    "Per100K ": 17.28
+  },
+  {
+    "Name": "DYER ",
+    "Rank": 671,
+    "Total ": 46574,
+    "Per100K ": 17.26
+  },
+  {
+    "Name": "MCCLURE ",
+    "Rank": 672,
+    "Total ": 46505,
+    "Per100K ": 17.24
+  },
+  {
+    "Name": "BLACKWELL ",
+    "Rank": 673,
+    "Total ": 46495,
+    "Per100K ": 17.24
+  },
+  {
+    "Name": "MERCADO ",
+    "Rank": 674,
+    "Total ": 46437,
+    "Per100K ": 17.21
+  },
+  {
+    "Name": "TANNER ",
+    "Rank": 675,
+    "Total ": 46412,
+    "Per100K ": 17.2
+  },
+  {
+    "Name": "EATON ",
+    "Rank": 676,
+    "Total ": 46403,
+    "Per100K ": 17.2
+  },
+  {
+    "Name": "CLAY ",
+    "Rank": 677,
+    "Total ": 46264,
+    "Per100K ": 17.15
+  },
+  {
+    "Name": "BARRON ",
+    "Rank": 678,
+    "Total ": 46196,
+    "Per100K ": 17.12
+  },
+  {
+    "Name": "BEASLEY ",
+    "Rank": 679,
+    "Total ": 46179,
+    "Per100K ": 17.12
+  },
+  {
+    "Name": "ONEAL ",
+    "Rank": 680,
+    "Total ": 46161,
+    "Per100K ": 17.11
+  },
+  {
+    "Name": "PRESTON ",
+    "Rank": 681,
+    "Total ": 45850,
+    "Per100K ": 17
+  },
+  {
+    "Name": "SMALL ",
+    "Rank": 681,
+    "Total ": 45850,
+    "Per100K ": 17
+  },
+  {
+    "Name": "WU ",
+    "Rank": 683,
+    "Total ": 45815,
+    "Per100K ": 16.98
+  },
+  {
+    "Name": "ZAMORA ",
+    "Rank": 684,
+    "Total ": 45806,
+    "Per100K ": 16.98
+  },
+  {
+    "Name": "MACDONALD ",
+    "Rank": 685,
+    "Total ": 45782,
+    "Per100K ": 16.97
+  },
+  {
+    "Name": "VANCE ",
+    "Rank": 686,
+    "Total ": 45763,
+    "Per100K ": 16.96
+  },
+  {
+    "Name": "SNOW ",
+    "Rank": 687,
+    "Total ": 45689,
+    "Per100K ": 16.94
+  },
+  {
+    "Name": "MCCLAIN ",
+    "Rank": 688,
+    "Total ": 45560,
+    "Per100K ": 16.89
+  },
+  {
+    "Name": "STAFFORD ",
+    "Rank": 689,
+    "Total ": 45349,
+    "Per100K ": 16.81
+  },
+  {
+    "Name": "OROZCO ",
+    "Rank": 690,
+    "Total ": 45289,
+    "Per100K ": 16.79
+  },
+  {
+    "Name": "BARRY ",
+    "Rank": 691,
+    "Total ": 45044,
+    "Per100K ": 16.7
+  },
+  {
+    "Name": "ENGLISH ",
+    "Rank": 692,
+    "Total ": 45032,
+    "Per100K ": 16.69
+  },
+  {
+    "Name": "SHANNON ",
+    "Rank": 693,
+    "Total ": 44902,
+    "Per100K ": 16.65
+  },
+  {
+    "Name": "KLINE ",
+    "Rank": 694,
+    "Total ": 44900,
+    "Per100K ": 16.64
+  },
+  {
+    "Name": "JACOBSON ",
+    "Rank": 695,
+    "Total ": 44874,
+    "Per100K ": 16.63
+  },
+  {
+    "Name": "WOODARD ",
+    "Rank": 696,
+    "Total ": 44830,
+    "Per100K ": 16.62
+  },
+  {
+    "Name": "HUANG ",
+    "Rank": 697,
+    "Total ": 44715,
+    "Per100K ": 16.58
+  },
+  {
+    "Name": "KEMP ",
+    "Rank": 698,
+    "Total ": 44701,
+    "Per100K ": 16.57
+  },
+  {
+    "Name": "MOSLEY ",
+    "Rank": 699,
+    "Total ": 44698,
+    "Per100K ": 16.57
+  },
+  {
+    "Name": "PRINCE ",
+    "Rank": 700,
+    "Total ": 44640,
+    "Per100K ": 16.55
+  },
+  {
+    "Name": "MERRITT ",
+    "Rank": 701,
+    "Total ": 44626,
+    "Per100K ": 16.54
+  },
+  {
+    "Name": "HURST ",
+    "Rank": 702,
+    "Total ": 44587,
+    "Per100K ": 16.53
+  },
+  {
+    "Name": "VILLANUEVA ",
+    "Rank": 703,
+    "Total ": 44570,
+    "Per100K ": 16.52
+  },
+  {
+    "Name": "ROACH ",
+    "Rank": 704,
+    "Total ": 44454,
+    "Per100K ": 16.48
+  },
+  {
+    "Name": "NOLAN ",
+    "Rank": 705,
+    "Total ": 44421,
+    "Per100K ": 16.47
+  },
+  {
+    "Name": "LAM ",
+    "Rank": 706,
+    "Total ": 44385,
+    "Per100K ": 16.45
+  },
+  {
+    "Name": "YODER ",
+    "Rank": 707,
+    "Total ": 44245,
+    "Per100K ": 16.4
+  },
+  {
+    "Name": "MCCULLOUGH ",
+    "Rank": 708,
+    "Total ": 44123,
+    "Per100K ": 16.36
+  },
+  {
+    "Name": "LESTER ",
+    "Rank": 709,
+    "Total ": 43919,
+    "Per100K ": 16.28
+  },
+  {
+    "Name": "SANTANA ",
+    "Rank": 710,
+    "Total ": 43875,
+    "Per100K ": 16.26
+  },
+  {
+    "Name": "VALENZUELA ",
+    "Rank": 711,
+    "Total ": 43770,
+    "Per100K ": 16.23
+  },
+  {
+    "Name": "WINTERS ",
+    "Rank": 712,
+    "Total ": 43762,
+    "Per100K ": 16.22
+  },
+  {
+    "Name": "BARRERA ",
+    "Rank": 713,
+    "Total ": 43720,
+    "Per100K ": 16.21
+  },
+  {
+    "Name": "LEACH ",
+    "Rank": 714,
+    "Total ": 43666,
+    "Per100K ": 16.19
+  },
+  {
+    "Name": "ORR ",
+    "Rank": 714,
+    "Total ": 43666,
+    "Per100K ": 16.19
+  },
+  {
+    "Name": "BERGER ",
+    "Rank": 716,
+    "Total ": 43556,
+    "Per100K ": 16.15
+  },
+  {
+    "Name": "MCKEE ",
+    "Rank": 717,
+    "Total ": 43555,
+    "Per100K ": 16.15
+  },
+  {
+    "Name": "STRONG ",
+    "Rank": 718,
+    "Total ": 43430,
+    "Per100K ": 16.1
+  },
+  {
+    "Name": "CONWAY ",
+    "Rank": 719,
+    "Total ": 43395,
+    "Per100K ": 16.09
+  },
+  {
+    "Name": "STEIN ",
+    "Rank": 720,
+    "Total ": 43331,
+    "Per100K ": 16.06
+  },
+  {
+    "Name": "WHITEHEAD ",
+    "Rank": 721,
+    "Total ": 43310,
+    "Per100K ": 16.05
+  },
+  {
+    "Name": "BULLOCK ",
+    "Rank": 722,
+    "Total ": 43021,
+    "Per100K ": 15.95
+  },
+  {
+    "Name": "ESCOBAR ",
+    "Rank": 723,
+    "Total ": 42955,
+    "Per100K ": 15.92
+  },
+  {
+    "Name": "KNOX ",
+    "Rank": 724,
+    "Total ": 42937,
+    "Per100K ": 15.92
+  },
+  {
+    "Name": "MEADOWS ",
+    "Rank": 725,
+    "Total ": 42884,
+    "Per100K ": 15.9
+  },
+  {
+    "Name": "SOLOMON ",
+    "Rank": 726,
+    "Total ": 42839,
+    "Per100K ": 15.88
+  },
+  {
+    "Name": "VELEZ ",
+    "Rank": 727,
+    "Total ": 42820,
+    "Per100K ": 15.87
+  },
+  {
+    "Name": "ODONNELL ",
+    "Rank": 728,
+    "Total ": 42802,
+    "Per100K ": 15.87
+  },
+  {
+    "Name": "KERR ",
+    "Rank": 729,
+    "Total ": 42758,
+    "Per100K ": 15.85
+  },
+  {
+    "Name": "STOUT ",
+    "Rank": 730,
+    "Total ": 42669,
+    "Per100K ": 15.82
+  },
+  {
+    "Name": "BLANKENSHIP ",
+    "Rank": 731,
+    "Total ": 42663,
+    "Per100K ": 15.82
+  },
+  {
+    "Name": "BROWNING ",
+    "Rank": 732,
+    "Total ": 42642,
+    "Per100K ": 15.81
+  },
+  {
+    "Name": "KENT ",
+    "Rank": 733,
+    "Total ": 42597,
+    "Per100K ": 15.79
+  },
+  {
+    "Name": "LOZANO ",
+    "Rank": 734,
+    "Total ": 42567,
+    "Per100K ": 15.78
+  },
+  {
+    "Name": "BARTLETT ",
+    "Rank": 735,
+    "Total ": 42512,
+    "Per100K ": 15.76
+  },
+  {
+    "Name": "PRUITT ",
+    "Rank": 736,
+    "Total ": 42463,
+    "Per100K ": 15.74
+  },
+  {
+    "Name": "BUCK ",
+    "Rank": 737,
+    "Total ": 42441,
+    "Per100K ": 15.73
+  },
+  {
+    "Name": "BARR ",
+    "Rank": 738,
+    "Total ": 42432,
+    "Per100K ": 15.73
+  },
+  {
+    "Name": "GAINES ",
+    "Rank": 739,
+    "Total ": 42369,
+    "Per100K ": 15.71
+  },
+  {
+    "Name": "DURHAM ",
+    "Rank": 740,
+    "Total ": 42365,
+    "Per100K ": 15.7
+  },
+  {
+    "Name": "GENTRY ",
+    "Rank": 741,
+    "Total ": 42357,
+    "Per100K ": 15.7
+  },
+  {
+    "Name": "MCINTYRE ",
+    "Rank": 742,
+    "Total ": 42335,
+    "Per100K ": 15.69
+  },
+  {
+    "Name": "SLOAN ",
+    "Rank": 743,
+    "Total ": 42281,
+    "Per100K ": 15.67
+  },
+  {
+    "Name": "MELENDEZ ",
+    "Rank": 744,
+    "Total ": 42139,
+    "Per100K ": 15.62
+  },
+  {
+    "Name": "ROCHA ",
+    "Rank": 744,
+    "Total ": 42139,
+    "Per100K ": 15.62
+  },
+  {
+    "Name": "HERMAN ",
+    "Rank": 746,
+    "Total ": 42091,
+    "Per100K ": 15.6
+  },
+  {
+    "Name": "SEXTON ",
+    "Rank": 747,
+    "Total ": 42080,
+    "Per100K ": 15.6
+  },
+  {
+    "Name": "MOON ",
+    "Rank": 748,
+    "Total ": 42062,
+    "Per100K ": 15.59
+  },
+  {
+    "Name": "HENDRICKS ",
+    "Rank": 749,
+    "Total ": 41879,
+    "Per100K ": 15.52
+  },
+  {
+    "Name": "RANGEL ",
+    "Rank": 750,
+    "Total ": 41868,
+    "Per100K ": 15.52
+  },
+  {
+    "Name": "STARK ",
+    "Rank": 751,
+    "Total ": 41863,
+    "Per100K ": 15.52
+  },
+  {
+    "Name": "LOWERY ",
+    "Rank": 752,
+    "Total ": 41670,
+    "Per100K ": 15.45
+  },
+  {
+    "Name": "HARDIN ",
+    "Rank": 753,
+    "Total ": 41664,
+    "Per100K ": 15.44
+  },
+  {
+    "Name": "HULL ",
+    "Rank": 754,
+    "Total ": 41656,
+    "Per100K ": 15.44
+  },
+  {
+    "Name": "SELLERS ",
+    "Rank": 755,
+    "Total ": 41561,
+    "Per100K ": 15.41
+  },
+  {
+    "Name": "ELLISON ",
+    "Rank": 756,
+    "Total ": 41459,
+    "Per100K ": 15.37
+  },
+  {
+    "Name": "CALHOUN ",
+    "Rank": 757,
+    "Total ": 41452,
+    "Per100K ": 15.37
+  },
+  {
+    "Name": "GILLESPIE ",
+    "Rank": 758,
+    "Total ": 41393,
+    "Per100K ": 15.34
+  },
+  {
+    "Name": "MORA ",
+    "Rank": 759,
+    "Total ": 41348,
+    "Per100K ": 15.33
+  },
+  {
+    "Name": "KNAPP ",
+    "Rank": 760,
+    "Total ": 41267,
+    "Per100K ": 15.3
+  },
+  {
+    "Name": "MCCALL ",
+    "Rank": 761,
+    "Total ": 41231,
+    "Per100K ": 15.28
+  },
+  {
+    "Name": "MORSE ",
+    "Rank": 762,
+    "Total ": 41112,
+    "Per100K ": 15.24
+  },
+  {
+    "Name": "DORSEY ",
+    "Rank": 763,
+    "Total ": 41104,
+    "Per100K ": 15.24
+  },
+  {
+    "Name": "WEEKS ",
+    "Rank": 764,
+    "Total ": 41053,
+    "Per100K ": 15.22
+  },
+  {
+    "Name": "NIELSEN ",
+    "Rank": 765,
+    "Total ": 41007,
+    "Per100K ": 15.2
+  },
+  {
+    "Name": "LIVINGSTON ",
+    "Rank": 766,
+    "Total ": 40964,
+    "Per100K ": 15.19
+  },
+  {
+    "Name": "LEBLANC ",
+    "Rank": 767,
+    "Total ": 40923,
+    "Per100K ": 15.17
+  },
+  {
+    "Name": "MCLEAN ",
+    "Rank": 768,
+    "Total ": 40871,
+    "Per100K ": 15.15
+  },
+  {
+    "Name": "BRADSHAW ",
+    "Rank": 769,
+    "Total ": 40794,
+    "Per100K ": 15.12
+  },
+  {
+    "Name": "GLASS ",
+    "Rank": 770,
+    "Total ": 40724,
+    "Per100K ": 15.1
+  },
+  {
+    "Name": "MIDDLETON ",
+    "Rank": 771,
+    "Total ": 40708,
+    "Per100K ": 15.09
+  },
+  {
+    "Name": "BUCKLEY ",
+    "Rank": 772,
+    "Total ": 40706,
+    "Per100K ": 15.09
+  },
+  {
+    "Name": "SCHAEFER ",
+    "Rank": 773,
+    "Total ": 40663,
+    "Per100K ": 15.07
+  },
+  {
+    "Name": "FROST ",
+    "Rank": 774,
+    "Total ": 40582,
+    "Per100K ": 15.04
+  },
+  {
+    "Name": "HOWE ",
+    "Rank": 775,
+    "Total ": 40555,
+    "Per100K ": 15.03
+  },
+  {
+    "Name": "HOUSE ",
+    "Rank": 776,
+    "Total ": 40477,
+    "Per100K ": 15
+  },
+  {
+    "Name": "MCINTOSH ",
+    "Rank": 777,
+    "Total ": 40453,
+    "Per100K ": 15
+  },
+  {
+    "Name": "HO ",
+    "Rank": 778,
+    "Total ": 40413,
+    "Per100K ": 14.98
+  },
+  {
+    "Name": "PENNINGTON ",
+    "Rank": 779,
+    "Total ": 40339,
+    "Per100K ": 14.95
+  },
+  {
+    "Name": "REILLY ",
+    "Rank": 780,
+    "Total ": 40310,
+    "Per100K ": 14.94
+  },
+  {
+    "Name": "HEBERT ",
+    "Rank": 781,
+    "Total ": 40283,
+    "Per100K ": 14.93
+  },
+  {
+    "Name": "MCFARLAND ",
+    "Rank": 782,
+    "Total ": 40244,
+    "Per100K ": 14.92
+  },
+  {
+    "Name": "HICKMAN ",
+    "Rank": 783,
+    "Total ": 40224,
+    "Per100K ": 14.91
+  },
+  {
+    "Name": "NOBLE ",
+    "Rank": 784,
+    "Total ": 40217,
+    "Per100K ": 14.91
+  },
+  {
+    "Name": "SPEARS ",
+    "Rank": 785,
+    "Total ": 40203,
+    "Per100K ": 14.9
+  },
+  {
+    "Name": "CONRAD ",
+    "Rank": 786,
+    "Total ": 40102,
+    "Per100K ": 14.87
+  },
+  {
+    "Name": "ARIAS ",
+    "Rank": 787,
+    "Total ": 40086,
+    "Per100K ": 14.86
+  },
+  {
+    "Name": "GALVAN ",
+    "Rank": 788,
+    "Total ": 40046,
+    "Per100K ": 14.84
+  },
+  {
+    "Name": "VELAZQUEZ ",
+    "Rank": 789,
+    "Total ": 40030,
+    "Per100K ": 14.84
+  },
+  {
+    "Name": "HUYNH ",
+    "Rank": 790,
+    "Total ": 40011,
+    "Per100K ": 14.83
+  },
+  {
+    "Name": "FREDERICK ",
+    "Rank": 791,
+    "Total ": 39909,
+    "Per100K ": 14.79
+  },
+  {
+    "Name": "RANDOLPH ",
+    "Rank": 792,
+    "Total ": 39742,
+    "Per100K ": 14.73
+  },
+  {
+    "Name": "CANTU ",
+    "Rank": 793,
+    "Total ": 39601,
+    "Per100K ": 14.68
+  },
+  {
+    "Name": "FITZPATRICK ",
+    "Rank": 794,
+    "Total ": 39501,
+    "Per100K ": 14.64
+  },
+  {
+    "Name": "MAHONEY ",
+    "Rank": 795,
+    "Total ": 39440,
+    "Per100K ": 14.62
+  },
+  {
+    "Name": "PECK ",
+    "Rank": 796,
+    "Total ": 39432,
+    "Per100K ": 14.62
+  },
+  {
+    "Name": "VILLA ",
+    "Rank": 797,
+    "Total ": 39402,
+    "Per100K ": 14.61
+  },
+  {
+    "Name": "MICHAEL ",
+    "Rank": 798,
+    "Total ": 39369,
+    "Per100K ": 14.59
+  },
+  {
+    "Name": "DONOVAN ",
+    "Rank": 799,
+    "Total ": 39270,
+    "Per100K ": 14.56
+  },
+  {
+    "Name": "MCCONNELL ",
+    "Rank": 800,
+    "Total ": 39203,
+    "Per100K ": 14.53
+  },
+  {
+    "Name": "WALLS ",
+    "Rank": 801,
+    "Total ": 39166,
+    "Per100K ": 14.52
+  },
+  {
+    "Name": "BOYLE ",
+    "Rank": 802,
+    "Total ": 39141,
+    "Per100K ": 14.51
+  },
+  {
+    "Name": "MAYER ",
+    "Rank": 803,
+    "Total ": 39111,
+    "Per100K ": 14.5
+  },
+  {
+    "Name": "ZUNIGA ",
+    "Rank": 804,
+    "Total ": 39057,
+    "Per100K ": 14.48
+  },
+  {
+    "Name": "GILES ",
+    "Rank": 805,
+    "Total ": 39002,
+    "Per100K ": 14.46
+  },
+  {
+    "Name": "PINEDA ",
+    "Rank": 806,
+    "Total ": 38999,
+    "Per100K ": 14.46
+  },
+  {
+    "Name": "PACE ",
+    "Rank": 807,
+    "Total ": 38975,
+    "Per100K ": 14.45
+  },
+  {
+    "Name": "HURLEY ",
+    "Rank": 808,
+    "Total ": 38971,
+    "Per100K ": 14.45
+  },
+  {
+    "Name": "MAYS ",
+    "Rank": 809,
+    "Total ": 38914,
+    "Per100K ": 14.43
+  },
+  {
+    "Name": "MCMILLAN ",
+    "Rank": 810,
+    "Total ": 38896,
+    "Per100K ": 14.42
+  },
+  {
+    "Name": "CROSBY ",
+    "Rank": 811,
+    "Total ": 38844,
+    "Per100K ": 14.4
+  },
+  {
+    "Name": "AYERS ",
+    "Rank": 812,
+    "Total ": 38836,
+    "Per100K ": 14.4
+  },
+  {
+    "Name": "CASE ",
+    "Rank": 813,
+    "Total ": 38759,
+    "Per100K ": 14.37
+  },
+  {
+    "Name": "BENTLEY ",
+    "Rank": 814,
+    "Total ": 38714,
+    "Per100K ": 14.35
+  },
+  {
+    "Name": "SHEPARD ",
+    "Rank": 815,
+    "Total ": 38705,
+    "Per100K ": 14.35
+  },
+  {
+    "Name": "EVERETT ",
+    "Rank": 816,
+    "Total ": 38702,
+    "Per100K ": 14.35
+  },
+  {
+    "Name": "PUGH ",
+    "Rank": 817,
+    "Total ": 38691,
+    "Per100K ": 14.34
+  },
+  {
+    "Name": "DAVID ",
+    "Rank": 818,
+    "Total ": 38659,
+    "Per100K ": 14.33
+  },
+  {
+    "Name": "MCMAHON ",
+    "Rank": 819,
+    "Total ": 38557,
+    "Per100K ": 14.29
+  },
+  {
+    "Name": "DUNLAP ",
+    "Rank": 820,
+    "Total ": 38516,
+    "Per100K ": 14.28
+  },
+  {
+    "Name": "BENDER ",
+    "Rank": 821,
+    "Total ": 38464,
+    "Per100K ": 14.26
+  },
+  {
+    "Name": "HAHN ",
+    "Rank": 822,
+    "Total ": 38354,
+    "Per100K ": 14.22
+  },
+  {
+    "Name": "HARDING ",
+    "Rank": 823,
+    "Total ": 38340,
+    "Per100K ": 14.21
+  },
+  {
+    "Name": "ACEVEDO ",
+    "Rank": 824,
+    "Total ": 38232,
+    "Per100K ": 14.17
+  },
+  {
+    "Name": "RAYMOND ",
+    "Rank": 825,
+    "Total ": 38158,
+    "Per100K ": 14.15
+  },
+  {
+    "Name": "BLACKBURN ",
+    "Rank": 826,
+    "Total ": 38137,
+    "Per100K ": 14.14
+  },
+  {
+    "Name": "DUFFY ",
+    "Rank": 827,
+    "Total ": 37962,
+    "Per100K ": 14.07
+  },
+  {
+    "Name": "LANDRY ",
+    "Rank": 828,
+    "Total ": 37961,
+    "Per100K ": 14.07
+  },
+  {
+    "Name": "DOUGHERTY ",
+    "Rank": 829,
+    "Total ": 37903,
+    "Per100K ": 14.05
+  },
+  {
+    "Name": "BAUTISTA ",
+    "Rank": 830,
+    "Total ": 37847,
+    "Per100K ": 14.03
+  },
+  {
+    "Name": "SHAH ",
+    "Rank": 831,
+    "Total ": 37833,
+    "Per100K ": 14.02
+  },
+  {
+    "Name": "POTTS ",
+    "Rank": 832,
+    "Total ": 37687,
+    "Per100K ": 13.97
+  },
+  {
+    "Name": "ARROYO ",
+    "Rank": 833,
+    "Total ": 37678,
+    "Per100K ": 13.97
+  },
+  {
+    "Name": "VALENTINE ",
+    "Rank": 834,
+    "Total ": 37669,
+    "Per100K ": 13.96
+  },
+  {
+    "Name": "MEZA ",
+    "Rank": 835,
+    "Total ": 37662,
+    "Per100K ": 13.96
+  },
+  {
+    "Name": "GOULD ",
+    "Rank": 836,
+    "Total ": 37660,
+    "Per100K ": 13.96
+  },
+  {
+    "Name": "VAUGHAN ",
+    "Rank": 837,
+    "Total ": 37591,
+    "Per100K ": 13.93
+  },
+  {
+    "Name": "FRY ",
+    "Rank": 838,
+    "Total ": 37542,
+    "Per100K ": 13.92
+  },
+  {
+    "Name": "RUSH ",
+    "Rank": 839,
+    "Total ": 37470,
+    "Per100K ": 13.89
+  },
+  {
+    "Name": "AVERY ",
+    "Rank": 840,
+    "Total ": 37440,
+    "Per100K ": 13.88
+  },
+  {
+    "Name": "HERRING ",
+    "Rank": 841,
+    "Total ": 37353,
+    "Per100K ": 13.85
+  },
+  {
+    "Name": "DODSON ",
+    "Rank": 842,
+    "Total ": 37298,
+    "Per100K ": 13.83
+  },
+  {
+    "Name": "CLEMENTS ",
+    "Rank": 843,
+    "Total ": 37237,
+    "Per100K ": 13.8
+  },
+  {
+    "Name": "SAMPSON ",
+    "Rank": 844,
+    "Total ": 37234,
+    "Per100K ": 13.8
+  },
+  {
+    "Name": "TAPIA ",
+    "Rank": 845,
+    "Total ": 37201,
+    "Per100K ": 13.79
+  },
+  {
+    "Name": "BEAN ",
+    "Rank": 846,
+    "Total ": 37145,
+    "Per100K ": 13.77
+  },
+  {
+    "Name": "LYNN ",
+    "Rank": 847,
+    "Total ": 37125,
+    "Per100K ": 13.76
+  },
+  {
+    "Name": "CRANE ",
+    "Rank": 848,
+    "Total ": 37123,
+    "Per100K ": 13.76
+  },
+  {
+    "Name": "FARLEY ",
+    "Rank": 849,
+    "Total ": 37116,
+    "Per100K ": 13.76
+  },
+  {
+    "Name": "CISNEROS ",
+    "Rank": 850,
+    "Total ": 37050,
+    "Per100K ": 13.73
+  },
+  {
+    "Name": "BENTON ",
+    "Rank": 851,
+    "Total ": 37032,
+    "Per100K ": 13.73
+  },
+  {
+    "Name": "ASHLEY ",
+    "Rank": 852,
+    "Total ": 37021,
+    "Per100K ": 13.72
+  },
+  {
+    "Name": "MCKAY ",
+    "Rank": 853,
+    "Total ": 36948,
+    "Per100K ": 13.7
+  },
+  {
+    "Name": "FINLEY ",
+    "Rank": 854,
+    "Total ": 36874,
+    "Per100K ": 13.67
+  },
+  {
+    "Name": "BEST ",
+    "Rank": 855,
+    "Total ": 36862,
+    "Per100K ": 13.66
+  },
+  {
+    "Name": "BLEVINS ",
+    "Rank": 856,
+    "Total ": 36841,
+    "Per100K ": 13.66
+  },
+  {
+    "Name": "FRIEDMAN ",
+    "Rank": 857,
+    "Total ": 36833,
+    "Per100K ": 13.65
+  },
+  {
+    "Name": "MOSES ",
+    "Rank": 858,
+    "Total ": 36814,
+    "Per100K ": 13.65
+  },
+  {
+    "Name": "SOSA ",
+    "Rank": 859,
+    "Total ": 36813,
+    "Per100K ": 13.65
+  },
+  {
+    "Name": "BLANCHARD ",
+    "Rank": 860,
+    "Total ": 36764,
+    "Per100K ": 13.63
+  },
+  {
+    "Name": "HUBER ",
+    "Rank": 861,
+    "Total ": 36729,
+    "Per100K ": 13.62
+  },
+  {
+    "Name": "FRYE ",
+    "Rank": 862,
+    "Total ": 36716,
+    "Per100K ": 13.61
+  },
+  {
+    "Name": "KRUEGER ",
+    "Rank": 863,
+    "Total ": 36694,
+    "Per100K ": 13.6
+  },
+  {
+    "Name": "BERNARD ",
+    "Rank": 864,
+    "Total ": 36546,
+    "Per100K ": 13.55
+  },
+  {
+    "Name": "ROSARIO ",
+    "Rank": 865,
+    "Total ": 36539,
+    "Per100K ": 13.54
+  },
+  {
+    "Name": "RUBIO ",
+    "Rank": 866,
+    "Total ": 36531,
+    "Per100K ": 13.54
+  },
+  {
+    "Name": "MULLEN ",
+    "Rank": 867,
+    "Total ": 36442,
+    "Per100K ": 13.51
+  },
+  {
+    "Name": "BENJAMIN ",
+    "Rank": 868,
+    "Total ": 36439,
+    "Per100K ": 13.51
+  },
+  {
+    "Name": "HALEY ",
+    "Rank": 869,
+    "Total ": 36433,
+    "Per100K ": 13.51
+  },
+  {
+    "Name": "CHUNG ",
+    "Rank": 870,
+    "Total ": 36422,
+    "Per100K ": 13.5
+  },
+  {
+    "Name": "MOYER ",
+    "Rank": 871,
+    "Total ": 36421,
+    "Per100K ": 13.5
+  },
+  {
+    "Name": "CHOI ",
+    "Rank": 872,
+    "Total ": 36390,
+    "Per100K ": 13.49
+  },
+  {
+    "Name": "HORNE ",
+    "Rank": 873,
+    "Total ": 36288,
+    "Per100K ": 13.45
+  },
+  {
+    "Name": "YU ",
+    "Rank": 874,
+    "Total ": 36285,
+    "Per100K ": 13.45
+  },
+  {
+    "Name": "WOODWARD ",
+    "Rank": 875,
+    "Total ": 36242,
+    "Per100K ": 13.43
+  },
+  {
+    "Name": "ALI ",
+    "Rank": 876,
+    "Total ": 36079,
+    "Per100K ": 13.37
+  },
+  {
+    "Name": "NIXON ",
+    "Rank": 877,
+    "Total ": 36037,
+    "Per100K ": 13.36
+  },
+  {
+    "Name": "HAYDEN ",
+    "Rank": 878,
+    "Total ": 36024,
+    "Per100K ": 13.35
+  },
+  {
+    "Name": "RIVERS ",
+    "Rank": 879,
+    "Total ": 35980,
+    "Per100K ": 13.34
+  },
+  {
+    "Name": "ESTES ",
+    "Rank": 880,
+    "Total ": 35839,
+    "Per100K ": 13.29
+  },
+  {
+    "Name": "MCCARTY ",
+    "Rank": 881,
+    "Total ": 35718,
+    "Per100K ": 13.24
+  },
+  {
+    "Name": "RICHMOND ",
+    "Rank": 882,
+    "Total ": 35715,
+    "Per100K ": 13.24
+  },
+  {
+    "Name": "STUART ",
+    "Rank": 883,
+    "Total ": 35701,
+    "Per100K ": 13.23
+  },
+  {
+    "Name": "MAYNARD ",
+    "Rank": 884,
+    "Total ": 35648,
+    "Per100K ": 13.21
+  },
+  {
+    "Name": "BRANDT ",
+    "Rank": 885,
+    "Total ": 35616,
+    "Per100K ": 13.2
+  },
+  {
+    "Name": "OCONNELL ",
+    "Rank": 886,
+    "Total ": 35610,
+    "Per100K ": 13.2
+  },
+  {
+    "Name": "HANNA ",
+    "Rank": 887,
+    "Total ": 35599,
+    "Per100K ": 13.2
+  },
+  {
+    "Name": "SANFORD ",
+    "Rank": 888,
+    "Total ": 35565,
+    "Per100K ": 13.18
+  },
+  {
+    "Name": "SHEPPARD ",
+    "Rank": 889,
+    "Total ": 35554,
+    "Per100K ": 13.18
+  },
+  {
+    "Name": "CHURCH ",
+    "Rank": 890,
+    "Total ": 35539,
+    "Per100K ": 13.17
+  },
+  {
+    "Name": "BURCH ",
+    "Rank": 891,
+    "Total ": 35521,
+    "Per100K ": 13.17
+  },
+  {
+    "Name": "LEVY ",
+    "Rank": 892,
+    "Total ": 35464,
+    "Per100K ": 13.15
+  },
+  {
+    "Name": "RASMUSSEN ",
+    "Rank": 893,
+    "Total ": 35453,
+    "Per100K ": 13.14
+  },
+  {
+    "Name": "COFFEY ",
+    "Rank": 894,
+    "Total ": 35442,
+    "Per100K ": 13.14
+  },
+  {
+    "Name": "PONCE ",
+    "Rank": 895,
+    "Total ": 35400,
+    "Per100K ": 13.12
+  },
+  {
+    "Name": "FAULKNER ",
+    "Rank": 896,
+    "Total ": 35389,
+    "Per100K ": 13.12
+  },
+  {
+    "Name": "DONALDSON ",
+    "Rank": 897,
+    "Total ": 35387,
+    "Per100K ": 13.12
+  },
+  {
+    "Name": "SCHMITT ",
+    "Rank": 898,
+    "Total ": 35326,
+    "Per100K ": 13.1
+  },
+  {
+    "Name": "NOVAK ",
+    "Rank": 899,
+    "Total ": 35282,
+    "Per100K ": 13.08
+  },
+  {
+    "Name": "COSTA ",
+    "Rank": 900,
+    "Total ": 35227,
+    "Per100K ": 13.06
+  },
+  {
+    "Name": "MONTES ",
+    "Rank": 901,
+    "Total ": 35196,
+    "Per100K ": 13.05
+  },
+  {
+    "Name": "BOOKER ",
+    "Rank": 902,
+    "Total ": 35101,
+    "Per100K ": 13.01
+  },
+  {
+    "Name": "CORDOVA ",
+    "Rank": 903,
+    "Total ": 35074,
+    "Per100K ": 13
+  },
+  {
+    "Name": "WALLER ",
+    "Rank": 904,
+    "Total ": 35001,
+    "Per100K ": 12.97
+  },
+  {
+    "Name": "ARELLANO ",
+    "Rank": 905,
+    "Total ": 34999,
+    "Per100K ": 12.97
+  },
+  {
+    "Name": "MADDOX ",
+    "Rank": 906,
+    "Total ": 34970,
+    "Per100K ": 12.96
+  },
+  {
+    "Name": "MATA ",
+    "Rank": 907,
+    "Total ": 34888,
+    "Per100K ": 12.93
+  },
+  {
+    "Name": "BONILLA ",
+    "Rank": 908,
+    "Total ": 34824,
+    "Per100K ": 12.91
+  },
+  {
+    "Name": "STANTON ",
+    "Rank": 909,
+    "Total ": 34812,
+    "Per100K ": 12.9
+  },
+  {
+    "Name": "COMPTON ",
+    "Rank": 910,
+    "Total ": 34788,
+    "Per100K ": 12.9
+  },
+  {
+    "Name": "KAUFMAN ",
+    "Rank": 911,
+    "Total ": 34786,
+    "Per100K ": 12.9
+  },
+  {
+    "Name": "DUDLEY ",
+    "Rank": 912,
+    "Total ": 34770,
+    "Per100K ": 12.89
+  },
+  {
+    "Name": "MCPHERSON ",
+    "Rank": 913,
+    "Total ": 34763,
+    "Per100K ": 12.89
+  },
+  {
+    "Name": "BELTRAN ",
+    "Rank": 914,
+    "Total ": 34736,
+    "Per100K ": 12.88
+  },
+  {
+    "Name": "DICKSON ",
+    "Rank": 915,
+    "Total ": 34698,
+    "Per100K ": 12.86
+  },
+  {
+    "Name": "MCCANN ",
+    "Rank": 916,
+    "Total ": 34692,
+    "Per100K ": 12.86
+  },
+  {
+    "Name": "VILLEGAS ",
+    "Rank": 917,
+    "Total ": 34684,
+    "Per100K ": 12.86
+  },
+  {
+    "Name": "PROCTOR ",
+    "Rank": 918,
+    "Total ": 34682,
+    "Per100K ": 12.86
+  },
+  {
+    "Name": "HESTER ",
+    "Rank": 919,
+    "Total ": 34675,
+    "Per100K ": 12.85
+  },
+  {
+    "Name": "CANTRELL ",
+    "Rank": 920,
+    "Total ": 34674,
+    "Per100K ": 12.85
+  },
+  {
+    "Name": "DAUGHERTY ",
+    "Rank": 921,
+    "Total ": 34650,
+    "Per100K ": 12.84
+  },
+  {
+    "Name": "CHERRY ",
+    "Rank": 922,
+    "Total ": 34615,
+    "Per100K ": 12.83
+  },
+  {
+    "Name": "BRAY ",
+    "Rank": 923,
+    "Total ": 34575,
+    "Per100K ": 12.82
+  },
+  {
+    "Name": "DAVILA ",
+    "Rank": 924,
+    "Total ": 34541,
+    "Per100K ": 12.8
+  },
+  {
+    "Name": "ROWLAND ",
+    "Rank": 925,
+    "Total ": 34498,
+    "Per100K ": 12.79
+  },
+  {
+    "Name": "LEVINE ",
+    "Rank": 926,
+    "Total ": 34472,
+    "Per100K ": 12.78
+  },
+  {
+    "Name": "MADDEN ",
+    "Rank": 926,
+    "Total ": 34472,
+    "Per100K ": 12.78
+  },
+  {
+    "Name": "SPENCE ",
+    "Rank": 928,
+    "Total ": 34435,
+    "Per100K ": 12.76
+  },
+  {
+    "Name": "GOOD ",
+    "Rank": 929,
+    "Total ": 34430,
+    "Per100K ": 12.76
+  },
+  {
+    "Name": "IRWIN ",
+    "Rank": 930,
+    "Total ": 34374,
+    "Per100K ": 12.74
+  },
+  {
+    "Name": "WERNER ",
+    "Rank": 931,
+    "Total ": 34352,
+    "Per100K ": 12.73
+  },
+  {
+    "Name": "KRAUSE ",
+    "Rank": 932,
+    "Total ": 34345,
+    "Per100K ": 12.73
+  },
+  {
+    "Name": "PETTY ",
+    "Rank": 933,
+    "Total ": 34278,
+    "Per100K ": 12.71
+  },
+  {
+    "Name": "WHITNEY ",
+    "Rank": 934,
+    "Total ": 34251,
+    "Per100K ": 12.7
+  },
+  {
+    "Name": "BAIRD ",
+    "Rank": 935,
+    "Total ": 34233,
+    "Per100K ": 12.69
+  },
+  {
+    "Name": "HOOPER ",
+    "Rank": 936,
+    "Total ": 34084,
+    "Per100K ": 12.63
+  },
+  {
+    "Name": "POLLARD ",
+    "Rank": 937,
+    "Total ": 34079,
+    "Per100K ": 12.63
+  },
+  {
+    "Name": "ZAVALA ",
+    "Rank": 938,
+    "Total ": 34068,
+    "Per100K ": 12.63
+  },
+  {
+    "Name": "JARVIS ",
+    "Rank": 939,
+    "Total ": 34050,
+    "Per100K ": 12.62
+  },
+  {
+    "Name": "HOLDEN ",
+    "Rank": 940,
+    "Total ": 34041,
+    "Per100K ": 12.62
+  },
+  {
+    "Name": "HAAS ",
+    "Rank": 941,
+    "Total ": 34032,
+    "Per100K ": 12.62
+  },
+  {
+    "Name": "HENDRIX ",
+    "Rank": 941,
+    "Total ": 34032,
+    "Per100K ": 12.62
+  },
+  {
+    "Name": "MCGRATH ",
+    "Rank": 943,
+    "Total ": 34031,
+    "Per100K ": 12.62
+  },
+  {
+    "Name": "BIRD ",
+    "Rank": 944,
+    "Total ": 33962,
+    "Per100K ": 12.59
+  },
+  {
+    "Name": "LUCERO ",
+    "Rank": 945,
+    "Total ": 33922,
+    "Per100K ": 12.57
+  },
+  {
+    "Name": "TERRELL ",
+    "Rank": 946,
+    "Total ": 33914,
+    "Per100K ": 12.57
+  },
+  {
+    "Name": "RIGGS ",
+    "Rank": 947,
+    "Total ": 33868,
+    "Per100K ": 12.55
+  },
+  {
+    "Name": "JOYCE ",
+    "Rank": 948,
+    "Total ": 33843,
+    "Per100K ": 12.55
+  },
+  {
+    "Name": "MERCER ",
+    "Rank": 949,
+    "Total ": 33797,
+    "Per100K ": 12.53
+  },
+  {
+    "Name": "ROLLINS ",
+    "Rank": 949,
+    "Total ": 33797,
+    "Per100K ": 12.53
+  },
+  {
+    "Name": "GALLOWAY ",
+    "Rank": 951,
+    "Total ": 33773,
+    "Per100K ": 12.52
+  },
+  {
+    "Name": "DUKE ",
+    "Rank": 952,
+    "Total ": 33745,
+    "Per100K ": 12.51
+  },
+  {
+    "Name": "ODOM ",
+    "Rank": 953,
+    "Total ": 33717,
+    "Per100K ": 12.5
+  },
+  {
+    "Name": "ANDERSEN ",
+    "Rank": 954,
+    "Total ": 33508,
+    "Per100K ": 12.42
+  },
+  {
+    "Name": "DOWNS ",
+    "Rank": 955,
+    "Total ": 33494,
+    "Per100K ": 12.42
+  },
+  {
+    "Name": "HATFIELD ",
+    "Rank": 956,
+    "Total ": 33464,
+    "Per100K ": 12.41
+  },
+  {
+    "Name": "BENITEZ ",
+    "Rank": 957,
+    "Total ": 33441,
+    "Per100K ": 12.4
+  },
+  {
+    "Name": "ARCHER ",
+    "Rank": 958,
+    "Total ": 33411,
+    "Per100K ": 12.39
+  },
+  {
+    "Name": "HUERTA ",
+    "Rank": 959,
+    "Total ": 33348,
+    "Per100K ": 12.36
+  },
+  {
+    "Name": "TRAVIS ",
+    "Rank": 960,
+    "Total ": 33339,
+    "Per100K ": 12.36
+  },
+  {
+    "Name": "MCNEIL ",
+    "Rank": 961,
+    "Total ": 33239,
+    "Per100K ": 12.32
+  },
+  {
+    "Name": "HINTON ",
+    "Rank": 962,
+    "Total ": 33209,
+    "Per100K ": 12.31
+  },
+  {
+    "Name": "ZHANG ",
+    "Rank": 963,
+    "Total ": 33202,
+    "Per100K ": 12.31
+  },
+  {
+    "Name": "HAYS ",
+    "Rank": 964,
+    "Total ": 33194,
+    "Per100K ": 12.3
+  },
+  {
+    "Name": "MAYO ",
+    "Rank": 965,
+    "Total ": 33126,
+    "Per100K ": 12.28
+  },
+  {
+    "Name": "FRITZ ",
+    "Rank": 966,
+    "Total ": 33068,
+    "Per100K ": 12.26
+  },
+  {
+    "Name": "BRANCH ",
+    "Rank": 967,
+    "Total ": 33040,
+    "Per100K ": 12.25
+  },
+  {
+    "Name": "MOONEY ",
+    "Rank": 968,
+    "Total ": 32953,
+    "Per100K ": 12.22
+  },
+  {
+    "Name": "EWING ",
+    "Rank": 969,
+    "Total ": 32925,
+    "Per100K ": 12.21
+  },
+  {
+    "Name": "RITTER ",
+    "Rank": 970,
+    "Total ": 32864,
+    "Per100K ": 12.18
+  },
+  {
+    "Name": "ESPARZA ",
+    "Rank": 971,
+    "Total ": 32772,
+    "Per100K ": 12.15
+  },
+  {
+    "Name": "FREY ",
+    "Rank": 972,
+    "Total ": 32735,
+    "Per100K ": 12.13
+  },
+  {
+    "Name": "BRAUN ",
+    "Rank": 973,
+    "Total ": 32676,
+    "Per100K ": 12.11
+  },
+  {
+    "Name": "GAY ",
+    "Rank": 974,
+    "Total ": 32672,
+    "Per100K ": 12.11
+  },
+  {
+    "Name": "RIDDLE ",
+    "Rank": 975,
+    "Total ": 32654,
+    "Per100K ": 12.1
+  },
+  {
+    "Name": "HANEY ",
+    "Rank": 976,
+    "Total ": 32644,
+    "Per100K ": 12.1
+  },
+  {
+    "Name": "KAISER ",
+    "Rank": 977,
+    "Total ": 32567,
+    "Per100K ": 12.07
+  },
+  {
+    "Name": "HOLDER ",
+    "Rank": 978,
+    "Total ": 32466,
+    "Per100K ": 12.04
+  },
+  {
+    "Name": "CHANEY ",
+    "Rank": 979,
+    "Total ": 32433,
+    "Per100K ": 12.02
+  },
+  {
+    "Name": "MCKNIGHT ",
+    "Rank": 980,
+    "Total ": 32386,
+    "Per100K ": 12.01
+  },
+  {
+    "Name": "GAMBLE ",
+    "Rank": 981,
+    "Total ": 32377,
+    "Per100K ": 12
+  },
+  {
+    "Name": "VANG ",
+    "Rank": 982,
+    "Total ": 32333,
+    "Per100K ": 11.99
+  },
+  {
+    "Name": "COOLEY ",
+    "Rank": 983,
+    "Total ": 32287,
+    "Per100K ": 11.97
+  },
+  {
+    "Name": "CARNEY ",
+    "Rank": 984,
+    "Total ": 32282,
+    "Per100K ": 11.97
+  },
+  {
+    "Name": "COWAN ",
+    "Rank": 985,
+    "Total ": 32242,
+    "Per100K ": 11.95
+  },
+  {
+    "Name": "FORBES ",
+    "Rank": 986,
+    "Total ": 32228,
+    "Per100K ": 11.95
+  },
+  {
+    "Name": "FERRELL ",
+    "Rank": 987,
+    "Total ": 32174,
+    "Per100K ": 11.93
+  },
+  {
+    "Name": "DAVIES ",
+    "Rank": 988,
+    "Total ": 32165,
+    "Per100K ": 11.92
+  },
+  {
+    "Name": "BARAJAS ",
+    "Rank": 989,
+    "Total ": 32147,
+    "Per100K ": 11.92
+  },
+  {
+    "Name": "SHEA ",
+    "Rank": 990,
+    "Total ": 32069,
+    "Per100K ": 11.89
+  },
+  {
+    "Name": "OSBORN ",
+    "Rank": 991,
+    "Total ": 32044,
+    "Per100K ": 11.88
+  },
+  {
+    "Name": "BRIGHT ",
+    "Rank": 992,
+    "Total ": 32042,
+    "Per100K ": 11.88
+  },
+  {
+    "Name": "CUEVAS ",
+    "Rank": 993,
+    "Total ": 32015,
+    "Per100K ": 11.87
+  },
+  {
+    "Name": "BOLTON ",
+    "Rank": 994,
+    "Total ": 31995,
+    "Per100K ": 11.86
+  },
+  {
+    "Name": "MURILLO ",
+    "Rank": 995,
+    "Total ": 31964,
+    "Per100K ": 11.85
+  },
+  {
+    "Name": "LUTZ ",
+    "Rank": 996,
+    "Total ": 31940,
+    "Per100K ": 11.84
+  },
+  {
+    "Name": "DUARTE ",
+    "Rank": 997,
+    "Total ": 31896,
+    "Per100K ": 11.82
+  },
+  {
+    "Name": "KIDD ",
+    "Rank": 998,
+    "Total ": 31886,
+    "Per100K ": 11.82
+  },
+  {
+    "Name": "KEY ",
+    "Rank": 999,
+    "Total ": 31882,
+    "Per100K ": 11.82
+  },
+  {
+    "Name": "COOKE ",
+    "Rank": 1000,
+    "Total ": 31860,
+    "Per100K ": 11.81
+  }
+]

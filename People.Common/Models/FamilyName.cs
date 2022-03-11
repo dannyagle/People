@@ -1,10 +1,9 @@
-﻿namespace People.Common.Models
+﻿namespace People.Common.Models;
+
+internal class FamilyName : INameRecord
 {
-    public class FamilyName
-    {
-        public string Name { get; set; }
-        public int Rank { get; set; }
-        public int Total { get; set; }
-        public decimal Per100K { get; set; }
-    }
+    public string Name { get; set; }
+    public int Rank { get; set; }
+    public int Total { get; set; }
+    public decimal Per100K { get; set; }
 }
